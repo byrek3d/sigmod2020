@@ -1,0 +1,54 @@
+George
+
+wex (147): screen size inches, screen resolution pixels, megapixels
+
+price_hunt (327) : lcd screen size, brand, type, optical sensor resolution in megapixel, image display resolution, weight, dimensions
+
+henry's (181) : camera type, effective pixels
+
+flipkart (157) : brand, lcd screen size, image display resolution
+
+buy.net (358) : lcd screen size, camera type, effective megapixels, height, width, depth, weight, total pixels (like dots thing)
+
+ilgs.net (102) : manufacturer, short description, megapixel, weight
+
+walmart (195) : product in inches l x w x h, shipping weight in pounds
+
+pcconnection.com (211) : camera type, display size, megapixels
+
+cammarkt.com (198) : brand, manufacturer, weight, lcd screen size, height, depth, width
+
+Andrea:
+
+priceme.co.nz (740) : max image resolution
+
+gosale.com (1002) : product name, manufacturer, camera type, weight, magapixels, lcd screen size, dimensions
+
+garricks.com.au (130) : resolution, weight
+
+pricedekho.com (366) : screen size, image display resolution
+
+ukdigitalcameras.co.uk (129) : brand, camera resolution, lcd size
+
+camerafarm.com.au (120) : brand
+
+mypriceindia.com (347) : camera resolution
+
+Gerald:
+
+eglobalcentral.co.uk (571) : weight, dimensions w x h x d, max resolution, effective pixels
+
+shopbot.com.au (516) : dimensions, lcd size, sensor resolution, weight
+
+shopmania.in(630) : brand, product name, resolution, screen size
+
+cambuy.com.au (118) : dimensions w x h x d, weight
+
+buzzillions.com (832) : megapixels
+
+canon-europe (164) : save the brand
+
+alibaba (7172) : weight
+
+ebay (a lot) : TBD
+
