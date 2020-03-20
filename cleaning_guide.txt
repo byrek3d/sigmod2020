@@ -22,7 +22,7 @@ Andrea:
 
 priceme.co.nz (740) : max image resolution
 
-gosale.com (1002) : product name, manufacturer, camera type, weight, magapixels, lcd screen size, dimensions
+gosale.com (1002) : product name, manufacturer, camera type, weight, megapixels, lcd screen size, dimensions
 
 garricks.com.au (130) : resolution, weight
 
