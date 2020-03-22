@@ -50,5 +50,5 @@ canon-europe (164) : save the brand
 
 alibaba (7172) : weight
 
-ebay (a lot) : TBD
+ebay (a lot) : brand, megapixels, screen size, weight
 

@@ -1,0 +1,631 @@
+spec_id,brand,product name,resolution,screen size
+www.shopmania.in//1659,sony,"['sony', 'dscw630']",1,2.7
+www.shopmania.in//1120,samsung,"['samsung', 'es75']",2,2.7
+www.shopmania.in//1570,sony,"['sony', 'dscrx1']",3,3
+www.shopmania.in//1065,canon,"['canon', 'eos', '60d', 'kit', '1855mm']",18,3
+www.shopmania.in//1527,fujifilm,"['fujifilm', 'xq1']",12,3
+www.shopmania.in//1177,fujifilm,"['fujifilm', 'finepix', 's4800']",16,3
+www.shopmania.in//904,nikon,"['nikon', 'd7100', 'kit', '18140mm']",1,
+www.shopmania.in//1462,sony,"['sony', 'cybershot', 'dsch100']",1,3
+www.shopmania.in//1032,fujifilm,"['fujifilm', 'xs1']",12,3
+www.shopmania.in//1618,sony,"['sony', 'slta99', 'body']",3,3
+www.shopmania.in//1248,canon,"['canon', 'powershot', 'sx150']",1,3
+www.shopmania.in//1531,kodak,"['kodak', 'm522', 'kodak', 'm522']",14,2.7
+www.shopmania.in//1474,nikon,"['nikon', 'l310']",14,3
+www.shopmania.in//912,samsung,"['samsung', 'wb30f']",2,3
+www.shopmania.in//1136,canon,"['canon', 'eos', '650d', 'kit', '1855mm']",18,3
+www.shopmania.in//945,kodak,"['kodak', 'easyshare', 'c143', 'kodak', 'easyshare', 'c143']",12,2.7
+www.shopmania.in//1423,fujifilm,"['fujifilm', 'finepix', 'real', '3d', 'w3']",10,3.5
+www.shopmania.in//1589,olympus,"['olympus', 'vg150']",12,2.7
+www.shopmania.in//1264,canon,"['canon', 'eos', '1000d', 'body', 'canon', 'eos', '1000d', 'body']",1,2.5
+www.shopmania.in//894,sony,"['sony', 'slta77', 'kit', '18135mm']",3,3
+www.shopmania.in//1458,sony,"['sony', 'alpha', '7r', 'body']",36,3
+www.shopmania.in//1399,olympus,"['olympus', 'pen', 'epm2']",1,3
+www.shopmania.in//1663,casio,"['casio', 'exilim', 'hizoom', 'exh5', 'casio', 'exilim', 'hizoom', 'exh5']",1,2.7
+www.shopmania.in//1233,canon,"['canon', 'powershot', 'd10', 'canon', 'powershot', 'd10']",1,2.5
+www.shopmania.in//1726,canon,"['canon', 'eos', '600d', 'kit', '1855mm']",18,3
+www.shopmania.in//1376,nikon,"['nikon', '1', 'v1', 'kit', '1030mm', 'nikon', '1', 'v1', 'kit', '1030mm']",1,3
+www.shopmania.in//1225,sony,"['sony', 'slta65', 'body', 'sony', 'slta65', 'body']",3,3
+www.shopmania.in//640,nikon,"['nikon', 'coolpix', 'p600']",16,3
+www.shopmania.in//1360,canon,"['canon', 'powershot', 's90', 'canon', 'powershot', 's90']",10,3
+www.shopmania.in//705,panasonic,"['panasonic', 'lumix', 'dmcfh20', 'panasonic', 'lumix', 'dmcfh20']",14,2.7
+www.shopmania.in//1730,pentax,"['pentax', 'optio', 'ls465', 'pentax', 'optio', 'ls465']",16,2.7
+www.shopmania.in//1622,sony,"['sony', 'nex6', 'kit', '1650mm']",1,3
+www.shopmania.in//1272,canon,"['canon', 'eos1d', 'x', 'body']",1,3.2
+www.shopmania.in//1337,nikon,"['nikon', 's1200pj']",1,3
+www.shopmania.in//928,fujifilm,"['fujifilm', 'finepix', 'xp60']",16,2.7
+www.shopmania.in//882,vivitar,"['vivitar', 'vf128']",,
+www.shopmania.in//1086,kodak,"['kodak', 'easyshare', 'z981', 'kodak', 'easyshare', 'z981']",14,3
+www.shopmania.in//1069,nikon,"['nikon', 'd3300', 'body']",24,3
+www.shopmania.in//1710,sony,"['sony', 'cybershot', 'dsch20', 'sony', 'cybershot', 'dsch20']",1,3
+www.shopmania.in//1655,nikon,"['nikon', 'coolpix', 's8100', 'nikon', 'coolpix', 's8100']",1,3
+www.shopmania.in//660,olympus,"['olympus', 'sp820uz']",14,3
+www.shopmania.in//1481,olympus,"['olympus', 'sz30', 'olympus', 'sz30']",16,3
+www.shopmania.in//1194,nikon,"['nikon', 'coolpix', 'p330']",12,3
+www.shopmania.in//1317,canon,"['canon', 'eos', '7d', 'kit', '1585mm']",18,3
+www.shopmania.in//637,panasonic,"['panasonic', 'lumix', 'dmcts2', 'panasonic', 'lumix', 'dmcts2']",1,2.7
+www.shopmania.in//1497,fujifilm,"['fujifilm', 's3300', 'fujifilm', 's3300']",14,3
+www.shopmania.in//1182,nikon,"['nikon', 'coolpix', 'l21', 'nikon', 'coolpix', 'l21']",8,2.5
+www.shopmania.in//1478,nikon,"['nikon', '1', 'v1', 'kit', '1030mm', '30110mm']",1,3
+www.shopmania.in//1301,samsung,"['samsung', 'es60']",2,2.5
+www.shopmania.in//1244,sony,"['sony', 'cybershot', 'dsch300']",20,3
+www.shopmania.in//1614,fujifilm,"['fujifilm', 'ax550']",16,2.7
+www.shopmania.in//949,nikon,"['nikon', 'd3200', 'kit', '18105mm']",2,3
+www.shopmania.in//1706,sony,"['sony', 'dslra290', 'kit', '1855mm']",,
+www.shopmania.in//1643,canon,"['canon', 'eos', '5d', 'mark', 'ii', 'body']",21,3
+www.shopmania.in//1213,panasonic,"['panasonic', 'lumix', 'dmcfh10']",1,2.7
+www.shopmania.in//1004,fujifilm,"['fujifilm', 'finepix', 'f550exr', 'fujifilm', 'finepix', 'f550exr']",16,3
+www.shopmania.in//1454,fujifilm,"['fujifilm', 'finepix', 's1800', 'fujifilm', 'finepix', 's1800']",2,3
+www.shopmania.in//932,nikon,"['nikon', 'coolpix', 'l30']",20,3.2
+www.shopmania.in//898,sony,"['sony', 'dscwx70']",2,3
+www.shopmania.in//1141,nikon,"['nikon', 'd7100', 'kit', '18105mm']",24,3.2
+www.shopmania.in//1268,canon,"['canon', 'eos', 'kit', '1855mm', '22mm', 'speedlite', '90ex']",18,3
+www.shopmania.in//1287,olympus,"['olympus', 'vg110', 'olympus', 'vg110']",12,2.7
+www.shopmania.in//965,nikon,"['nikon', '1', 'j3', 'kit', '1030mm', '30110mm']",2,3
+www.shopmania.in//1546,vivitar,"['vivitar', 'vivicam', '8025']",1,2.4
+www.shopmania.in//1116,panasonic,"['panasonic', 'lumix', 'dmctz6', 'panasonic', 'lumix', 'dmctz6']",1,2.7
+www.shopmania.in//1395,nikon,"['nikon', 'coolpix', 's6400']",16,3
+www.shopmania.in//1680,nikon,"['nikon', 's6150']",16,3
+www.shopmania.in//973,panasonic,"['panasonic', 'dmcfz60', 'panasonic', 'dmcfz60']",1,3
+www.shopmania.in//1383,nikon,"['nikon', 'coolpix', 's9700']",16,3
+www.shopmania.in//1229,pentax,"['pentax', 'efina']",14,2.5
+www.shopmania.in//1696,canon,"['canon', 'eos', '6d', 'body']",2,3
+www.shopmania.in//1442,canon,"['canon', 'powershot', 'g1x']",3,3
+www.shopmania.in//1507,nikon,"['nikon', 'd810', 'body']",3,3.2
+www.shopmania.in//1157,pentax,"['pentax', 'x5']",16,3
+www.shopmania.in//861,canon,"['canon', 'eos', '60d', 'body']",18,3
+www.shopmania.in//1291,samsung,"['samsung', 'digimax', 'l830', 'samsung', 'digimax', 'l830']",1,2.5
+www.shopmania.in//1290,leica,"['leica', 'dlux', '5', 'leica', 'dlux', '5']",1,3
+www.shopmania.in//1013,nikon,"['nikon', '1', 'v1', 'body']",1,3
+www.shopmania.in//1506,fujifilm,"['fujifilm', 's4500']",14,3
+www.shopmania.in//1382,nikon,"['nikon', 'coolpix', 's3600']",20,2.7
+www.shopmania.in//1697,samsung,"['samsung', 'dv150f']",2,2.7
+www.shopmania.in//1101,nikon,"['nikon', 'coolpix', 's01']",1,2.5
+www.shopmania.in//1551,panasonic,"['panasonic', 'dmcs2']",1,2.7
+www.shopmania.in//1394,sony,"['sony', 'dscw690']",1,3
+www.shopmania.in//1052,samsung,"['samsung', 'wb600']",12,3
+www.shopmania.in//1547,panasonic,"['panasonic', 'dmclx7']",1,3
+www.shopmania.in//1117,fujifilm,"['fujifilm', 'jz100']",4,2.7
+www.shopmania.in//1269,fujifilm,"['fujifilm', 't350', 'fujifilm', 't350']",14,3
+www.shopmania.in//1286,olympus,"['olympus', 'tg2', 'ihs']",12,3
+www.shopmania.in//1005,fujifilm,"['fujifilm', 'x20']",12,2.8
+www.shopmania.in//899,nikon,"['nikon', 'd4', 'body']",2,3.2
+www.shopmania.in//1140,nikon,"['nikon', 'd600', 'body']",3,3.2
+www.shopmania.in//1707,easypix,"['easypix', 'v527']",3,2.7
+www.shopmania.in//698,sony,"['sony', 'alpha', '7', 'kit', '2870mm']",24,3
+www.shopmania.in//1357,fujifilm,"['fujifilm', 'finepix', 'f500exr', 'fujifilm', 'finepix', 'f500exr']",16,3
+www.shopmania.in//677,nikon,"['nikon', 'coolpix', 's8000', 'nikon', 'coolpix', 's8000']",2,3
+www.shopmania.in//1642,benq,"['benq', 'c1480', 'benq', 'c1480']",14,2.7
+www.shopmania.in//1212,olympus,"['olympus', 'pen', 'epl1', 'body']",3,2.7
+www.shopmania.in//1091,canon,"['canon', 'ixus', '145']",,2.7
+www.shopmania.in//1584,canon,"['canon', 'ixus', '230', 'hs']",1,3
+www.shopmania.in//1300,nikon,"['nikon', 'd3100', 'body']",2,3
+www.shopmania.in//1183,canon,"['canon', 'eos', '5d', 'mark', 'iii', 'kit', '24105mm']",3,3.2
+www.shopmania.in//1316,sony,"['sony', 'cybershot', 'dschx1', 'sony', 'cybershot', 'dschx1']",1,3
+www.shopmania.in//1603,genius,"['genius', 'gshot', 'p831', 'genius', 'gshot', 'p831']",8,
+www.shopmania.in//1195,canon,"['canon', 'ixus', '510', 'hs']",1,3.2
+www.shopmania.in//1341,fujifilm,"['fujifilm', 'x10']",12,2.8
+www.shopmania.in//1711,canon,"['canon', 'powershot', 'sx400']",,3
+www.shopmania.in//1204,olympus,"['olympus', 'vr370']",16,3
+www.shopmania.in//661,olympus,"['olympus', 'tg3']",16,3
+www.shopmania.in//1087,canon,"['canon', 'powershot', 'sx700', 'hs']",16,3
+www.shopmania.in//1438,canon,"['canon', 'powershot', 'g1x', 'mark', 'ii']",8,3
+www.shopmania.in//1592,casio,"['casio', 'exilim', 'hizoom', 'exh15', 'casio', 'exilim', 'hizoom', 'exh15']",1,3
+www.shopmania.in//1068,olympus,"['olympus', 'sz31mr']",16,3
+www.shopmania.in//929,nikon,"['nikon', 'd800e', 'body']",3,3.2
+www.shopmania.in//1273,sony,"['sony', 'dscw330', 'sony', 'dscw330']",1,3
+www.shopmania.in//1336,canon,"['canon', 'eos', '600d', 'kit', '18200mm', 'canon', 'eos', '600d', 'kit', '18200mm']",18,3
+www.shopmania.in//1418,sony,"['sony', 'cybershot', 'dsct70', 'sony', 'cybershot', 'dsct70']",1,3
+www.shopmania.in//641,kodak,"['kodak', 'dc220']",9,2
+www.shopmania.in//968,samsung,"['samsung', 'es9']",2,2.4
+www.shopmania.in//1398,canon,"['canon', 'ixus', '300hs', 'canon', 'ixus', '300hs']",1,2.7
+www.shopmania.in//657,fujifilm,"['fujifilm', 'f600exr']",16,3
+www.shopmania.in//1662,canon,"['canon', 'eos', '5d', 'mark', 'iii', 'body']",3,3.2
+www.shopmania.in//1232,sony,"['sony', 'nex6', 'body']",1,3
+www.shopmania.in//1727,canon,"['canon', 'powershot', 'sx600', 'hs']",16,3
+www.shopmania.in//712,vivitar,"['vivitar', 't027', 'vivitar', 't027']",1,2.7
+www.shopmania.in//1459,nikon,"['nikon', 'coolpix', 's100']",16,3.5
+www.shopmania.in//1009,nikon,"['nikon', 'd5100', 'body']",2,3
+www.shopmania.in//1635,pentax,"['pentax', 'mx1']",12,3
+www.shopmania.in//1567,canon,"['canon', 'eos', '70d', 'kit', '18135mm']",20,3
+www.shopmania.in//1137,casio,"['casio', 'exilim', 'zoom', 'exz90', 'casio', 'exilim', 'zoom', 'exz90']",1,2.7
+www.shopmania.in//1072,nikon,"['nikon', 's4150', 'nikon', 's4150']",14,3
+www.shopmania.in//694,panasonic,"['panasonic', 'dmcs1']",1,2.7
+www.shopmania.in//856,olympus,"['olympus', 't10']",10,2.4
+www.shopmania.in//1160,nikon,"['nikon', 'l26']",16,3
+www.shopmania.in//1025,panasonic,"['panasonic', 'dmcgf2', 'panasonic', 'dmcgf2']",1,3
+www.shopmania.in//1619,samsung,"['samsung', 'nx10', 'samsung', 'nx10']",6,3
+www.shopmania.in//905,olympus,"['olympus', 'fe4010', 'olympus', 'fe4010']",12,2.7
+www.shopmania.in//1199,olympus,"['olympus', 'fe46', 'olympus', 'fe46']",12,2.7
+www.shopmania.in//1121,sony,"['sony', 'nex5r', 'body']",1,3
+www.shopmania.in//1571,sony,"['sony', 'cybershot', 'dscwx350']",18,3
+www.shopmania.in//1064,sony,"['sony', 'dscqx100']",20,2
+www.shopmania.in//952,sony,"['sony', 'dschx9v']",2,3
+www.shopmania.in//682,canon,"['canon', 'eos', '700d', 'body']",18,3
+www.shopmania.in//1080,sony,"['sony', 'cybershot', 'dscrx100']",2,3
+www.shopmania.in//1595,nikon,"['nikon', 'd3000', 'body']",2,3
+www.shopmania.in//689,panasonic,"['panasonic', 'dmcft3', 'panasonic', 'dmcft3']",1,2.7
+www.shopmania.in//1346,fujifilm,"['fujifilm', 'finepix', 'jx250', 'fujifilm', 'finepix', 'jx250']",14,2.7
+www.shopmania.in//1716,canon,"['canon', 'sx40', 'hs']",1,2.7
+www.shopmania.in//1653,olympus,"['olympus', 'vr310', 'olympus', 'vr310']",14,3
+www.shopmania.in//1487,canon,"['canon', 'eos', '6d', 'kit', '2470mm']",2,3
+www.shopmania.in//1038,sony,"['sony', 'cybershot', 'dscw310', 'sony', 'cybershot', 'dscw310']",1,2.7
+www.shopmania.in//1192,sony,"['sony', 'nex5t', 'kit', '1650mm']",16,3
+www.shopmania.in//1311,canon,"['canon', 'eos', '1200d', 'body']",18,3
+www.shopmania.in//1604,casio,"['casio', 'exzs5', 'casio', 'exzs5']",1,2.7
+www.shopmania.in//631,sony,"['sony', 'dscs5000']",14,2.7
+www.shopmania.in//1491,nikon,"['nikon', 'coolpix', 'p100', 'nikon', 'coolpix', 'p100']",3,3
+www.shopmania.in//1184,fujifilm,"['fujifilm', 'finepix', 'z700exr', 'fujifilm', 'finepix', 'z700exr']",12,3.5
+www.shopmania.in//1242,panasonic,"['panasonic', 'dmcfh5', 'panasonic', 'dmcfh5']",1,2.7
+www.shopmania.in//627,fujifilm,"['fujifilm', 'finepix', 's2500hd', 'fujifilm', 'finepix', 's2500hd']",2,3
+www.shopmania.in//1612,samsung,"['samsung', 'pl100']",2,2.7
+www.shopmania.in//1096,canon,"['canon', 'digital', 'ixus', '105', 'canon', 'digital', 'ixus', '105']",12,2.7
+www.shopmania.in//1583,olympus,"['olympus', 'pen', 'epl5', 'kit', '1442mm']",1,3
+www.shopmania.in//1079,canon,"['canon', 'digital', 'ixus', '220', 'hs']",1,2.7
+www.shopmania.in//1700,nikon,"['nikon', 'coolpix', 'p7800']",12,3
+www.shopmania.in//1350,fujifilm,"['fujifilm', 'xe2']",16,3
+www.shopmania.in//1645,panasonic,"['panasonic', 'lumix', 'dmcfz200']",1,3
+www.shopmania.in//670,panasonic,"['panasonic', 'lumix', 'dmcfs4', 'panasonic', 'lumix', 'dmcfs4']",1,2.5
+www.shopmania.in//1215,nikon,"['nikon', 'df']",16,3.2
+www.shopmania.in//934,fujifilm,"['fujifilm', 'x100']",3,2.8
+www.shopmania.in//1147,canon,"['canon', 'digital', 'ixus', '130', 'canon', 'digital', 'ixus', '130']",14,2.7
+www.shopmania.in//1517,nikon,"['nikon', 'coolpix', 's1100pj', 'nikon', 'coolpix', 's1100pj']",1,3
+www.shopmania.in//871,sony,"['sony', 'cybershot', 'dsct99']",1,3
+www.shopmania.in//1281,canon,"['canon', 'a2300']",16,2.7
+www.shopmania.in//1405,sony,"['sony', 'slta58', 'kit', '1855mm', '55200mm']",1,2.7
+www.shopmania.in//1055,canon,"['canon', 'eos', '7d', 'kit', '18135mm']",18,3
+www.shopmania.in//963,canon,"['canon', 'powershot', 'sx210', 'canon', 'powershot', 'sx210']",1,3
+www.shopmania.in//1540,casio,"['casio', 'exzr10', 'casio', 'exzr10']",1,3
+www.shopmania.in//1239,sony,"['sony', 'cybershot', 'dscwx60']",2,2.7
+www.shopmania.in//1393,olympus,"['olympus', 'sz14']",14,3
+www.shopmania.in//1669,nikon,"['nikon', 'coolpix', 's9600']",16,3
+www.shopmania.in//1686,nikon,"['nikon', 'd7000', 'kit', '18105mm']",2,3
+www.shopmania.in//975,panasonic,"['panasonic', 'lumix', 'dmcgf1', 'panasonic', 'lumix', 'dmcgf1']",1,3
+www.shopmania.in//1043,olympus,"['olympus', 'omd', 'em5', 'body']",1,3
+www.shopmania.in//1556,nikon,"['nikon', 'coolpix', 'l29']",1,2.7
+www.shopmania.in//1385,nikon,"['nikon', 'l810']",16,3
+www.shopmania.in//1444,olympus,"['olympus', 'x40', 'olympus', 'x40']",,
+www.shopmania.in//922,olympus,"['olympus', 'sz10', 'olympus', 'sz10']",14,3
+www.shopmania.in//1501,fujifilm,"['fujifilm', 'finepix', 'hs25exr']",16,3
+www.shopmania.in//1151,panasonic,"['panasonic', 'dmcsz1']",1,3
+www.shopmania.in//1628,nikon,"['nikon', 's9200']",16,3
+www.shopmania.in//1297,panasonic,"['panasonic', 'lumix', 'dmcfz70']",16,3
+www.shopmania.in//1126,casio,"['casio', 'exz370', 'casio', 'exz370']",14,2.7
+www.shopmania.in//1576,canon,"['canon', 'eos', '70d', 'body']",20,3
+www.shopmania.in//955,olympus,"['olympus', 'sz15']",16,3
+www.shopmania.in//1599,canon,"['canon', 'powershot', 'g16']",12,3
+www.shopmania.in//1258,canon,"['canon', 'eos', '7d', 'body']",18,3
+www.shopmania.in//1608,panasonic,"['panasonic', 'dmctz25']",1,3
+www.shopmania.in//847,nikon,"['nikon', 'coolpix']",16,3
+www.shopmania.in//1521,panasonic,"['panasonic', 'lumix', 'dmcfp8']",1,2.7
+www.shopmania.in//902,kodak,"['kodak', 'az361']",16,3
+www.shopmania.in//1167,nikon,"['nikon', 'd3100', 'kit', '1855mm']",2,3
+www.shopmania.in//851,sony,"['sony', 'dschx200v']",2,3
+www.shopmania.in//914,fujifilm,"['fujifilm', 's4200']",14,3
+www.shopmania.in//1188,nikon,"['nikon', '1', 'j2']",1,3
+www.shopmania.in//1472,nikon,"['nikon', '1', 'v2']",2,3
+www.shopmania.in//693,benq,"['benq', 'c1430', 'benq', 'c1430']",14,3
+www.shopmania.in//1219,olympus,"['olympus', 'vg190']",16,
+www.shopmania.in//1560,fujifilm,"['fujifilm', 'finepix', 's9600', 'fujifilm', 'finepix', 's9600']",9,2
+www.shopmania.in//1130,panasonic,"['panasonic', 'dmcgf3', 'panasonic', 'dmcgf3']",1,3
+www.shopmania.in//1425,canon,"['canon', 'eos', '7d', 'kit', '18200mm', 'canon', 'eos', '7d', 'kit', '18200mm']",18,3
+www.shopmania.in//1075,sony,"['sony', 'slta37', 'body', 'sony', 'slta37', 'body']",1,2.6
+www.shopmania.in//1262,fujifilm,"['fujifilm', 'ax500']",14,2.7
+www.shopmania.in//1632,sony,"['sony', 'slta57', 'body', 'sony', 'slta57', 'body']",1,3
+www.shopmania.in//1327,samsung,"['samsung', 'pl200']",2,3
+www.shopmania.in//892,sony,"['sony', 'cybershot', 'dscw120', 'sony', 'cybershot', 'dscw120']",2,2.5
+www.shopmania.in//938,panasonic,"['panasonic', 'dmcfz47']",1,3
+www.shopmania.in//1665,samsung,"['samsung', 'pl150']",2,3
+www.shopmania.in//650,canon,"['canon', 'digital', 'ixus', '310', 'hs', 'canon', 'digital', 'ixus', '310', 'hs']",1,3.2
+www.shopmania.in//1235,nikon,"['nikon', '1', 's1', 'kit', '11275mm', '30110mm']",10,3
+www.shopmania.in//1720,kodak,"['kodak', 'm200', 'kodak', 'm200']",10,2.5
+www.shopmania.in//1370,olympus,"['olympus', 'vg170']",14,3
+www.shopmania.in//1059,canon,"['canon', 'eos', '650d', 'kit', '1855mm', '55250mm']",18,3
+www.shopmania.in//1389,nikon,"['nikon', 'd700', 'body']",1,3
+www.shopmania.in//1673,nikon,"['nikon', 'coolpix', 'p7100']",1,3
+www.shopmania.in//1366,olympus,"['olympus', 'epm1']",3,3
+www.shopmania.in//996,samsung,"['samsung', 'pl210']",14,3
+www.shopmania.in//1274,nikon,"['nikon', 'd5200', 'body']",1,3
+www.shopmania.in//1331,samsung,"['samsung', 'es30']",2,3
+www.shopmania.in//1448,canon,"['canon', 'eos', '550d', 'kit', '18135mm']",18,3
+www.shopmania.in//885,canon,"['canon', 'eos', '500d', 'body']",1,3
+www.shopmania.in//1019,canon,"['canon', 'powershot', 'sx510', 'hs']",12,3
+www.shopmania.in//978,fujifilm,"['fujifilm', 'instax', 'mini', '90']",,
+www.shopmania.in//1222,olympus,"['olympus', 'vg180']",16,2.7
+www.shopmania.in//647,sony,"['sony', 'cybershot', 'dscw710']",1,2.7
+www.shopmania.in//1388,samsung,"['samsung', 'nx1000']",3,3
+www.shopmania.in//1367,nikon,"['nikon', 'coolpix', '3100', 'nikon', 'coolpix', '3100']",1,1.5
+www.shopmania.in//702,panasonic,"['panasonic', 'lumix', 'dmcfp1', 'panasonic', 'lumix', 'dmcfp1']",1,2.7
+www.shopmania.in//1058,fujifilm,"['fujifilm', 'hs35exr']",16,3
+www.shopmania.in//1408,panasonic,"['panasonic', 'dmctz30']",14,3
+www.shopmania.in//1664,samsung,"['samsung', 'st65']",2,2.7
+www.shopmania.in//1234,fujifilm,"['fujifilm', 'finepix', 'av100', 'fujifilm', 'finepix', 'av100']",2,2.7
+www.shopmania.in//714,sony,"['sony', 'dscqx10']",18,1
+www.shopmania.in//1721,nikon,"['nikon', 'd5300', 'kit', '1855mm']",24,3.2
+www.shopmania.in//1371,panasonic,"['panasonic', 'dmcfz150']",1,3
+www.shopmania.in//939,sony,"['sony', 'cybershot', 'dscrx100', 'iii']",,
+www.shopmania.in//1633,canon,"['canon', 'digital', 'ixus', '210', 'canon', 'digital', 'ixus', '210']",14,3.5
+www.shopmania.in//1326,samsung,"['samsung', 'sh100']",14,3
+www.shopmania.in//1561,nikon,"['nikon', 'coolpix', 'l28']",1,3
+www.shopmania.in//1424,sony,"['sony', 'dschx100v']",2,3
+www.shopmania.in//1074,nikon,"['nikon', 'coolpix', 's6700']",,3
+www.shopmania.in//942,fujifilm,"['fujifilm', 's6800']",2,3
+www.shopmania.in//692,samsung,"['samsung', 'st70', 'samsung', 'st70']",2,2.7
+www.shopmania.in//1218,olympus,"['olympus', 'fe4000', 'olympus', 'fe4000']",12,2.7
+www.shopmania.in//1648,olympus,"['olympus', 'mju', 'tough', '6010', 'olympus', 'mju', 'tough', '6010']",12,2.7
+www.shopmania.in//1166,olympus,"['olympus', 'sp600', 'uz', 'olympus', 'sp600', 'uz']",12,2.7
+www.shopmania.in//1536,samsung,"['samsung', 'wb150', 'samsung', 'wb150']",2,3
+www.shopmania.in//850,olympus,"['olympus', 'sh25mr']",16,3
+www.shopmania.in//915,canon,"['canon', 'powershot', 'n']",1,2.8
+www.shopmania.in//1023,canon,"['canon', 'eos', '1d', 'mark', 'iv', 'body', 'canon', 'eos', '1d', 'mark', 'iv', 'body']",1,3
+www.shopmania.in//1189,canon,"['canon', 'powershot', 'sx120', 'canon', 'powershot', 'sx120']",10,3
+www.shopmania.in//1473,canon,"['canon', 'eos', 'kit', '22mm']",18,3
+www.shopmania.in//846,canon,"['canon', 'ixus', '155']",20,2.7
+www.shopmania.in//1520,canon,"['canon', 'powershot', 'a3500']",16,3
+www.shopmania.in//1170,samsung,"['samsung', 'st72']",16,3
+www.shopmania.in//1465,fujifilm,"['fujifilm', 'xa1']",16,3
+www.shopmania.in//1035,samsung,"['samsung', 'wb250f']",2,3
+www.shopmania.in//903,panasonic,"['panasonic', 'dmctz18', 'panasonic', 'dmctz18']",10,3
+www.shopmania.in//1259,nikon,"['nikon', 'coolpix', 'l830']",16,3
+www.shopmania.in//1127,olympus,"['olympus', 'e5', 'body', 'olympus', 'e5', 'body']",3,3
+www.shopmania.in//1598,nikon,"['nikon', 'd600', 'kit', '2485mm']",3,3.2
+www.shopmania.in//1432,canon,"['canon', 'ixus', '240', 'hs']",1,3.2
+www.shopmania.in//1279,fujifilm,"['fujifilm', 'xpro1']",3,3
+www.shopmania.in//1629,casio,"['casio', 'exilim', 'exs12', 'casio', 'exilim', 'exs12']",1,2.7
+www.shopmania.in//1296,sony,"['sony', 'cybershot', 'dscw510']",1,2.7
+www.shopmania.in//889,canon,"['canon', 'eos', '600d', 'kit', '1855mm', '55250mm', 'canon', 'eos', '600d', 'kit', '1855mm', '55250mm']",18,3
+www.shopmania.in//866,sony,"['sony', 'dsctx9']",2,3.5
+www.shopmania.in//1150,nikon,"['nikon', 'd5300', 'kit', '18140mm']",24,3.2
+www.shopmania.in//1384,samsung,"['samsung', 'nv3', 'samsung', 'nv3']",1,2.5
+www.shopmania.in//974,sony,"['sony', 'alpha', 'dslra3000', 'kit', '1855mm']",20,3
+www.shopmania.in//1042,canon,"['canon', 'powershot', 'sx500']",16,3
+www.shopmania.in//1412,canon,"['canon', 'powershot', 'sx220', 'hs', 'canon', 'powershot', 'sx220', 'hs']",1,3
+www.shopmania.in//1107,fujifilm,"['fujifilm', 'finepix', 'hs50', 'exr']",16,3
+www.shopmania.in//1557,benq,"['benq', 'c1450', 'benq', 'c1450']",14,2.7
+www.shopmania.in//1238,fujifilm,"['fujifilm', 'finepix', 'f80exr', 'fujifilm', 'finepix', 'f80exr']",12,3
+www.shopmania.in//1392,sony,"['sony', 'dsctx1', 'sony', 'dsctx1']",2,3
+www.shopmania.in//1687,nikon,"['nikon', 'coolpix', 's32']",13,2.7
+www.shopmania.in//1404,nikon,"['nikon', 'coolpix', 's3300']",16,2.7
+www.shopmania.in//1054,canon,"['canon', 'powershot', 'sx260', 'hs']",1,3
+www.shopmania.in//962,sony,"['sony', 'nex5t', 'body', 'sony', 'nex5t', 'body']",16,3
+www.shopmania.in//1541,sony,"['sony', 'dscw520']",14,2.7
+www.shopmania.in//1111,canon,"['canon', 'eos', '1100d', 'kit', '1855mm']",2,2.7
+www.shopmania.in//1003,nikon,"['nikon', 'd5200', 'kit', '1855mm']",1,3
+www.shopmania.in//1453,nikon,"['nikon', 's2600']",14,2.7
+www.shopmania.in//1146,sony,"['sony', 'slta65', 'kit', '1855mm']",3,3
+www.shopmania.in//1516,kodak,"['kodak', 'easyshare', 'c195', 'kodak', 'easyshare', 'c195']",14,2
+www.shopmania.in//1701,sony,"['sony', 'slta77', 'body']",7,3
+www.shopmania.in//1351,olympus,"['olympus', 'pen', 'epl1', 'kit', '1442mm', 'olympus', 'pen', 'epl1', 'kit', '1442mm']",3,2.7
+www.shopmania.in//671,olympus,"['olympus', 'xz1']",10,3
+www.shopmania.in//1214,samsung,"['samsung', 'wb200f']",2,3
+www.shopmania.in//1097,nikon,"['nikon', 'coolpix', 'p7700']",2,3
+www.shopmania.in//1078,canon,"['canon', 'powershot', 'a495', 'canon', 'powershot', 'a495']",10,2.5
+www.shopmania.in//1428,olympus,"['olympus', 'sp810uz', 'olympus', 'sp810uz']",14,3
+www.shopmania.in//1243,casio,"['casio', 'exilim', 'zoom', 'exz280', 'casio', 'exilim', 'zoom', 'exz280']",1,2.7
+www.shopmania.in//626,canon,"['canon', 'powershot', 'g15']",1,3
+www.shopmania.in//1490,nikon,"['nikon', 's3100', 'nikon', 's3100']",1,2.7
+www.shopmania.in//1185,kodak,"['kodak', 'z990']",12,3
+www.shopmania.in//919,canon,"['canon', 'ixus', '265', 'hs']",16,3
+www.shopmania.in//1605,nikon,"['nikon', 'd90', 'kit', '18105mm']",3,3
+www.shopmania.in//1039,kodak,"['kodak', 'az251']",16,
+www.shopmania.in//1469,nikon,"['nikon', 'd3x', 'body']",5,3
+www.shopmania.in//1347,nikon,"['nikon', 'coolpix', 's6800']",16,3
+www.shopmania.in//688,panasonic,"['panasonic', 'lumix', 'dmczr1']",1,2.7
+www.shopmania.in//1202,panasonic,"['panasonic', 'lumix', 'dmcts5', 'panasonic', 'lumix', 'dmcts5']",1,3
+www.shopmania.in//667,sony,"['sony', 'cybershot', 'dscrx10']",20,3
+www.shopmania.in//1652,general electric,"['general', 'electric', 'x500', 'general', 'electric', 'x500']",16,2.7
+www.shopmania.in//1081,fujifilm,"['fujifilm', 'finepix', 'jv100', 'fujifilm', 'finepix', 'jv100']",2,2.7
+www.shopmania.in//1295,panasonic,"['panasonic', 'lumix', 'dmctz40']",,3
+www.shopmania.in//865,nikon,"['nikon', 'coolpix', 's6500']",2,3
+www.shopmania.in//920,fujifilm,"['fujifilm', 'finepix', 't200']",14,2.7
+www.shopmania.in//1016,panasonic,"['panasonic', 'lumix', 'dmcts25', 'panasonic', 'lumix', 'dmcts25']",1,2.7
+www.shopmania.in//1692,kodak,"['kodak', 'easyshare', 'm550', 'kodak', 'easyshare', 'm550']",3,2.7
+www.shopmania.in//998,canon,"['canon', 'eos', '100d', 'body']",18,3
+www.shopmania.in//1041,olympus,"['olympus', 'sp800uz', 'olympus', 'sp800uz']",14,3
+www.shopmania.in//1411,canon,"['canon', 'eos', '70d', 'kit', '1855mm']",20,3
+www.shopmania.in//977,nikon,"['nikon', 'coolpix', 's5200']",16,3
+www.shopmania.in//1684,olympus,"['olympus', 'x42', 'olympus', 'x42']",12,2.7
+www.shopmania.in//1391,nikon,"['nikon', 'coolpix', 's6200']",16,2.7
+www.shopmania.in//1542,nikon,"['nikon', '1', 's1', 'kit', '11275mm']",1,3
+www.shopmania.in//961,sony,"['sony', 'cybershot', 'dscw800']",20,2.7
+www.shopmania.in//1407,olympus,"['olympus', 'mju', '5010', 'olympus', 'mju', '5010']",5,2.7
+www.shopmania.in//1057,canon,"['canon', 'eos', 'kit', '1855mm']",18,3
+www.shopmania.in//1283,nikon,"['nikon', 'l25']",1,3
+www.shopmania.in//1329,sony,"['sony', 'dschx60']",4,3
+www.shopmania.in//1145,fujifilm,"['fujifilm', 'finepix', 'sl1000']",16,3
+www.shopmania.in//1515,panasonic,"['panasonic', 'dmclz20']",1,3
+www.shopmania.in//1000,panasonic,"['panasonic', 'dmctz20', 'panasonic', 'dmctz20']",14,3
+www.shopmania.in//1450,nikon,"['nikon', '1', 'j1']",1,3
+www.shopmania.in//936,nikon,"['nikon', 'coolpix', 'l620']",1,3
+www.shopmania.in//1647,sony,"['sony', 'nex3n', 'kit', '1650mm']",1,3
+www.shopmania.in//672,nikon,"['nikon', 's2500']",12,2.7
+www.shopmania.in//1217,nikon,"['nikon', 'd4s', 'body']",16,3.2
+www.shopmania.in//1702,canon,"['canon', 'powershot', 'a3200']",1,2.7
+www.shopmania.in//1352,canon,"['canon', 'a2400']",16,2.7
+www.shopmania.in//1581,sony,"['sony', 'dsctx7', 'sony', 'dsctx7']",2,3.5
+www.shopmania.in//1240,sony,"['sony', 'dscw320', 'sony', 'dscw320']",1,2.7
+www.shopmania.in//625,fujifilm,"['fujifilm', 'finepix', 'ax600', 'fujifilm', 'finepix', 'ax600']",14,2.7
+www.shopmania.in//1610,samsung,"['samsung', 'wb350f']",16,3
+www.shopmania.in//1305,samsung,"['samsung', 'wb1100']",2,3
+www.shopmania.in//1493,sony,"['sony', 'slta35', 'kit', '1855mm']",2,3
+www.shopmania.in//1606,panasonic,"['panasonic', 'lumix', 'dmclz30']",1,3
+www.shopmania.in//1313,canon,"['canon', 'digital', 'ixus', '1000', 'hs', 'canon', 'digital', 'ixus', '1000', 'hs']",1,3
+www.shopmania.in//1190,canon,"['canon', 'ixus', '150']",16,2.7
+www.shopmania.in//1485,canon,"['canon', 'powershot', 's200']",9,1.5
+www.shopmania.in//1201,canon,"['canon', 'eos', '1100d', 'kit', '1855mm', '55250mm']",2,2.7
+www.shopmania.in//664,olympus,"['olympus', 'vg160']",14,3
+www.shopmania.in//1714,sony,"['sony', 'nex5', 'kit', '1855mm']",2,3
+www.shopmania.in//1578,samsung,"['samsung', 'pl20']",2,2.7
+www.shopmania.in//1128,sony,"['sony', 'cybershot', 'dscwx200']",2,2.7
+www.shopmania.in//869,canon,"['canon', 'powershot', 's110']",1,3
+www.shopmania.in//886,nikon,"['nikon', 'd5200', 'kit', '18105mm']",1,3
+www.shopmania.in//1333,sony,"['sony', 'dsctx55']",2,3.3
+www.shopmania.in//1626,olympus,"['olympus', 'tg830']",16,3
+www.shopmania.in//1276,nikon,"['nikon', 'd7100']",24,3.2
+www.shopmania.in//1558,canon,"['canon', 'eos', '650d', 'kit', '18135mm']",18,3
+www.shopmania.in//994,contax,"['contax', 'n', 'digital', 'contax', 'n', 'digital']",6,2
+www.shopmania.in//1364,canon,"['canon', 'ixus', '140']",16,3
+www.shopmania.in//1221,nikon,"['nikon', 'p300', 'nikon', 'p300']",12,3
+www.shopmania.in//644,panasonic,"['panasonic', 'dmcfh7', 'panasonic', 'dmcfh7']",1,3
+www.shopmania.in//1671,nikon,"['nikon', 'coolpix', 'p500', 'nikon', 'coolpix', 'p500']",12,3
+www.shopmania.in//982,samsung,"['samsung', 'es80']",2,2.4
+www.shopmania.in//717,argus,"['argus', 'dc1500']",5,2.7
+www.shopmania.in//1372,samsung,"['samsung', 'pl120']",2,2.7
+www.shopmania.in//652,panasonic,"['panasonic', 'dmcfh22']",14,3
+www.shopmania.in//1237,olympus,"['olympus', 'ep3', 'kit', '1442mm']",3,3
+www.shopmania.in//1519,nikon,"['nikon', 'coolpix', 's6300']",16,2.7
+www.shopmania.in//1149,sony,"['sony', 'dscw610']",1,2.7
+www.shopmania.in//1325,nikon,"['nikon', 'coolpix', 's6000', 'nikon', 'coolpix', 's6000']",2,2.7
+www.shopmania.in//1260,canon,"['canon', 'eos', '700d', 'kit', '1855mm']",18,3
+www.shopmania.in//1630,canon,"['canon', 'eos', '600d', 'kit', '18135mm']",18,3
+www.shopmania.in//1427,olympus,"['olympus', 'vr330', 'olympus', 'vr330']",14,3
+www.shopmania.in//1098,canon,"['canon', 'eos', '6d', 'kit', '24105mm']",2,3
+www.shopmania.in//1132,olympus,"['olympus', 'sp610uz', 'olympus', 'sp610uz']",14,3
+www.shopmania.in//691,panasonic,"['panasonic', 'dmcfp5']",1,3
+www.shopmania.in//1020,olympus,"['olympus', 'pen', 'epl3']",3,3
+www.shopmania.in//916,panasonic,"['panasonic', 'lumix', 'dmcf5', 'panasonic', 'lumix', 'dmcf5']",1,2.7
+www.shopmania.in//853,olympus,"['olympus', 'sz16', 'ihs']",16,3
+www.shopmania.in//629,panasonic,"['panasonic', 'lumix', 'dmcf3']",1,2.7
+www.shopmania.in//1309,panasonic,"['panasonic', 'dmcs3']",1,2.7
+www.shopmania.in//900,canon,"['canon', 'eos', '550d', 'kit', '1855mm']",18,3
+www.shopmania.in//1466,nikon,"['nikon', 's4200']",16,3
+www.shopmania.in//1036,sony,"['sony', 'dschx20v']",2,3
+www.shopmania.in//1523,samsung,"['samsung', 'wb650', 'samsung', 'wb650']",1,3
+www.shopmania.in//1173,canon,"['canon', 'eos', '5d', 'mark', 'ii', 'kit', '24105mm']",21,3
+www.shopmania.in//1061,samsung,"['samsung', 'es28']",2,2.5
+www.shopmania.in//1431,nikon,"['nikon', 'coolpix', 's2800']",20,2.7
+www.shopmania.in//1124,samsung,"['samsung', 'mv800']",2,3
+www.shopmania.in//1718,samsung,"['samsung', 'st600']",2,3.5
+www.shopmania.in//687,fujifilm,"['fujifilm', 'instax', 'mini', '7s', 'fujifilm', 'instax', 'mini', '7s']",5,
+www.shopmania.in//1348,sony,"['sony', 'dscw360', 'sony', 'dscw360']",14,1
+www.shopmania.in//669,samsung,"['samsung', 'digimax', 'nv100hd', 'samsung', 'digimax', 'nv100hd']",7,
+www.shopmania.in//686,fujifilm,"['fujifilm', 'x100s']",3,2.8
+www.shopmania.in//1430,nikon,"['nikon', '1', 'j3', 'kit', '1030mm']",2,3
+www.shopmania.in//1125,fujifilm,"['fujifilm', 'sl280']",14,3
+www.shopmania.in//1575,sony,"['sony', 'cybershot', 'dsch70']",2,3
+www.shopmania.in//901,sony,"['sony', 'dscwx150']",2,3
+www.shopmania.in//1467,olympus,"['olympus', 'sh50', 'olympus', 'sh50']",16,3
+www.shopmania.in//1037,nikon,"['nikon', 'p310']",16,3
+www.shopmania.in//1172,canon,"['canon', 'powershot', 'a2500']",16,3
+www.shopmania.in//628,panasonic,"['panasonic', 'dmcfh2']",1,2.7
+www.shopmania.in//1308,fujifilm,"['fujifilm', 'xe1', 'kit', '35mm']",,2.8
+www.shopmania.in//1021,fujifilm,"['fujifilm', 'xe1', 'kit', '1855mm']",,2.8
+www.shopmania.in//1471,canon,"['canon', 'digital', 'ixus', '200', 'canon', 'digital', 'ixus', '200']",1,3
+www.shopmania.in//917,nikon,"['nikon', 'coolpix', 'aw120']",16,3
+www.shopmania.in//852,olympus,"['olympus', 'mju', '7040', 'olympus', 'mju', '7040']",14,3
+www.shopmania.in//1164,sony,"['sony', 'dsch90']",1,3
+www.shopmania.in//690,sony,"['sony', 'cybershot', 'dscw730']",1,2.7
+www.shopmania.in//940,kodak,"['kodak', 'easyshare', 'm575', 'kodak', 'easyshare', 'm575']",14,3
+www.shopmania.in//1426,fujifilm,"['fujifilm', 'finepix', 's4000hd', 'fujifilm', 'finepix', 's4000hd']",14,3
+www.shopmania.in//1076,olympus,"['olympus', 'mju', 'tough', '3000', 'olympus', 'mju', 'tough', '3000']",12,2.7
+www.shopmania.in//1099,nikon,"['nikon', 'd7000', 'kit', '1855mm']",2,3
+www.shopmania.in//1518,olympus,"['olympus', 'vr320', 'olympus', 'vr320']",14,3
+www.shopmania.in//1148,sony,"['sony', 'dscwx7']",2,2.8
+www.shopmania.in//1723,olympus,"['olympus', 'mju', 'tough', '8010', 'olympus', 'mju', 'tough', '8010']",7,2.7
+www.shopmania.in//1689,panasonic,"['panasonic', 'dmcg3']",8,3
+www.shopmania.in//1236,nikon,"['nikon', 's9100']",12,3
+www.shopmania.in//1220,nikon,"['nikon', 'd90', 'body']",3,3
+www.shopmania.in//645,panasonic,"['panasonic', 'lumix', 'dmcfs3']",1,2.5
+www.shopmania.in//1559,canon,"['canon', 'powershot', 'a1200']",1,2.7
+www.shopmania.in//995,nikon,"['nikon', 'coolpix', 's02']",13,2.7
+www.shopmania.in//1298,sony,"['sony', 'cybershot', 'dsch55', 'sony', 'cybershot', 'dsch55']",1,3
+www.shopmania.in//1627,kodak,"['kodak', 'easyshare', 'm580', 'kodak', 'easyshare', 'm580']",14,3
+www.shopmania.in//887,canon,"['canon', 'powershot', 'a3300']",16,3
+www.shopmania.in//1596,panasonic,"['panasonic', 'dmcft20']",1,2.7
+www.shopmania.in//1083,pentax,"['pentax', 'k50', 'kit', '1855mm']",16,3
+www.shopmania.in//1200,panasonic,"['panasonic', 'dmcgf5', 'body']",1,3
+www.shopmania.in//665,canon,"['canon', 'sx50', 'hs']",1,2.8
+www.shopmania.in//1715,nikon,"['nikon', 'p510']",16,3
+www.shopmania.in//848,sony,"['sony', 'nex5r', 'kit', '1650mm']",1,3
+www.shopmania.in//1484,sony,"['sony', 'dscw620']",1,2.7
+www.shopmania.in//1607,olympus,"['olympus', 't100', 'olympus', 't100']",12,2.4
+www.shopmania.in//1312,canon,"['canon', 'powershot', 'a3100', 'canon', 'powershot', 'a3100']",1,2.7
+www.shopmania.in//1187,vivitar,"['vivitar', 'v46', 'vivitar', 'v46']",4,
+www.shopmania.in//1492,samsung,"['samsung', 'st5500', 'samsung', 'st5500']",2,3.7
+www.shopmania.in//1241,sony,"['sony', 'dscwx50']",2,2.7
+www.shopmania.in//1611,nikon,"['nikon', 'coolpix', 's4000', 'nikon', 'coolpix', 's4000']",12,3
+www.shopmania.in//1304,nikon,"['nikon', 'coolpix', 's4400']",1,3
+www.shopmania.in//1580,fujifilm,"['fujifilm', 'jx500']",4,2.7
+www.shopmania.in//1646,nikon,"['nikon', 'd800', 'body']",3,3.2
+www.shopmania.in//673,panasonic,"['panasonic', 'dmcfx80', 'panasonic', 'dmcfx80']",1,3
+www.shopmania.in//1216,nikon,"['nikon', 'coolpix', 's6600']",16,2.7
+www.shopmania.in//1353,canon,"['canon', 'eos', '600d', 'body']",18,3
+www.shopmania.in//872,canon,"['canon', 'eos', '1200d', 'kit', '1855mm']",18,3
+www.shopmania.in//1451,canon,"['canon', 'eos', '550d', 'body']",18,3
+www.shopmania.in//937,samsung,"['samsung', 'gc100']",16,4.8
+www.shopmania.in//1328,nikon,"['nikon', 'coolpix', 's2700']",16,2.7
+www.shopmania.in//1113,canon,"['canon', 'eos', '1d', 'body']",1,2
+www.shopmania.in//1406,nikon,"['nikon', 'd300', 'body', 'nikon', 'd300', 'body']",3,3
+www.shopmania.in//1685,canon,"['canon', 'eos', '5d', 'body', 'canon', 'eos', '5d', 'body']",7,2.5
+www.shopmania.in//1390,sony,"['sony', 'cybershot', 'dscw80', 'sony', 'cybershot', 'dscw80']",1,2.5
+www.shopmania.in//1105,fujifilm,"['fujifilm', 'hs30exr', 'fujifilm', 'hs30exr']",16,3
+www.shopmania.in//1555,fujifilm,"['fujifilm', 'xm1', 'kit', '1650mm']",16,3
+www.shopmania.in//976,fujifilm,"['fujifilm', 's2980']",14,3
+www.shopmania.in//1693,nikon,"['nikon', 'd610', '2485mm']",3,3.2
+www.shopmania.in//1369,pentax,"['pentax', 'k50', 'kit', '1855mm', '50200mm', 'pentax', 'k50', 'kit', '1855mm', '50200mm']",16,3
+www.shopmania.in//649,panasonic,"['panasonic', 'dmcfh4']",14,2.7
+www.shopmania.in//1502,panasonic,"['panasonic', 'dmcls5', 'panasonic', 'dmcls5']",1,2.7
+www.shopmania.in//921,canon,"['canon', 'ixus', '255', 'hs']",12,3
+www.shopmania.in//1017,sony,"['sony', 'dscs3000', 'sony', 'dscs3000']",1,2.7
+www.shopmania.in//1294,nikon,"['nikon', 'd7100', 'kit', '1685mm']",1,3.2
+www.shopmania.in//1159,samsung,"['samsung', 'st80']",2,3
+www.shopmania.in//880,samsung,"['samsung', 'dv300f', 'samsung', 'dv300f']",16,3
+www.shopmania.in//1620,fujifilm,"['fujifilm', 'instax', 'mini', '8']",,
+www.shopmania.in//1270,canon,"['canon', 'eos', 'kit', '1855mm', 'speedlite', '90ex', 'canon', 'eos', 'kit', '1855mm', 'speedlite', '90ex']",18,3
+www.shopmania.in//992,fujifilm,"['fujifilm', 'xe1', 'body']",3,2.8
+www.shopmania.in//1698,panasonic,"['panasonic', 'dmcfh25']",1,2.7
+www.shopmania.in//707,sony,"['sony', 'cybershot', 'dscrx100', 'ii']",20,3
+www.shopmania.in//1227,canon,"['canon', 'a4000']",16,3
+www.shopmania.in//1677,nikon,"['nikon', 'd3300', 'kit', '1855mm', '55200mm']",24,3
+www.shopmania.in//642,kodak,"['kodak', 'easyshare', 'm590', 'kodak', 'easyshare', 'm590']",14,2.7
+www.shopmania.in//1118,benq,"['benq', 'e1480', 'benq', 'e1480']",14,2.7
+www.shopmania.in//1548,fujifilm,"['fujifilm', 'finepix', 'hs20', 'fujifilm', 'finepix', 'hs20']",16,3
+www.shopmania.in//984,nikon,"['nikon', 'd3200', 'body']",2,3
+www.shopmania.in//711,canon,"['canon', 'eos', 'body', 'canon', 'eos', 'body']",18,3
+www.shopmania.in//654,panasonic,"['panasonic', 'lumix', 'dmcfh3']",14,2.7
+www.shopmania.in//1661,nikon,"['nikon', 'coolpix', 's9300']",16,3
+www.shopmania.in//879,canon,"['canon', 'powershot', 'a2200']",1,2.7
+www.shopmania.in//896,canon,"['canon', 'powershot', 's95', 'canon', 'powershot', 's95']",10,3
+www.shopmania.in//1323,olympus,"['olympus', 'fe5020', 'olympus', 'fe5020']",12,2.7
+www.shopmania.in//1289,nikon,"['nikon', 'coolpix', 'l820']",16,3
+www.shopmania.in//1636,olympus,"['olympus', 'tg630', 'ihs']",12,3
+www.shopmania.in//1071,nikon,"['nikon', 'd5300', 'body']",24,3.2
+www.shopmania.in//1564,sony,"['sony', 'cybershot', 'dscw830']",20,2.7
+www.shopmania.in//1134,sony,"['sony', 'slta57', 'kit', '1855mm']",1,3
+www.shopmania.in//678,panasonic,"['panasonic', 'lumix', 'dmcfh1']",1,2.7
+www.shopmania.in//1358,polaroid,"['polaroid', 'if045', 'polaroid', 'if045']",,
+www.shopmania.in//1708,nikon,"['nikon', 'coolpix', 'l110', 'nikon', 'coolpix', 'l110']",2,3
+www.shopmania.in//1026,nikon,"['nikon', 'coolpix', 'l320']",1,3
+www.shopmania.in//1476,samsung,"['samsung', 'pl80', 'samsung', 'pl80']",2,2.7
+www.shopmania.in//1499,pentax,"['pentax', 'k500', 'kit', '1855mm', 'pentax', 'k500', 'kit', '1855mm']",16,3
+www.shopmania.in//1163,sony,"['sony', 'slta37', 'kit', '1855mm']",1,2.7
+www.shopmania.in//1460,canon,"['canon', 'powershot', 'a810']",16,2.7
+www.shopmania.in//1030,canon,"['canon', 'powershot', 'a3400']",16,3
+www.shopmania.in//906,sony,"['sony', 'alpha', '7', 'body']",24,3
+www.shopmania.in//1175,canon,"['canon', 'eos', '700d', 'kit', '18135mm']",18,3
+www.shopmania.in//639,nikon,"['nikon', 'coolpix', 's3000', 'nikon', 'coolpix', 's3000']",12,2.7
+www.shopmania.in//951,olympus,"['olympus', 'vg140', 'olympus', 'vg140']",14,3
+www.shopmania.in//1437,pentax,"['pentax', 'wg3', 'gps']",16,3
+www.shopmania.in//1122,nikon,"['nikon', 'coolpix', 'aw110']",16,3
+www.shopmania.in//1572,fujifilm,"['fujifilm', 'quicksnap', '800']",,
+www.shopmania.in//1339,olympus,"['olympus', 'xz10']",12,3
+www.shopmania.in//1293,fujifilm,"['fujifilm', 'f660exr']",16,3
+www.shopmania.in//863,sony,"['sony', 'cybershot', 'dsch200']",1,3
+www.shopmania.in//1505,nikon,"['nikon', 'coolpix', 's5100', 'nikon', 'coolpix', 's5100']",12,2.7
+www.shopmania.in//1155,canon,"['canon', 'eos', '1100d', 'body']",2,2.7
+www.shopmania.in//1440,panasonic,"['panasonic', 'lumix', 'dmcsz3']",1,2.7
+www.shopmania.in//926,canon,"['canon', 'eos', '60d', 'kit', '18135mm']",18,3
+www.shopmania.in//1694,panasonic,"['panasonic', 'dmcfp7', 'panasonic', 'dmcfp7']",1,3.5
+www.shopmania.in//1102,nikon,"['nikon', 'coolpix', 'p530']",16,3
+www.shopmania.in//1417,nikon,"['nikon', 'coolpix', 's5300']",16,3
+www.shopmania.in//1682,canon,"['canon', 'powershot', 'a2600']",16,3
+www.shopmania.in//1728,olympus,"['olympus', 'x940', 'olympus', 'x940']",14,2.7
+www.shopmania.in//988,panasonic,"['panasonic', 'dmcfh8']",1,3
+www.shopmania.in//1114,nikon,"['nikon', 'd3s', 'body', 'nikon', 'd3s', 'body']",1,3
+www.shopmania.in//1401,nikon,"['nikon', 'coolpix', 's4300']",16,3
+www.shopmania.in//1051,casio,"['casio', 'exh30', 'casio', 'exh30']",1,3
+www.shopmania.in//967,samsung,"['samsung', 'es90', 'samsung', 'es90']",14,2.7
+www.shopmania.in//1143,nikon,"['nikon', 's800c']",16,3.5
+www.shopmania.in//1513,olympus,"['olympus', 'mju', '7020', 'olympus', 'mju', '7020']",12,3
+www.shopmania.in//875,canon,"['canon', 'ixus', '125', 'hs']",1,3
+www.shopmania.in//930,olympus,"['olympus', 'xz2', 'ihs']",12,3
+www.shopmania.in//674,general electric,"['general', 'electric', 'pj1', 'general', 'electric', 'pj1']",14,3
+www.shopmania.in//1641,nikon,"['nikon', 'coolpix', 's9400']",1,3
+www.shopmania.in//1211,nikon,"['nikon', 'coolpix', 'p340']",12,3
+www.shopmania.in//1138,nikon,"['nikon', 'd610', 'body']",24,3.2
+www.shopmania.in//1092,pentax,"['pentax', 'k500', 'body']",16,3
+www.shopmania.in//1246,nikon,"['nikon', 'coolpix', 'l22', 'nikon', 'coolpix', 'l22']",2,3
+www.shopmania.in//1616,panasonic,"['panasonic', 'lumix', 'dmcfz40', 'panasonic', 'lumix', 'dmcfz40']",1,3
+www.shopmania.in//859,fujifilm,"['fujifilm', 'sl300']",14,3
+www.shopmania.in//1495,sony,"['sony', 'nex7', 'kit', '1855mm']",3,3
+www.shopmania.in//635,panasonic,"['panasonic', 'lumix', 'dmcxs1']",1,2.7
+www.shopmania.in//1600,canon,"['canon', 'ixus', '500', 'hs']",1,3
+www.shopmania.in//1250,nikon,"['nikon', 'coolpix', 's3500']",1,2.7
+www.shopmania.in//1315,sony,"['sony', 'dscw350', 'sony', 'dscw350']",1,2.7
+www.shopmania.in//1529,sony,"['sony', 'slta55', 'body', 'sony', 'slta55', 'body']",2,3
+www.shopmania.in//1207,sony,"['sony', 'dschx7v']",2,3
+www.shopmania.in//1657,olympus,"['olympus', 'vr350']",16,3
+www.shopmania.in//1712,canon,"['canon', 'powershot', 'sx170']",16,3
+www.shopmania.in//1591,nikon,"['nikon', 'l23', 'nikon', 'l23']",1,2.7
+www.shopmania.in//1085,pentax,"['pentax', 'q10']",4,3
+www.shopmania.in//1656,olympus,"['olympus', 'sp620uz']",16,3
+www.shopmania.in//663,panasonic,"['panasonic', 'lumix', 'dmclx5', 'panasonic', 'lumix', 'dmclx5']",1,3
+www.shopmania.in//1343,canon,"['canon', 'powershot', 'sx20', 'canon', 'powershot', 'sx20']",1,2.5
+www.shopmania.in//1713,sony,"['sony', 'cybershot', 'dsct90', 'sony', 'cybershot', 'dsct90']",1,3
+www.shopmania.in//1197,samsung,"['samsung', 'wb700']",14,3
+www.shopmania.in//1482,sony,"['sony', 'dschx10v']",2,3
+www.shopmania.in//1178,canon,"['canon', 'ixus', '132', 'hs']",16,2.7
+www.shopmania.in//634,fujifilm,"['fujifilm', 's2950', 'fujifilm', 's2950']",14,3
+www.shopmania.in//1601,sigma,"['sigma', 'dp1x']",7,2.5
+www.shopmania.in//1251,canon,"['canon', 'eos', '100d', 'kit', '1855mm']",18,3
+www.shopmania.in//1314,kodak,"['kodak', 'easyshare', 'z950', 'kodak', 'easyshare', 'z950']",12,3
+www.shopmania.in//1181,olympus,"['olympus', 'mju', 'tough', '6020', 'olympus', 'mju', 'tough', '6020']",7,2.7
+www.shopmania.in//858,canon,"['canon', 'powershort', 'sx230', 'hs', 'canon', 'powershort', 'sx230', 'hs']",1,3
+www.shopmania.in//1494,sony,"['sony', 'cybershot', 'dscw810']",20,2.7
+www.shopmania.in//1247,panasonic,"['panasonic', 'lumix', 'dmclz40']",20,3
+www.shopmania.in//1617,canon,"['canon', 'powershot', 'sx160']",16,3
+www.shopmania.in//622,samsung,"['samsung', 'es95']",,2.7
+www.shopmania.in//1302,canon,"['canon', 'eos', '550d', 'kit', '18200mm', 'canon', 'eos', '550d', 'kit', '18200mm']",18,3
+www.shopmania.in//1139,nikon,"['nikon', 'aw100']",16,3
+www.shopmania.in//1093,nikon,"['nikon', 'coolpix', 's80', 'nikon', 'coolpix', 's80']",1,3.5
+www.shopmania.in//1569,sony,"['sony', 'cybershot', 'dsch400']",20,3
+www.shopmania.in//675,panasonic,"['panasonic', 'lumix', 'dmcfp3', 'panasonic', 'lumix', 'dmcfp3']",1,3
+www.shopmania.in//1640,olympus,"['olympus', 'vg130', 'olympus', 'vg130']",14,3
+www.shopmania.in//1210,nikon,"['nikon', 'd300s', 'body']",3,3
+www.shopmania.in//1355,sony,"['sony', 'slta58', 'kit', '1855mm']",1,2.7
+www.shopmania.in//931,canon,"['sony', 'cybershot', 'dscw570']",1,2.7
+www.shopmania.in//1007,nikon,"['nikon', 'coolpix', 'l27']",16,2.7
+www.shopmania.in//1284,nikon,"['nikon', 'd7000', 'body']",2,3
+www.shopmania.in//989,canon,"['canon', 'powershot', 'a800']",10,2.5
+www.shopmania.in//1115,nikon,"['nikon', 's8200']",16,3
+www.shopmania.in//1400,fujifilm,"['fujifilm', 'xf1']",12,3
+www.shopmania.in//1050,samsung,"['samsung', 'st90']",1,2.7
+www.shopmania.in//1729,olympus,"['olympus', 'vh520']",14,3
+www.shopmania.in//1103,sony,"['sony', 'cybershot', 'dschx400']",20,3
+www.shopmania.in//1553,sony,"['sony', 'dscw530']",1,2.7
+www.shopmania.in//1046,canon,"['canon', 'eos', '650d', 'body']",18,3
+www.shopmania.in//1504,nikon,"['nikon', 'coolpix', 'p520']",1,3.2
+www.shopmania.in//1441,nikon,"['nikon', 'coolpix', 'l610']",16,3
+www.shopmania.in//1011,fujifilm,"['fujifilm', 'finepix', 'hs10', 'fujifilm', 'finepix', 'hs10']",3,3
+www.shopmania.in//927,olympus,"['olympus', 'vg120', 'olympus', 'vg120']",14,3
+www.shopmania.in//1338,canon,"['canon', 'eos', '1200d', 'kit', '1855mm', '55250mm']",18,3
+www.shopmania.in//1292,olympus,"['olympus', 'ep3', 'body']",3,3
+www.shopmania.in//950,nikon,"['nikon', 'd3200', 'kit', '1855mm']",2,3
+www.shopmania.in//1066,nikon,"['nikon', 'd5100', 'kit', '1855mm']",2,3
+www.shopmania.in//1436,fujifilm,"['fujifilm', 'instax', 'mini', '50s']",,
+www.shopmania.in//1089,canon,"['canon', 'powershot', 's100']",1,3
+www.shopmania.in//1573,canon,"['canon', 'powershot', 'sx130', 'canon', 'powershot', 'sx130']",12,3
+www.shopmania.in//1318,nikon,"['nikon', 'coolpix', 'l330']",2,3
+www.shopmania.in//1461,fujifilm,"['fujifilm', 'xm1', 'body']",16,3
+www.shopmania.in//1031,sony,"['sony', 'cybershot', 'dschx50']",20,3
+www.shopmania.in//907,nikon,"['nikon', 's30']",10,2.7
+www.shopmania.in//1524,sony,"['sony', 'cybershot', 'dscwx220']",2,2.7
+www.shopmania.in//1477,samsung,"['samsung', 'st200', 'samsung', 'st200']",2,3
+www.shopmania.in//1498,sony,"['sony', 'cybershot', 'dschx300']",20,3
+www.shopmania.in//1162,canon,"['canonpowershot', 'sx240', 'hs']",1,3
+www.shopmania.in//1532,nikon,"['nikon', 'coolpix', 's9500']",1,3
+www.shopmania.in//854,panasonic,"['panasonic', 'dmcsz7', 'panasonic', 'dmcsz7']",1,3
+www.shopmania.in//696,panasonic,"['panasonic', 'lumix', 'dmcfs42']",1,2.5
+www.shopmania.in//1709,casio,"['casio', 'exilim', 'zoom', 'exz33', 'casio', 'exilim', 'zoom', 'exz33']",1,2.5
+www.shopmania.in//1420,sony,"['sony', 'nex3', 'kit', '1855mm']",2,3
+www.shopmania.in//946,canon,"['canon', 'digital', 'ixus', '115', 'hs']",1,3
+www.shopmania.in//1565,fujifilm,"['fujifilm', 'sl260']",14,3
+www.shopmania.in//1135,olympus,"['olympus', 'pen', 'epl5', 'body']",1,3
+www.shopmania.in//1267,canon,"['canon', 'powershot', 'sx30', 'canon', 'powershot', 'sx30']",1,2.7
+www.shopmania.in//878,olympus,"['olympus', 'fe4020', 'olympus', 'fe4020']",14,2.7
+www.shopmania.in//1725,sony,"['sony', 'dsctx20', 'sony', 'dsctx20']",2,3
+www.shopmania.in//710,sony,"['sony', 'cybershot', 'dscwx80']",2,2.7
+www.shopmania.in//655,nikon,"['nikon', 'd3300', 'kit', '1855mm']",24,3
+www.shopmania.in//1660,fujifilm,"['fujifilm', 'finepix', 's8500']",16,3
+www.shopmania.in//1119,samsung,"['samsung', 'st6500']",1,3
+www.shopmania.in//1549,canon,"['canon', 'eos', '60d', 'kit', '18200mm']",18,3
+www.shopmania.in//1363,nikon,"['nikon', 'coolpix', 's31']",1,2.7
+www.shopmania.in//706,panasonic,"['panasonic', 'lumix', 'dmczr3', 'panasonic', 'lumix', 'dmczr3']",1,2.7
+www.shopmania.in//1226,sony,"['sony', 'cybershot', 'dscwx300']",18,3
+www.shopmania.in//643,olympus,"['olympus', 'mju', '9010', 'olympus', 'mju', '9010']",14,2.7
+www.shopmania.in//993,canon,"['canon', 'powershot', 'g12']",10,2.8
+www.shopmania.in//1621,sony,"['sony', 'slta55', 'kit', '1855', 'mm']",2,3
+www.shopmania.in//1271,nikon,"['nikon', 'coolpix', 'p7000', 'nikon', 'coolpix', 'p7000']",1,3
+www.shopmania.in//1158,canon,"['canon', 'ixus', '135']",16,2.7
+www.shopmania.in//1508,sony,"['sony', 'cybershot', 'dscw370', 'sony', 'cybershot', 'dscw370']",1,3
+www.shopmania.in//881,pentax,"['pentax', 'wg10']",14,2.7
