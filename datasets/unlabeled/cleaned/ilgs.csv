@@ -1,0 +1,103 @@
+spec_id,manufacturer,short description,megapixel,weight
+www.ilgs.net//142,sony,"['detail', 'even', 'lowlight', 'wiht', '20x', 'optical', 'zoom', 'exmor', 'r™', 'cmos', 'sensor', '182mp', 'full', 'hd', 'intelligent', 'auto', 'wifi']",18.2,
+www.ilgs.net//98,fujifilm,"['12mp', '23', 'cmos', 'fullhd', '1920x108060p30p', 'wifi', '80211bgn', 'pictbridge', 'sdsdhcsdxc', 'usb', '20', 'microhdmi', '762', 'cm', '30', 'lcd', '920k', '206g']",12.0,187.0
+www.ilgs.net//77,canon,"['eos', '7d', 'efs', '1585mm', 'f3556', 'usm', '223mm', 'x', '149mm', 'cmos', '1800', 'megapixels', 'dual', 'digic', '4', '762', 'cm', '30', 'clear', 'view', 'ii', 'tft', 'compactflash']",18.0,820.0
+www.ilgs.net//36,samsung,"['nx300', '203', 'mp', 'cmos', '235', 'x', '157', 'mm', '84074', 'cm', '331', 'amoled', '800', 'x', '480', 'sdxc', 'gps', 'wifi', '80211bgn', 'hdmi', '14a']",20.3,280.0
+www.ilgs.net//119,ricoh,"['clearance', 'product', 'box', 'damage16', 'megapixel', '4x', 'optical', 'zoom', '3', 'lcd', 'monitor', 'sd', 'memory', 'card', 'slot', '1', 'year', 'warranty']",16.0,236.0
+www.ilgs.net//41,nikon,"['d5200', '241', 'mp', 'cmos', '762', 'cm', '3', 'tft', 'iso', '100', '6400', 'fullhd', 'video', 'hdmi', 'type', 'c', 'minipin', 'sdxc']",,
+www.ilgs.net//57,sony,"['204mp', '123', 'exmor', 'r', 'cmos', 'zeiss', 'vario', 'sonnar', 'f43215mm', 'f28', 'w', '63', 'wifi', 'gps']",20.4,660.0
+www.ilgs.net//94,canon,"['digital', 'ixus', '150', '16', 'mp', '4608', 'x', '3456', '123', 'ccd', 'iso', '1001600', '6858', 'cm', '27', 'lcd', 'usb', '20', '130', 'g']",16.0,130.0
+www.ilgs.net//123,canon,"['eos', '100d', 'body', '18mp', '223', 'x', '149mm', 'cmos', 'digic', '5', 'efefs', 'iso', 'auto', '1006400', '77cm', '30', '32', 'clear', 'view', 'ii', 'tft', '1040k', '5184x3456', 'sd', 'sdhc', 'sdxc', '407g']",18.0,407.0
+www.ilgs.net//82,pentax,"['body', 'kit', '2012mp', '5472x3648', 'cmos', 'apsc', 'da', 'l', '1855mm', 'full', '1080p', 'h264', 'hd', 'video', '762', 'cm', '30', 'lcd', 'tft', 'sdsdhcsdxceyefi', 'cardflu', 'card', 'usb20', 'micro', 'b', 'hdmi', 'black']",,
+www.ilgs.net//135,canon,"['161', 'mp', '4608', 'x', '3456', 'max', '123', 'cmos', '30x', 'optical4x', 'digital', 'zoom', 'iso', '1003200', '762', 'cm', '3', 'tft', 'usb', '20', 'hdmi', '269', 'g', 'red']",16.1,269.0
+www.ilgs.net//7,canon,"['powershot', 'sx600', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '810', 'mm', 'f38', 'f69', '75', 'cm', '30', 'purecolor', 'ii', 'g', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '188g']",16.0,188.0
+www.ilgs.net//83,canon,"['digital', 'ixus', '265', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '540', 'mm', 'f36', 'f70', '75', 'cm', '30', 'inch', 'lcd', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '147g']",16.0,147.0
+www.ilgs.net//134,canon,"['18mp', '223', 'x', '149mm', '32', 'cmos', 'apsc', 'tft', '762', 'cm', '3']",18.0,480.0
+www.ilgs.net//122,panasonic,"['lumix', 'dmctz55', '16mp', '1233', 'mos', 'f33', '64', '1080p', '80211bgn', '24ghz', '762', 'cm', '3', 'tft', 'lcd', 'sdsdhcsdxc', 'usb', 'microhdmi', '1250mah', '224g']",,
+www.ilgs.net//17,nikon,"['161mp', '1', '23', 'cmos', '60x', 'zoomnikkor', 'iso', '1001600', '1080p', 'full', 'hd', 'video', 'wifi', 'hdmi', 'usb', 'sdsdhcsdxc', '762', 'cm', '30', '921k', 'lcd', '565g']",,
+www.ilgs.net//40,samsung,"['163mp', '123', 'bsi', 'cmos', 'ois', 'f41861mm', '21x', 'zoom', '1080p', '30fps', '762', 'cm', '3', 'lcd', 'tft', 'wifi', 'nfc', 'microsd', 'usb', '20', 'av', '216g']",16.3,216.0
+www.ilgs.net//37,nikon,"['d3200', 'kit', 'afs', 'dx', '1855', 'vr', 'ii', '242mp', '6016', 'x', '4000px', 'cmos', 'sd', 'sdhc', 'sdxc', '762', 'cm', '30', 'lcd', 'full', 'hd', 'video', '455g']",,
+www.ilgs.net//138,samsung,"['nx', '30', '203mp', 'apsc', '762', 'cm', '3', 'amoled', 'hdmi', 'nfc', 'wlan', '18', '55mm', 'f35', '56', 'ois', 'iii']",20.3,375.0
+www.ilgs.net//60,,,16.0,218.0
+www.ilgs.net//76,panasonic,"['lumix', 'dmctz55', '16mp', '1233', 'mos', 'f33', '64', '1080p', '80211bgn', '24ghz', '762', 'cm', '3', 'tft', 'lcd', 'sdsdhcsdxc', 'usb', 'microhdmi', '1250mah', '224g']",,
+www.ilgs.net//21,canon,"['eos', '70d', '1855mm', 'stm', '202mp', 'cmos', '32', 'native', '5472', 'x', '3648', 'max', '18000', '30', 'sec', 'af', 'ae', 'iso', '10012800', 'h', '25600', 'video', 'full', 'hd', 'pictbridge', 'usb', 'hdmi', 'type', 'c', 'sdsdhc', 'sdxc', 'wifi', '762', 'cm', '30', 'tft', 'lcd', 'touchscreen']",20.2,755.0
+www.ilgs.net//102,fujifilm,"['162mp', '123', 'cmos', '50x', '2x', 'digital', '762', 'cm', '3', 'lcd']",16.2,577.0
+www.ilgs.net//143,sony,"['204mp', '123', 'type', '782mm', 'exmor', 'r', 'cmos', 'sony', 'g', '30x', 'opt', 'zoom', '30', 'tft', 'ms', 'xchg', 'duosdxc', 'bionz', 'x', 'microusb', 'microhdmi', 'wifi', 'nfc', '272g']",20.4,246.0
+www.ilgs.net//47,canon,"['18mp', '223', 'x', '149mm', '32', 'cmos', 'tft', '762', 'cm', '3']",18.0,480.0
+www.ilgs.net//148,samsung,"['nx300', '203', 'mp', 'cmos', '235', 'x', '157', 'mm', '84074', 'cm', '331', 'amoled', '800', 'x', '480', 'sdxc', 'gps', 'wifi', '80211bgn', 'hdmi', '14a']",20.3,280.0
+www.ilgs.net//109,nikon,"['nikon', 'd7000', 'slr', '162mp', 'cmos', '4928', 'x', '3264', 'iso', '1006400', '762', 'cm', '3', 'tftlcd', 'usb', 'sdsdhcsdxc', '690g', 'black']",,
+www.ilgs.net//125,samsung,"['123', 'bsi', 'cmos', '17mp', '12192', 'cm', '48', 'hd', 'super', 'clear', 'lcd', '1280', 'x', '720', '387gb', 'usb', '20', 'microsd', '1650mah', 'android', '41', 'jellybean']",16.3,300.0
+www.ilgs.net//0,sony,"['digital', 'compact', 'camera', '5x', 'optical', 'zoom', '26mm', 'wideangle', 'lens', '201mp', 'sensor', 'steadyshot']",20.1,125.0
+www.ilgs.net//133,panasonic,"['lumix', 'dmctz55', '16mp', '1233', 'mos', 'f33', '64', '1080p', '80211bgn', '24ghz', '762', 'cm', '3', 'tft', 'lcd', 'sdsdhcsdxc', 'usb', 'microhdmi', '1250mah', '224g']",,
+www.ilgs.net//144,nikon,"['122mp', '117', 'cmos', 'fullhd', 'video', '762', 'cm', '3', '921k', 'lcd', 'gps', 'sdsdhcsdxc', 'usb', '200g']",,
+www.ilgs.net//105,sony,"['dscwx350', '182', 'mp', '123', 'type', '782mm', 'exmor', 'r', 'cmos', '20x', 'optical', 'zoom', '762', 'cm', '30', 'tft', 'memory', 'stick', 'xchg', 'duosdxc', 'bionz', 'x', 'micro', 'usb', 'micro', 'hdmi', 'wifi', 'nfc']",14.1,137.0
+www.ilgs.net//26,,,16.0,271.0
+www.ilgs.net//129,,,16.0,271.0
+www.ilgs.net//71,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g']",16.49,650.0
+www.ilgs.net//88,sony,"['204mpx', 'exmor', 'r', 'cmos', '50x', 'optical', 'zoom', '75cm', '30', 'lcd', 'full', 'hd', 'intelligent', 'auto', 'manual', 'control']",20.4,623.0
+www.ilgs.net//67,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'dal', '1855wr']",,
+www.ilgs.net//128,,,16.0,218.0
+www.ilgs.net//70,ricoh,"['14mp', '123', 'ccd', 'pentax', '525mm', 'lens', '6858', 'cm', '27', 'lcd', 'usb', 'hdmi']",14.0,164.0
+www.ilgs.net//104,canon,"['powershot', 'sx600', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '810', 'mm', 'f38', 'f69', '75', 'cm', '30', 'purecolor', 'ii', 'g', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '188g']",16.0,188.0
+www.ilgs.net//145,canon,"['powershot', 'sx280', 'hs', '121mp', '4000', 'x', '3000', 'cmos', '123', 'digic', '6', 'f35', 'f68', 'ttl', 'iso', '806400', '762', 'cm', '3', 'purecolor', 'ii', 'g', 'tft', '1920x108060fps', 'wlan', '80211bgn', 'gps', 'usb', 'mini', 'hdmi', 'palntsc', 'sdsdhcsdxc', '233g', 'black']",12.1,
+www.ilgs.net//112,olympus,"['160mp', '123', 'cmos', '24x', 'zoom', '762', 'cm', '30', '460k', 'dots', 'touch', 'lcd', 'ihs', 'dual', 'full', 'hd', 'movie', 'white']",16.0,269.0
+www.ilgs.net//1,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'dal', '1855wr']",,
+www.ilgs.net//132,samsung,"['galaxy', 'wifi', '3g', '17mp', '21x', 'zoom']",16.3,300.0
+www.ilgs.net//93,nikon,"['d5300', '242mp', 'dx', '235x156mm', 'cmos', 'expeed', '4', '39point', 'af', '81', 'cm', '32', '32', '1037k', 'dot', 'variangle', 'tft', 'hdr', 'nefjpegmov', 'sdsdhcsdxc', 'hdmi', 'usb', '20', 'wifi', 'gps', 'liion', 'red']",,
+www.ilgs.net//124,canon,"['eos', '100d', '1855is', 'stm', '18mp', '223', 'x', '149mm', 'cmos', 'digic', '5', 'efefs', 'iso', 'auto', '1006400', '77cm', '30', '32', 'clear', 'view', 'ii', 'tft', '1040k', '5184x3456', 'sd', 'sdhc', 'sdxc', '407g']",18.0,407.0
+www.ilgs.net//108,,,16.0,760.0
+www.ilgs.net//50,pentax,"['16mp', '1233', 'cmos', '26x', 'zoom', 'viewfinder', '762', 'cm', '30', 'lcd', 'sdsdhcsdxc', 'usb', '20', 'hdmi', '4xaa', '598g']",16.0,
+www.ilgs.net//11,canon,"['eos', '7d', 'efs', '18135mm', 'f3556', '223mm', 'x', '149mm', 'cmos', '1800', 'megapixels', 'dual', 'digic', '4', '762', 'cm', '30', 'clear', 'view', 'ii', 'tft', 'compactflash']",18.0,820.0
+www.ilgs.net//46,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'dal', '1855wr', '50200', 'wr']",,
+www.ilgs.net//69,nikon,"['201mp', '123', 'ccd', '5152', 'x', '3864', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', 'iso', '801600', 'auto', 'black']",,
+www.ilgs.net//2,sony,"['182mp', '123', 'exmor', 'r', 'cmos', 'sony', 'g', 'lens', 'f', '445', '445', 'mm', 'f33', 'w', '59', 'nfc', 'wifi']",18.2,105.0
+www.ilgs.net//86,nikon,"['d7000', '18105mm', 'f3556g', 'edif', 'afs', 'vr', 'dx', 'zoomnikkor', '70300mm', 'f4556g', 'afs', 'vr', 'nikkor', '162', 'mp', '236', 'x', '156', 'mm', 'cmos', 'sd', 'sdhc', 'sdxc', 'hispeed', 'usb']",,
+www.ilgs.net//127,sony,"['10type', '202', 'megapixels', 'exmor', 'cmos', 'f18', 'lens', '36x', 'optical', 'zoom', 'full', 'hd', '50p', '75cm', '30', 'lcd']",20.2,240.0
+www.ilgs.net//90,sony,"['762', 'cm', '30', 'tft', '204', 'mp', '30486x', '123', 'cmos', '24720mm', 'sdsdhcsdxcmicrosdmicrosdhc', 'usb', '20', 'black']",20.4,245.0
+www.ilgs.net//28,sony,"['body', '1670mm', '243', 'mp', 'apsc', 'type', '235', 'x', '156mm', 'exmor', 'aps', 'hd', 'cmos', '6000', 'x', '4000', 'memory', 'stick', 'xchg', 'duo', 'sdxc', 'iso', '100', '51200', '762', 'cm', '30', 'tft']",24.3,285.0
+www.ilgs.net//53,nikon,"['201mp', '123', 'ccd', '5152', 'x', '3864', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', 'iso', '801600', 'auto', 'iso', '3200', 'red']",,
+www.ilgs.net//12,nikon,"['coolpix', 's01', '101mp', '129', 'ccd', '3648', 'x', '2736', '3x', 'optical', 'zoom', '73gb', '635', 'cm', '25', 'tft', 'lcd', 'touch', 'screen', 'usb', '20', '96g', 'pink']",,
+www.ilgs.net//45,canon,"['161', 'mp', 'cmos', '30x', 'iso', '1003200', 'fullhd', 'digic', '6', '762', 'cm', '30', 'lcd', 'usb', 'microhdmi', 'wifi']",16.1,269.0
+www.ilgs.net//65,olympus,"['tg3', '16mp', '123', 'cmos', '4x', 'zoom', '25', '100', 'mm', '30', 'lcd', 'sdsdhcsdxc', 'hdmi', 'type', 'wifi', 'gps']",16.0,247.0
+www.ilgs.net//73,nikon,"['coolpix', 'aw120', '160mp', '123', 'cmos', '5x', 'zoom', '762', 'cm', '30', 'oled', 'sdxc', '4608', 'x', '3456', 'micro', 'hdmi', 'wifi', 'microusb', 'gps', 'ipx8ip6x']",,
+www.ilgs.net//24,canon,"['powershot', 'g1x', '143mp', '187', 'x', '140', 'mm', 'cmos', '4352', 'x', '3264', '4x', 'optical', 'zoom', 'full', 'hd', 'movie', '762', 'cm', '30', 'tft', 'lcd', 'usb', '20', 'hdmi', '534g', 'black']",14.3,534.0
+www.ilgs.net//146,panasonic,"['161mp', '1233', 'mos', '46x', 'zoom', 'fullhd', '1080p', 'video', '762', 'cm', '30', '460k', 'lcd', 'gps', 'wifi', '80211bgn', 'nfc', 'sd', 'microhdmi', 'av', 'usb', '214g']",,
+www.ilgs.net//49,sony,"['h400', 'compact', 'camera', '201mp', 'sensor', '63x', 'optical', 'zoom', 'optical', 'steadyshot', 'x', 'type', 'lithiumion', 'battery']",20.1,655.0
+www.ilgs.net//48,canon,"['121', 'mp', '4000', 'x', '3000', 'max', '123', 'cmos', '5x', 'optical4x', 'digital', 'zoom', 'iso', '1003200', 'fhd', 'video', '762', 'cm', '3', 'tft', 'lcd', 'usb', '20', 'mini', 'hdmi', '218', 'g']",12.1,218.0
+www.ilgs.net//110,olympus,"['160mp', '123', 'cmos', '24x', 'zoom', '762', 'cm', '30', '460k', 'dots', 'touch', 'lcd', 'ihs', 'dual', 'full', 'hd', 'movie', 'black']",16.0,269.0
+www.ilgs.net//106,panasonic,"['161mp', '1233', 'mos', '46x', 'zoom', 'fullhd', '1080p', 'video', '762', 'cm', '30', '460k', 'lcd', 'gps', 'wifi', '80211bgn', 'nfc', 'sd', 'microhdmi', 'av', 'usb', '214g']",,
+www.ilgs.net//25,fujifilm,"['xm1', 'xc1650mm', 'kit', '16mp', 'apsc', 'xtrans', 'cmos', '762', 'cm', '30', 'lcd', 'sdsdhcsdxc', 'full', 'hd', 'movie', 'blacksilver']",16.0,280.0
+www.ilgs.net//72,canon,"['digital', 'ixus', '150', '16', 'mp', '4608', 'x', '3456', '123', 'ccd', 'iso', '1001600', '6858', 'cm', '27', 'lcd', 'usb', '20', '130', 'g']",16.0,127.0
+www.ilgs.net//64,canon,"['16mp', '8x', '4x', 'digital', '762', 'cm', '3', 'tft', 'digic', '4']",16.0,133.0
+www.ilgs.net//33,sony,"['wireless', 'lens', 'connects', 'smartphone', '18mp', 'exmor', 'r', 'cmos', 'sensor', '10x', 'optical', 'zoom']",18.0,90.0
+www.ilgs.net//126,nikon,"['201mp', '123', 'ccd', '5152', 'x', '3864', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', 'iso', '801600', 'auto', 'iso', '3200', 'black']",,
+www.ilgs.net//68,samsung,"['203', 'mpix', 'sclcd', '477', '1280', 'x', '720', 'hd', '16', 'gb', '16ghz', 'cpu', 'usb', '20', 'hdmi', '14b']",20.3,410.0
+www.ilgs.net//130,,,16.0,214.0
+www.ilgs.net//3,canon,"['eos', '700d', 'efs', '1855mm', 'stm', '18mp185mp', '5184x3456', 'ttlctsir', 'cmos', 'digic', '5', 'efefs', 'rawjpeg', '1920x108030fps', 'sdsdhcsdxc', '580g']",18.0,580.0
+www.ilgs.net//34,sony,"['digital', 'emount', '201', 'mega', 'pixel', 'camera', 'sel', '1855', 'lens']",20.1,353.0
+www.ilgs.net//63,panasonic,"['161mp', '123', 'high', 'sensitivity', 'mos', 'lumix', 'dc', 'vario', '60x', 'optique', 'zoom', 'power', 'ois', '4608', 'x', '3456', 'max', '1920', 'x', '1080', 'full', 'hd', 'video', 'sd', 'card', 'minihdmi', 'av', '762', 'cm', '30', 'lcd', 'usb', 'liion', '72v', '895mah', '65', 'wh', '562g']",,
+www.ilgs.net//22,samsung,"['203mp', 'aspc', 'cmos', 'iso100', '25600', '14000s', 'f20', '50mm', '9398', 'cm', '37', 'full', 'touchscreen', '800', 'x', '480', 'memory', '2gb', 'microsdmicrosdhcmicrosdxc', 'micro', 'hdmi', 'usb', '20', 'wifi', '80211bgn', 'nfc', 'black']",20.3,228.0
+www.ilgs.net//59,canon,"['powershot', 'sx270', 'hs', '121mp', '4000', 'x', '3000', '123', 'cmos', 'digic', '6', 'f35', 'f68', 'ttl', 'iso', '806400', '762', 'cm', '30', 'purecolor', 'ii', 'g', 'tft', '1920x108060fps', 'usb', 'mini', 'hdmi', 'palntsc', 'sdsdhcsdxc', '227g', 'grey']",12.1,
+www.ilgs.net//18,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'da', '18', '135wr']",16.49,650.0
+www.ilgs.net//140,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'dal', '1855wr', '50200', 'wr']",16.49,650.0
+www.ilgs.net//117,pentax,"['162mp', 'cmos', 'iso', '100', '51200', '16000sec', '6fps', 'usb', 'sdsdhcsdxc', '762', 'cm', '3', 'tft', 'lcd', '650g', 'dal', '1855wr']",,
+www.ilgs.net//38,sony,"['4k', 'ultrahd', '243mp', 'exmor', 'cmos', 'jpegraw', '6000x4000', 'fullhd', 'avchdmp4', 'wifi', 'nfc', '762', 'cm', '3', '921k', 'lcd', 'mssd', 'hdmi', 'usb', '416g', 'sel2870', '2870mm', 'f3556', 'ed']",24.3,416.0
+www.ilgs.net//137,olympus,"['tg3', '16mp', '123', 'cmos', '4x', 'zoom', '25', '100', 'mm', '30', 'lcd', 'sdsdhcsdxc', 'hdmi', 'type', 'wifi', 'gps']",16.0,247.0
+www.ilgs.net//79,canon,"['digital', 'ixus', '265', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '540', 'mm', 'f36', 'f70', '75', 'cm', '30', 'inch', 'lcd', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '147g']",16.0,147.0
+www.ilgs.net//96,canon,"['eos', '700d', 'body', '18mp185mp', '5184x3456', 'ttlctsir', 'cmos', 'digic', '5', 'efefs', 'rawjpeg', '1920x108030fps', 'sdsdhcsdxc', '580g']",18.0,580.0
+www.ilgs.net//43,canon,"['powershot', 'sx600', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '810', 'mm', 'f38', 'f69', '75', 'cm', '30', 'purecolor', 'ii', 'g', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '188g']",16.0,188.0
+www.ilgs.net//42,,,16.0,271.0
+www.ilgs.net//15,,,16.0,236.0
+www.ilgs.net//54,canon,"['eos', '70d', '202mp', 'cmos', '32', 'native', '5472', 'x', '3648', 'max', '18000', '30', 'sec', 'af', 'ae', 'iso', '10012800', 'h', '25600', 'video', 'full', 'hd', 'pictbridge', 'usb', 'hdmi', 'type', 'c', 'sdsdhc', 'sdxc', 'wifi', '762', 'cm', '30', 'tft', 'lcd', 'touchscreen']",20.2,755.0
+www.ilgs.net//97,samsung,"['nx300', '203', 'mp', 'cmos', '235', 'x', '157', 'mm', '84074', 'cm', '331', 'amoled', '800', 'x', '480', 'sdxc', 'gps', 'wifi', '80211bgn', 'hdmi', '14a']",20.3,280.0
+www.ilgs.net//136,,,16.0,218.0
+www.ilgs.net//81,nikon,"['coolpix', 'aw120', '160mp', '123', 'cmos', '5x', 'zoom', '762', 'cm', '30', 'oled', 'sdxc', '4608', 'x', '3456', 'micro', 'hdmi', 'wifi', 'microusb', 'gps', 'ipx8ip6x']",,
+www.ilgs.net//5,sony,"['36x', 'optical', 'zoom', 'cmos', '202', 'mega', 'pixels', 'carl', 'zeiss', 'optics', 'hispeed', 'usb', 'lithiumion', '165g']",20.2,165.0
+www.ilgs.net//116,canon,"['digital', 'ixus', '265', 'hs', 'cmos', '123', '16mp', '4608', 'x', '3456', 'digic', '4', 'isaps', '45', '540', 'mm', 'f36', 'f70', '75', 'cm', '30', 'inch', 'lcd', 'tft', 'full', 'hd', '1920', 'x', '1080', 'usb20', 'hdmimicro', 'wifi', 'ieee80211bgn', 'sd', 'sdhc', 'sdxc', '147g']",16.0,147.0
+www.ilgs.net//141,canon,"['eos', '100d', '1855mm', 'stm', '40mm', 'st', '18mp', '223', 'x', '149mm', 'cmos', 'digic', '5', 'efefs', 'iso', 'auto', '1006400', '77cm', '30', '32', 'clear', 'view', 'ii', 'tft', '1040k', '5184x3456', 'sd', 'sdhc', 'sdxc', '407g']",18.0,
+www.ilgs.net//58,nikon,"['d3200', '1855', 'vr', 'kit', '242', 'mp', '6016', 'x', '4000', 'cmos', 'iso', '200', '6400', '762', 'cm', '3', 'tft', 'type', 'c', 'hdmi', 'mini', 'red']",,
+www.ilgs.net//100,sony,"['201mp', '123', 'ccd', '46', '23mm', 'iso', '100', '3200', '6858', 'cm', '27', 'lcd', '29mb']",20.1,109.0
+www.ilgs.net//23,fujifilm,"['162mp', 'bsicmos', '50x', '24', 'x', '1200mm', '762', 'cm', '3', 'lcd', '12800', 'iso', 'aa']",16.2,577.0
+www.ilgs.net//74,,,16.0,214.0
+www.ilgs.net//9,canon,"['eos', '700d', 'efs', '18135mm', 'stm', '40mm', 'stm', '18mp185mp', '5184x3456', 'ttlctsir', 'cmos', 'digic', '5', 'efefs', 'rawjpeg', '1920x108030fps', 'sdsdhcsdxc', '580g']",18.0,
+www.ilgs.net//35,canon,"['eosm', 'efm', '22mm', 'ef', 'adapter', '32', '18mp', '223', 'x', '149mm', 'cmos', '5184', 'x', '3456', 'pictbridge', '298g']",18.0,
