@@ -1,4 +1,4 @@
-spec_id,brand,camera resolution,lcd size,page_title
+spec_id,brand,megapixels,screen_size,page_title
 www.ukdigitalcameras.co.uk//50,canon,16.0,3.0,"['canon', 'powershot', 'sx700', 'hs', 'digital', 'camera', 'red', 'uk', 'digital', 'cameras']"
 www.ukdigitalcameras.co.uk//34,panasonic,10.1,3.0,"['panasonic', 'lumix', 'lx7', 'digital', 'camera', 'black', 'uk', 'digital', 'cameras']"
 www.ukdigitalcameras.co.uk//47,ricoh,16.0,3.0,"['ricoh', 'wg4', 'gps', 'digital', 'camera', 'black', 'uk', 'digital', 'cameras']"

@@ -1,4 +1,4 @@
-spec_id,product name,manufacturer,camera type,weight,megapixels,lcd screen size,dimensions,page_title
+spec_id,short_descr,manufacturer,type,weight,megapixels,screen_size,dimensions,page_title
 www.gosale.com//840,"['canon', 'powershot', 'a2300', '16mp', 'digital', 'camera', '5x', 'zoom', '720p', 'hd', 'video', 'recording', 'black']",canon,point shoot,,,,,"['canon', 'powershot', 'a2300', '16mp', 'digital', 'sale', '11494']"
 www.gosale.com//1476,"['canon', 'powershot', 'elph', '320', 'hs', '161mp', 'wifi', 'digital', 'camera', '5x', 'zoom', '1080p', 'video', 'black']",canon,point shoot,,,,,"['canon', 'powershot', 'elph', '320', 'hs', '161mp', 'wifi', 'sale', '15246']"
 www.gosale.com//1146,"['panasonic', 'lumix', 'dmcfz1000', '4k', 'qfhdhd', '16x', 'long', 'zoom', 'digital', 'camera', 'black', 'transcend', '64', 'gb', 'uh3', 'sd', 'card', '50', 'inch', 'tripod', 'camera', 'bag', 'uv', 'filter']",panasonic,point   shoot,,,,,"['panasonic', 'lumix', 'dmcfz1000', '4k', 'qfhdhd', '16x', 'sale', '96999']"

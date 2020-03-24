@@ -1,741 +1,741 @@
-spec_id,max image resolution,page_title
-www.priceme.co.nz//2407,5472x3648,"['canon', 'eos', '70d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2050,5184x3456,"['canon', 'eos', '700d', '18553556', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1984,4608x3456,"['nikon', 'coolpix', 'p310', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2262,6000x4000,"['nikon', 'd5200', '181053556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1937,4608x3456,"['olympus', 'stylus', 'tg3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1734,4352x3264,"['canon', 'powershot', 'g1', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2356,5760x3840,"['canon', 'eos', '5d', 'mark', 'iii', '247028', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1940,4896x3672,"['sony', 'cybershot', 'dschx10v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//50,4592x3448,"['panasonic', 'lumix', 'dmcgx1', '1425', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2264,6000x4000,"['sony', 'alpha', 'slta65v', 'tamron', 'af', '18200mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//34,4240x2384,"['sony', 'alpha', 'a7s', '3528', 'za', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2052,4896x3264,"['sigma', 'sd1', 'merrill', '175028', 'os', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//47,4608x3456,"['fujifilm', 'finepix', 'f660', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2178,4608x3456,"['olympus', 'omd', 'em10', '1442', '40150mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1926,4000x3000,"['fujifilm', 'finepix', 'x30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1726,5184x3456,"['canon', 'eos', '550d', '18553556', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//40,,"['fujifilm', 'finepix', 's8600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2016,,"['pentax', 'q7', '5152845', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2255,,"['leica', 'typ', '240', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2195,3648x2736,"['canon', 'powershot', 'a490', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2045,4272x2848,"['canon', 'eos', '1100d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2156,4000x3000,"['fujifilm', 'xq1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2002,4608x3456,"['olympus', 'pen', 'epl5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2404,4288x3216,"['fujifilm', 'finepix', 's4500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//42,4608x3456,"['fujifilm', 'finepix', 'f800', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2253,4320x3240,"['fujifilm', 'finepix', 'z110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1974,4608x3456,"['olympus', 'omd', 'em5', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2127,4592x3448,"['panasonic', 'lumix', 'dmcgx1', '14423556', '451504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//59,4896x3672,"['sony', 'cybershot', 'dscwx200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2270,5472x3648,"['samsung', 'nx1000', '20503556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//60,4608x3456,"['sony', 'cybershot', 'dscw730', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2328,,"['pentax', 'k50', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2351,4608x3456,"['sony', 'cybershot', 'dsctx10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2266,4000x3000,"['panasonic', 'lumix', 'dmcgf3', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1802,6000x4000,"['sony', 'a6000', '16704', 'za', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//73,4928x3264,"['nikon', 'd7000', '241204', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1699,3872x2592,"['nikon', '1', 'v1', '1028', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2200,4592x3448,"['panasonic', 'lumix', 'gm1', '1517', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2145,4608x3072,"['nikon', 'd3100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1851,4000x3000,"['canon', 'powershot', 's110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1736,4608x3456,"['panasonic', 'lumix', 'dmcg5', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1677,4000x3000,"['pentax', 'q', '8519', '5152845', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//39,6000x4000,"['sony', 'alpha', 'a6000', '16503556', '55210', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1930,,"['fujifilm', 'finepix', 'j28', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2292,4000x3000,"['panasonic', 'lumix', 'dmclf1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1711,,"['canon', 'eos', 'm2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2007,4928x3264,"['nikon', 'd5100', '182003556', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2191,7360x4144,"['sony', 'a7r', '24704', 'za', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1976,3264x2448,"['olympus', 'stylus', 'sz16', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1837,4608x3456,"['samsung', 'wb800f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1745,4592x3056,"['sony', 'alpha', 'slta33', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2162,5184x3456,"['canon', 'eos', '60d', '182003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2151,4608x3456,"['canon', 'powershot', 'a3400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2008,4896x3672,"['sony', 'cybershot', 'dsctx30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1919,1920x1080,"['hp', 'ac200w', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2189,4000x3000,"['nikon', 'coolpix', 's70', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2283,4608x3456,"['canon', 'powershot', 'sx160', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2114,4288x3216,"['fujifilm', 'finepix', 'av150', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1938,6016x4016,"['nikon', 'd610', '241204', 'g', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//75,4608x3456,"['nikon', 'coolpix', 'l29', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2241,3968x2976,"['olympus', 'tough', 'tg1', 'ihs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2066,4912x3264,"['sony', 'nexc3', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2204,5472x3648,"['sony', 'alpha', 'slta58', '18553536', 'sam', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1689,4288x3216,"['fujifilm', 'finepix', 's4200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1900,4000x3000,"['canon', 'powershot', 'a3100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1961,4928x3264,"['pentax', 'k5', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1995,4608x3456,"['olympus', 'omd', 'em5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2136,4928x3264,"['nikon', 'd7000', '18553556', 'vr', '552004056', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1968,,"['ricoh', 'wg4', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2135,5472x3648,"['canon', 'eos', '70d', '18553556', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2333,5184x3456,"['canon', 'eos', '60d', 'tamron', '18270', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2042,4896x3264,"['fujifilm', 'xt1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1861,4608x3456,"['panasonic', 'lumix', 'dmcg5', '14423556', 'ois', '451504056', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1814,,"['sony', 'cybershot', 'dscwx80', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1868,3648x2736,"['sony', 'cybershot', 'dscwx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1803,6016x4000,"['pentax', 'k3', '18553556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1713,4592x3448,"['panasonic', 'lumix', 'dmcgf6', '14423556', '451504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2363,4608x3456,"['nikon', 'coolpix', 's9300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1688,,"['fujifilm', 'finepix', 's2960', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1860,6000x4000,"['nikon', 'd7100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//4,3648x2736,"['sony', 'cybershot', 'dsctx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1994,5184x3456,"['canon', 'eos', '600d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//69,6000x4000,"['nikon', 'd7100', 'nikon', '18553556', 'g', 'vr', '553004556', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1701,4000x3000,"['fujifilm', 'finepix', 's2500hd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2258,4592x3056,"['sony', 'alpha', 'nex5r', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1806,4320x3240,"['canon', 'powershot', 'a3200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2301,4000x3000,"['canon', 'powershot', 'g16', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2359,5184x3456,"['canon', 'eos', '600d', '18553556', '753004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//19,4320x3240,"['samsung', 'wb250f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2089,4608x3456,"['nikon', 'coolpix', 's100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1772,4608x3456,"['samsung', 'dv300f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2372,6000x4000,"['sony', 'alpha', 'nex7', '2418', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2383,5184x3888,"['sony', 'cybershot', 'dscqx30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1934,5184x3456,"['canon', 'eos', '60d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1972,4000x3000,"['panasonic', 'lumix', 'dmcgf5', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1910,4592x3056,"['sony', 'nex5', '1628', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1971,4000x3000,"['sony', 'cybershot', 'dscwx5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1963,4912x3264,"['sony', 'alpha', 'slta55', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1706,4000x3000,"['fujifilm', 'finepix', 'av130', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1841,,"['nikon', 'df', '5018', 'g', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2077,4896x3264,"['fujifilm', 'xpro1', '6024', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2102,4896x3264,"['fujifilm', 'xa1', '16503545', '502304567', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2146,5184x3456,"['canon', 'eos', '100d', '4028', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1942,4608x3456,"['casio', 'exilim', 'exzr1000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1690,4896x3672,"['panasonic', 'lumix', 'dmczs30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1738,,"['fujifilm', 'finepix', 'jv210', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1774,2640x1760,"['sigma', 'dslrsd15', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2067,,"['leica', 'x', 'vario', 'typ', '107', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1730,4000x3000,"['canon', 'powershot', 'd10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1941,6000x4000,"['nikon', 'd7100', 'nikon', 'afs', '16853556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1731,5184x3456,"['canon', 'eos', '60d', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2209,4320x3240,"['fujifilm', 'finepix', 'xp20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2343,5184x3456,"['canon', 'eos', '7d', '2410540', 'l', 'usm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1777,5184x3456,"['canon', 'eos', '100d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1762,4896x3672,"['sony', 'cybershot', 'dscwx300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2041,4608x3456,"['samsung', 'galaxy', '2', 'ekgc200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2183,4608x3456,"['panasonic', 'lumix', 'dmcft20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//3,5184x3456,"['sony', 'cybershot', 'hx60v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1768,,"['olympus', 'stylus', 'sh50', 'ihs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//49,4912x3264,"['sony', 'nexc3', '1628', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//12,6000x4000,"['sony', 'alpha', 'a5100', '16503556', 'oss', '552104563', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1982,5184x3456,"['canon', 'eos', '100d', 'tamron', '182703563', 'vc', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2017,,"['casio', 'exilim', 'extr35', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2192,6016x4000,"['nikon', 'd3200', '182003556', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2321,4000x3000,"['olympus', 'xz2', 'ihs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1729,4288x2848,"['pentax', 'kx', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2100,5184x3456,"['canon', 'eos', '600d', '182003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1716,4000x3000,"['canon', 'powershot', 'n100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1881,4608x3456,"['nikon', 'coolpix', 'p600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//52,6016x4016,"['nikon', 'd750', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1698,5184x3456,"['canon', 'eos', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2373,4608x3072,"['nikon', 'd3100', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//87,4608x3456,"['olympus', 'omd', 'em10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1831,6000x4000,"['sony', 'alpha', 'slta77', 'ii', '165028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2133,4896x3264,"['fujifilm', 'xpro1', '182', 'xf', 'r', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1833,4288x2848,"['nikon', 'd90', '181053556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1987,4320x3240,"['canon', 'powershot', 'sx210', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2181,4928x3264,"['nikon', 'd5100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//98,,"['sony', 'alpha', 'slta57', '11184556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2248,4912x3264,"['sony', 'alpha', 'nex3n', '16503556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1850,4320x3240,"['leica', 'vlux', '40', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1911,4608x3456,"['olympus', 'omd', 'em5', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2110,6000x4000,"['nikon', 'd3300', '1855', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2069,4608x3456,"['olympus', 'tough', 'tg830', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2332,4032x3024,"['olympus', 'pen', 'epl1', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2375,4592x3448,"['panasonic', 'lumix', 'dmcgf6', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1784,4608x3456,"['panasonic', 'lumix', 'dmcgh4', '123528', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//33,4000x3000,"['panasonic', 'lumix', 'dmcgf3', '1425', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2317,4608x3072,"['nikon', 'd3100', '182003556', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1724,4608x3456,"['olympus', 'omd', 'em1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2177,4000x3000,"['panasonic', 'lumix', 'dmcgh1', '141404058', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2048,4928x3264,"['pentax', 'k30', '18553556', '502004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2112,3648x2736,"['fujifilm', 'finepix', 's2000hd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1678,4896x3264,"['fujifilm', 'x100t', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1847,7360x4912,"['nikon', 'd800', '247028', 'g', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1775,4912x3264,"['sony', 'alpha', 'nex5r', '16503556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//6,5472x3648,"['samsung', 'nx300', '20503556', 'ed', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2354,5456x3632,"['sony', 'a5000', '16503556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2129,7360x4912,"['nikon', 'd810', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2165,3264x2448,"['fujifilm', 'finepix', 'j15', 'fd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2124,4592x3448,"['panasonic', 'lumix', 'dmcgf6', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1898,4320x3240,"['nikon', 'coolpix', 's1200pj', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1936,5456x3632,"['sony', 'alpha', 'slta58', '18553556', 'sam', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//24,,"['fujifilm', 'finepix', 's9400w', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1696,4344x3258,"['samsung', 'st5500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1740,4032x3024,"['olympus', 'pen', 'ep3', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1886,4000x3000,"['sony', 'cybershot', 'dscw510', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2254,,"['panasonic', 'lumix', 'dmcxs1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//46,4928x3264,"['leica', 'x2', '3528', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2011,4608x3456,"['olympus', 'omd', 'em5', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1809,6048x4032,"['nikon', 'd600', '24853545', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2286,4000x3000,"['canon', 'ixus', '105', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1870,5184x3456,"['canon', 'eos', '100d', '18553556', 'stm', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2152,4608x3456,"['panasonic', 'lumix', 'dmctz55', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1673,,"['fujifilm', 'finepix', 's8200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1906,,"['fujifilm', 'finepix', 'f750', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2365,,"['canon', 'eos', '400d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2000,4912x3264,"['sony', 'alpha', 'nex5r', '16503556', 'oss', '552104563', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//8,,"['samsung', 'wb2200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1683,4912x3264,"['sony', 'alpha', 'slta37', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2353,5472x3648,"['canon', 'powershot', 'g7', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2078,4592x3448,"['panasonic', 'lumix', 'dmcgf6', '1425', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1798,6000x4000,"['nikon', 'd5200', '18553556', 'vr', '552004056', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//72,5184x3456,"['canon', 'eos', '1dx', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1759,4000x3000,"['panasonic', 'lumix', 'dmcfz200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2231,3648x2736,"['fujifilm', 'finepix', 'z33', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//15,,"['sony', 'cybershot', 'dscw810', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1682,4608x3456,"['fujifilm', 'finepix', 's1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2219,3872x2592,"['nikon', '1', 's1', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//16,4608x3456,"['canon', 'powershot', 'sx700', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2339,4320x3240,"['samsung', 'wb150f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2349,5184x3456,"['canon', 'eos', '1200d', '18135mm', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1,4000x3000,"['canon', 'powershot', 'sx280', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2213,4608x3456,"['panasonic', 'lumix', 'dmcg6', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1823,,"['leica', 'vlux', '4', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//95,3648x2736,"['sony', 'cybershot', 'dschx5v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2227,5184x3456,"['canon', 'eos', '7d', '182003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//85,4928x3264,"['nikon', 'd5100', '181053556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//89,4912x3264,"['sony', 'alpha', 'nex6', '16503556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1950,6016x4016,"['nikon', 'd610', 'tamron', '2470mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1667,4320x3240,"['sony', 'cybershot', 'dscw320', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2088,4608x3456,"['nikon', 'coolpix', 's2700', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2256,4608x3456,"['nikon', 'coolpix', 'aw100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2300,6016x4016,"['nikon', 'd610', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2001,4320x3240,"['panasonic', 'lumix', 'dmctz30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2074,4608x3456,"['canon', 'ixus', '135', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2366,5184x3456,"['canon', 'eos', '600d', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//91,5472x3648,"['sony', 'cybershot', 'dscrx100', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2242,4928x3264,"['pentax', 'k30', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2140,3648x2736,"['canon', 'powershot', 's200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2076,4608x3456,"['olympus', 'omd', 'em1', '1240f28', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1977,4608x3456,"['olympus', 'stylus', 'tough', 'tg850', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2358,4608x3456,"['panasonic', 'lumix', 'dmcg6', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1765,3648x2736,"['canon', 'ixus', '510', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1997,3648x2736,"['fujifilm', 'finepix', 'hs10', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2083,3968x2976,"['olympus', 'stylus', 'tough', 'tg630', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1838,4912x3264,"['sony', 'nex5t', '16503556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2115,3648x2736,"['samsung', 'wb1100f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2240,,"['casio', 'exilim', 'exzr800', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1893,4000x3000,"['canon', 'powershot', 's100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1717,6000x4000,"['sony', 'alpha', 'nex7', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1797,3872x2592,"['nikon', '1', 'j1', '1028', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1945,6000x4000,"['nikon', 'd3300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2233,6000x4000,"['sony', 'alpha', 'slta65', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1904,4896x3264,"['fujifilm', 'xe2', '1855284', 'r', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2288,5472x3648,"['canon', 'eos', '6d', '247040', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2237,4608x3456,"['olympus', 'omd', 'em1', '1250', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2312,4928x3264,"['pentax', 'k01', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2040,4000x3000,"['canon', 'powershot', 'sx40', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2174,4000x3000,"['leica', 'vlux', '3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//38,6000x4000,"['nikon', 'd7100', '182003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2150,4912x3264,"['sony', 'alpha', 'slta37', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//56,5472x3648,"['panasonic', 'lumix', 'dmcfz1000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//13,4288x3216,"['fujifilm', 'finepix', 'jx300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2038,4912x3264,"['sony', 'alpha', 'slta57', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//108,4592x3448,"['panasonic', 'lumix', 'dmcgx7', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2043,6000x4000,"['nikon', 'd3200', '18553556', 'vr', '553004556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2010,3648x2736,"['canon', 'ixus', '300', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1714,5472x3648,"['canon', 'eos', '70d', '1785mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2289,4288x2848,"['pentax', 'kr', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2004,5760x3840,"['canon', 'eos', '5d', 'mark', 'iii', '2410540', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2080,4000x3000,"['canon', 'powershot', 'd20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1901,4000x3000,"['canon', 'ixus', '1100', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2244,4928x3264,"['nikon', 'd7000', '182003556', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2346,3648x2736,"['nikon', 'coolpix', 's01', 'mini', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2099,,"['fujifilm', 'instax', '210', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2199,4608x3456,"['nikon', 'coolpix', 'aw120', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2182,4000x3000,"['nikon', 'coolpix', 's9100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2009,4608x3456,"['nikon', 'coolpix', 's9600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//37,4896x3264,"['fujifilm', 'xm1', '16503556', '502304567', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1993,5184x3456,"['sony', 'cybershot', 'hx400v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1889,4000x3000,"['canon', 'powershot', 'sx220', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2139,4608x3456,"['panasonic', 'lumix', 'dmcsz1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1915,4608x3456,"['samsung', 'wb35f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2319,5184x3456,"['canon', 'eos', '7d', '18553556', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1747,1920x1080,"['fujifilm', 'finepix', 'sl300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//27,,"['fujifilm', 'finepix', 'ax600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1965,4608x3456,"['sony', 'cybershot', 'dscw630', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2271,4608x3456,"['panasonic', 'lumix', 'dmcgh3', '123528', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1966,5184x3456,"['canon', 'eos', '650d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1805,4608x3456,"['nikon', 'coolpix', 's6300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1991,4608x3456,"['samsung', 'mv900f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1876,3872x2592,"['nikon', '1', 'j2', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//70,3968x2976,"['olympus', 'stylus', '1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1846,4320x3240,"['samsung', 'wb210', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1732,6000x4000,"['sony', 'alpha', 'slta77', '165028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//106,5184x3456,"['canon', 'eos', '2220', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2390,4608x3456,"['canon', 'ixus', '265', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2316,4592x3448,"['panasonic', 'lumix', 'gm1', '20mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1739,4608x3456,"['olympus', 'pen', 'epl6', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1786,5184x3456,"['canon', 'eos', '7d', '175528', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2026,4896x3672,"['nikon', 'coolpix', 's9500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1702,4608x3456,"['canon', 'powershot', 'a2300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2197,3872x2592,"['nikon', '1', 's1', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2393,4896x3264,"['fujifilm', 'xe1', '18552840', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2265,4608x3072,"['nikon', 'd3100', '18553556', 'vr', '553004556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1804,5184x3456,"['canon', 'eos', '7d', '15853556', '703004556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1741,3456x3456,"['panasonic', 'lumix', 'dmcft25', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2269,4224x3168,"['nikon', 'coolpix', 'p6000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2034,4272x2848,"['canon', 'eos', '1100d', '18553556', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//41,4928x3264,"['nikon', 'd7000', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1755,4608x3456,"['panasonic', 'lumix', 'dmcg5', '14423556', 'ois', 'pz', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1788,5184x3456,"['sony', 'cybershot', 'dsch200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1825,4352x3264,"['canon', 'powershot', 'g1', 'x', '28112mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2389,6016x4000,"['pentax', 'k3', '181353556', 'ed', 'al', 'dc', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//65,4912x3264,"['sony', 'alpha', 'nex3n', '16503556', 'oss', '552104563', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2216,4288x2848,"['nikon', 'd90', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1970,3648x2736,"['fujifilm', 'finepix', 'z35', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1692,4000x3000,"['sony', 'cybershot', 'dscs2100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1990,4000x3000,"['canon', 'ixus', '220', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1913,4000x3000,"['fujifilm', 'finepix', 'z70', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//7,4896x3264,"['fujifilm', 'finepix', 'x100s', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//25,5184x3456,"['canon', 'eos', '7d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2111,4608x3456,"['canon', 'powershot', 'a2400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2087,5212x3472,"['leica', 'typ', '220', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2019,4272x2848,"['canon', 'eos', '1100d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//76,,"['fujifilm', 'finepix', 'hs35', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2405,5472x3648,"['samsung', 'nx30', '18553556', 'ois', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2386,4912x3264,"['sony', 'alpha', 'nex6', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2234,4896x3672,"['nikon', 'coolpix', 'p520', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2095,3968x2976,"['olympus', 'style', '1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2275,4896x3264,"['fujifilm', 'xa1', '16503556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1800,4928x3264,"['nikon', 'd5100', '18553556', 'vr', '553004556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1884,4000x3000,"['pentax', 'q', '8519', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1668,4256x2832,"['nikon', 'd700', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1999,5456x3632,"['sony', 'alpha', 'qx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1988,5184x3888,"['sony', 'cybershot', 'dschx50v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2318,5184x3456,"['canon', 'eos', '700d', 'tamron', '18270mm', 'vc', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2186,5456x3632,"['sony', 'a5000', '1650mm', '55210mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2384,4896x3264,"['fujifilm', 'xa1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2090,6000x4000,"['sony', 'alpha', 'slta77', 'ii', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2049,,"['canon', 'powershot', 'sx510', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2073,6016x4000,"['nikon', 'd3200', '18553556', 'vr', '703004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1666,5184x3456,"['canon', 'eos', '650d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2106,5472x3648,"['sony', 'cybershot', 'dscqx100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1981,4608x3456,"['nikon', 'coolpix', 'p510', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//62,4608x3456,"['olympus', 'pen', 'epl5', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1822,6000x4000,"['sony', 'cybershot', 'dscrx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//66,4608x3456,"['sony', 'cybershot', 'dscw570', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1763,4896x3672,"['panasonic', 'lumix', 'tz60', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1947,3648x2736,"['fujifilm', 'finepix', 'a100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2093,5456x3632,"['sony', 'a5000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2225,4000x3000,"['sony', 'cybershot', 'dschx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//79,3648x2736,"['canon', 'ixus', '500', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1959,4032x3024,"['olympus', 'pen', 'ep3', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2175,4592x3056,"['sony', 'nex3', '1628', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2324,4896x3672,"['sony', 'cybershot', 'dschx30v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1864,4000x3000,"['canon', 'powershot', 'sx260', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2055,5472x3648,"['samsung', 'mini', 'nx', 'f1', '9273556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//78,4928x3264,"['pentax', 'k5', 'ii', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1946,6000x4000,"['nikon', 'd5200', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1973,4608x3456,"['sony', 'cybershot', 'dscwx7', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2113,4272x2848,"['canon', 'eos', '1100d', '18553556', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1693,4928x3264,"['pentax', 'k5', 'iis', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1676,4608x3456,"['nikon', 'coolpix', 'p530', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1956,4000x3000,"['fujifilm', 'finepix', 'f300', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1953,4032x3024,"['olympus', 'xz10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2401,4608x3456,"['nikon', 'coolpix', 'l610', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2032,4000x3000,"['canon', 'powershot', 'sx270', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2331,4000x3000,"['sony', 'cybershot', 'dsctx9', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2,5184x3456,"['canon', 'eos', '1200d', '18553556', '75300456', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//105,5184x3456,"['canon', 'eos', '700d', '181353556', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2103,4608x3456,"['nikon', 'coolpix', 's6800', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1865,6000x4000,"['nikon', 'd3300', '1855', 'vr', 'ii', '55200', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2091,4288x3216,"['olympus', 'vg140', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2030,4000x3000,"['samsung', 'ex2f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//9,4928x3264,"['nikon', 'coolpix', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1836,,"['casio', 'exilim', 'exzr15', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1852,4896x3264,"['fujifilm', 'xpro1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2141,5472x3648,"['canon', 'eos', '70d', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2259,4608x3456,"['nikon', 'coolpix', 'l810', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1975,3888x2592,"['canon', 'eos', '1000d', '18553556', '753004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2236,6016x4016,"['nikon', 'd750', '24120mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1920,,"['fujifilm', 'finepix', 'f850', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2035,3872x2592,"['nikon', '1', 'j1', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1928,4320x3240,"['fujifilm', 'finepix', 'jz500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2086,4288x3216,"['fujifilm', 'finepix', 'ax500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2306,7360x4912,"['nikon', 'd800', '28300mm', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2291,4608x3456,"['olympus', 'pen', 'ep5', '1718', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2058,3872x2592,"['nikon', '1', 'v1', '1028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2123,4592x3448,"['panasonic', 'lumix', 'dmcgx1', '14423556', 'ois', 'pz', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//32,,"['canon', 'powershot', 'sx170', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1787,4608x3456,"['olympus', 'pen', 'epl5', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2060,4320x3240,"['nikon', 'coolpix', 's2600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1793,5184x3456,"['canon', 'eos', '60d', '18553556', 'ii', '753004056', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1873,4608x3072,"['nikon', '1', 'v2', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2342,6000x4000,"['nikon', 'd3300', '18140', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//67,6000x4000,"['sony', 'alpha', 'a6000', '16503556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1887,4608x3456,"['canon', 'ixus', '132', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2132,7360x4912,"['pentax', '645z', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2391,4000x3000,"['samsung', 'wb600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1859,4592x3448,"['panasonic', 'lumix', 'dmcgx7', '2017', 'ii', '141403556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1923,,"['pentax', 'k50', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//10,4288x3216,"['fujifilm', 'finepix', 's2950hd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2263,4272x2848,"['canon', 'eos', '1100d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2282,4032x3024,"['olympus', 'pen', 'epl3', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1921,,"['samsung', 'st93', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1708,4320x3240,"['samsung', 'sh100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1892,3648x2736,"['fujifilm', 'finepix', 'j20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1845,,"['fujifilm', 'finepix', 'xp200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2196,6000x4000,"['nikon', 'd5300', '181403556', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1925,,"['fujifilm', 'xm1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2348,4320x3240,"['sony', 'cybershot', 'dscw610', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1882,4608x3072,"['panasonic', 'lumix', 'dmcgf2', '1425', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1957,,"['olympus', 'vh520', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2220,6000x4000,"['nikon', 'd5300', '18553556', 'g', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2117,4928x3264,"['pentax', 'k30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2003,5152x3864,"['nikon', 'coolpix', 's3600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1719,4000x3000,"['panasonic', 'lumix', 'dmcft4', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2205,4928x3264,"['pentax', 'k5', 'ii', '1855mm', 'wr', '55200', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2109,6000x4000,"['nikon', 'd7100', '181403556', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1867,4608x3456,"['olympus', 'omd', 'em10', '1442', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2367,4928x3264,"['pentax', 'k30', '181353556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1820,5456x3632,"['sony', 'alpha', 'slta58', '18553536', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2147,5184x3456,"['canon', 'eos', '7d', '15853556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2018,6000x4000,"['nikon', 'd3200', '181053556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1914,5184x3456,"['canon', 'eos', '1200d', '18200mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1951,3648x2736,"['nikon', 'coolpix', 'p7100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1785,4672x3120,"['pentax', 'k7', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2138,4000x3000,"['canon', 'ixus', '255', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2166,4608x3456,"['olympus', 'omd', 'em10', '14150mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2148,3296x2472,"['fujifilm', 'finepix', 'f40', 'fd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1954,6000x4000,"['sony', 'a5100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1863,4608x3456,"['olympus', 'pen', 'epm2', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//48,5184x3456,"['canon', 'eos', '1200d', '18553556', '75300456', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1669,,"['leica', 'x', 'vario', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2385,4592x3056,"['sony', 'nex5', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1807,4928x3264,"['leica', 'x2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2380,4608x3456,"['nikon', 'coolpix', 's3300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2023,4912x3264,"['sony', 'alpha', 'nex5n', '1628', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1878,4000x3000,"['canon', 'powershot', 'g15', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2246,5184x3456,"['canon', 'eos', '1200d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1849,4240x2384,"['sony', 'alpha', 'a7s', '24704', 'za', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2128,4608x3456,"['samsung', 'wb350f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1737,4608x3456,"['panasonic', 'lumix', 'dmcg6', '14423556', 'ois', '451504056', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1894,3648x2736,"['sony', 'cybershot', 'dscs3000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2212,4000x3000,"['samsung', 'st1000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2015,,"['fujifilm', 'finepix', 'ax660', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1691,5760x3840,"['canon', 'eos', '5d', 'mark', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1810,4928x3264,"['pentax', 'k5', '181353556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2352,4608x3072,"['nikon', '1', 'j3', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1670,6000x4000,"['nikon', 'd3200', '18553556', 'vr', '552004056', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2369,6016x4016,"['nikon', 'd610', '247028', 'g', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2387,,"['polaroid', 'z2300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1862,4000x3000,"['casio', 'exilim', 'extr10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1781,2640x1760,"['sigma', 'dp1', 'merrill', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//30,4608x3456,"['canon', 'powershot', 'sx600', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1903,4608x3456,"['canon', 'powershot', 'sx500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2344,4000x3000,"['canon', 'powershot', 'sx230', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1709,4608x3456,"['sony', 'cybershot', 'dschx9v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2284,4928x3264,"['pentax', 'k50', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//110,4608x3456,"['sony', 'cybershot', 'dschx7v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//84,6000x4000,"['sony', 'alpha', 'a6000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2094,4912x3264,"['sony', 'nexf3', '18553556', 'oss', '552104563', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//55,4608x3456,"['nikon', 'coolpix', 'aw110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2198,4608x3456,"['panasonic', 'lumix', 'dmcsz8', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2097,4000x3000,"['nikon', 'coolpix', 'p7700', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2051,4896x3264,"['fujifilm', 'xe1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1829,6000x4000,"['nikon', 'd3300', '1855', 'vr', 'ii', '55300', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2120,5472x3648,"['canon', 'eos', '6d', '24704', 'l', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2201,4320x3240,"['fujifilm', 'finepix', 'z90', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2334,5184x3456,"['canon', 'eos', '650d', '15853556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2172,6016x4000,"['nikon', 'd3200', 'tamron', '182703563', 'di', 'ii', 'vc', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1834,4032x3024,"['olympus', 'pen', 'epl3', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//29,,"['sony', 'cybershot', 'dscw830', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1816,4320x3240,"['sony', 'cybershot', 'dsch55', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//94,5184x3456,"['canon', 'eos', '700d', '18553556', 'stm', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1757,4608x3456,"['samsung', 'ecdv150f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//35,3664x2748,"['fujifilm', 'finepix', 'a170', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1943,4608x3456,"['olympus', 'pen', 'ep5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2025,4256x2848,"['nikon', 'd3s', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2285,4000x3000,"['canon', 'powershot', 'sx50', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1933,,"['sony', 'alpha', 'slta57', '165028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1801,4000x3000,"['fujifilm', 'finepix', 'jv100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2330,4912x3264,"['sony', 'alpha', 'slta57', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2160,3872x2592,"['nikon', '1', 'j1', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2185,4896x3264,"['fujifilm', 'xe1', '1650mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1707,4000x3000,"['sony', 'cybershot', 'dscw310', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2163,4608x3456,"['casio', 'exilim', 'exzr1200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2031,4608x3456,"['fujifilm', 'finepix', 'f550', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2362,6000x4000,"['sony', 'alpha', 'slta65', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2341,,"['fujifilm', 'finepix', 'xp150', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2167,4608x3456,"['sony', 'cybershot', 'dscwx30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2299,4608x3456,"['panasonic', 'lumix', 'dmcgh3', '141404058', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1826,4608x3456,"['nikon', 'coolpix', 'l830', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//28,7360x4144,"['sony', 'alpha', 'a7r', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2014,4288x2848,"['nikon', 'd300s', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2293,3648x2736,"['fujifilm', 'finepix', 'j110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2261,5184x3456,"['canon', 'eos', '60da', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2107,4928x3264,"['pentax', 'k5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2249,6000x4000,"['nikon', 'd3200', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1712,7360x4912,"['nikon', 'd810', '24853545', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1704,4896x3672,"['nikon', 'coolpix', 's9400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1998,4896x3264,"['fujifilm', 'xm1', '16503556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2215,4256x2832,"['sony', 'alpha', 'a7s', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2068,4608x3456,"['panasonic', 'lumix', 'dmcgh3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2037,4000x3000,"['nikon', 'coolpix', 'p330', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2203,3872x2592,"['nikon', '1', 'v1', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//68,6016x4000,"['pentax', 'k3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2290,4608x3456,"['samsung', 'galaxy', 'ekgc100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2345,4320x3240,"['canon', 'powershot', 'a2200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//100,4608x3456,"['canon', 'powershot', 'sx60', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2170,4928x3264,"['pentax', 'k5', 'ii', '18553556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2374,4160x3120,"['nikon', 'coolpix', 's32', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2272,5184x3456,"['canon', 'eos', '7d', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1746,4288x2848,"['nikon', 'd90', '182003556', 'vr', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1839,,"['sony', 'cybershot', 'dsctx200v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1767,4000x3000,"['canon', 'powershot', 'sx240', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1964,4608x3456,"['casio', 'exilim', 'exzr1100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1927,6000x4000,"['nikon', 'd5300', '181053556', 'g', 'dx', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2279,5184x3456,"['canon', 'eos', '100d', '18553556', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2171,5184x3456,"['canon', 'eos', '7d', '281353556', 'usm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2116,6000x4000,"['nikon', 'd7100', 'nikon', 'afs', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1743,4608x3456,"['olympus', 'stylus', 'sp100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2278,5184x3456,"['canon', 'eos', '60d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2252,6016x4016,"['nikon', 'd610', '24853545', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1789,4608x3456,"['fujifilm', 'finepix', 'f770', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2221,4608x3456,"['nikon', 'coolpix', 's6500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2208,5184x3456,"['canon', 'eos', '7d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2398,4608x3456,"['olympus', 'pen', 'ep5', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1695,4320x3240,"['panasonic', 'lumix', 'dmctz20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1890,4608x3456,"['pentax', 'optio', 'wg2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2218,2272x1704,"['olympus', 'mju', '400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1853,4000x3000,"['canon', 'powershot', 'sx130', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1955,4288x3216,"['fujifilm', 'finepix', 's3400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2323,4608x3456,"['sony', 'cybershot', 'dscw690', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//45,4608x3456,"['olympus', 'pen', 'epm2', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2082,6000x4000,"['nikon', 'd3200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2063,5472x3648,"['sony', 'cybershot', 'dscrx100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2121,4608x3456,"['panasonic', 'lumix', 'dmcg5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2340,4592x3056,"['sony', 'alpha', 'dslra390', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2134,6000x4000,"['nikon', 'd5200', '18553556', 'vr', '703004556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2402,4592x3056,"['samsung', 'nx11', '2028', '18553556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2047,4288x3216,"['olympus', 'tough', 'tg310', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1718,5472x3648,"['canon', 'eos', '70d', '182003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1840,4000x3000,"['fujifilm', 'finepix', 'f200', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1844,4000x3000,"['panasonic', 'lumix', 'dmcfs12', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2376,4896x3264,"['sigma', 'sd1', 'merrill', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1705,4928x3264,"['ricoh', 'gr', 'digital', 'camera', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2211,4288x2848,"['sony', 'alpha', 'dslr', 'a700', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2194,3872x2592,"['nikon', '1', 'j1', '1028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1992,4032x3024,"['olympus', 'pen', 'ep2', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1710,5184x3456,"['canon', 'eos', '1d', 'c', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1794,6000x4000,"['sony', 'a99v', '247028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2131,3648x2736,"['canon', 'powershot', 'a495', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//17,4896x3264,"['fujifilm', 'xt1', '181353556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2377,4608x3456,"['fujifilm', 'finepix', 'f500', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2059,5184x3456,"['canon', 'eos', '7d', '2470mm', 'f28', 'l', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2335,,"['sony', 'alpha', 'slta58', '18553556', 'ii', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2257,4912x3264,"['sony', 'alpha', 'slta57', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2065,3648x2736,"['canon', 'powershot', 's95', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2309,4592x3056,"['panasonic', 'lumix', 'dmcg3', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1687,5184x3456,"['canon', 'eos', '600d', '5018', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1796,5184x3456,"['canon', 'eos', '100d', '181353556', 'stm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2158,4288x2848,"['pentax', 'kx', '18553556', '502004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1779,4000x3000,"['fujifilm', 'finepix', 'xp10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1980,4928x3264,"['nikon', 'd7000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1952,6000x4000,"['nikon', 'd7100', 'sigma', '17702840', 'macro', 'os', 'hsm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1671,4608x3456,"['panasonic', 'lumix', 'dmcgh4', '123528', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2308,5456x3632,"['sony', 'a5000', '1650mm', '55200mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1686,5472x3648,"['samsung', 'nx200', '18553556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//5,5184x3456,"['canon', 'eos', '1200d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1681,4912x3264,"['sony', 'alpha', 'slta37', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//21,6016x4016,"['nikon', 'd610', '283003556', 'g', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2297,3648x2736,"['nikon', 'coolpix', 'p7000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2336,4000x3000,"['nikon', 'coolpix', 'p7800', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2149,4752x3168,"['sigma', 'dp2', 'merrill', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1744,4592x3056,"['samsung', 'nx10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2130,4928x3264,"['nikon', 'd4', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//58,4896x3672,"['sony', 'cybershot', 'dscwx350', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2125,3872x2592,"['nikon', '1', 'j2', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2044,4320x3240,"['canon', 'powershot', 'sx150', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2326,3648x2736,"['canon', 'powershot', 'g12', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1832,5184x3456,"['canon', 'eos', '600d', '18553556', '552504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2126,5184x3456,"['canon', 'eos', '700d', '18553556', '753004556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1944,3648x2736,"['canon', 'ixus', '1000', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2143,3648x2736,"['sony', 'cybershot', 'dscs2000', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1828,4320x3240,"['nikon', 'coolpix', 's1100pj', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1996,4000x3000,"['panasonic', 'lumix', 'dmcgf5', '14423556', 'ois', 'pz', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2260,4608x3456,"['nikon', 'coolpix', 's800c', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2357,4592x3448,"['panasonic', 'lumix', 'dmcgx7', '123528', '3510028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2070,4608x3456,"['olympus', 'sh1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2206,4608x3456,"['sony', 'cybershot', 'dschx100v', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2396,4928x3264,"['nikon', 'd7000', '183003556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//77,4608x3456,"['panasonic', 'lumix', 'dmcft5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1811,3264x2448,"['canon', 'powershot', 'pro', '1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1821,4608x3456,"['nikon', 'coolpix', 's8200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1715,3072x3204,"['nikon', 'coolpix', 's500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1978,4608x3456,"['canon', 'ixus', '240', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//112,5184x3456,"['canon', 'eos', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//22,,"['casio', 'exilim', 'exzr500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2202,6000x4000,"['nikon', 'd3200', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1780,3648x2736,"['fujifilm', 'finepix', 'j25', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2020,4608x3456,"['samsung', 'wb30f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2154,3616x2712,"['fujifilm', 'finepix', 'f70', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2235,3648x2736,"['olympus', 'xz1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1855,4592x3056,"['sony', 'alpha', 'dslra380', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2217,3648x2736,"['fujifilm', 'finepix', 'j27', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1858,,"['fujifilm', 'finepix', 'jx700', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2210,4592x3056,"['sony', 'alpha', 'dslra290', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1808,5212x3472,"['leica', 'monochrom', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2223,4608x3456,"['olympus', 'omd', 'em5', '1240f28', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2161,4608x3072,"['nikon', 'd3100', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//44,4608x3456,"['sony', 'cybershot', 'dsctx20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1753,4592x3448,"['panasonic', 'lumix', 'dmcgx1', '14423556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2028,,"['fujifilm', 'finepix', 'av110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1728,,"['fujifilm', 'finepix', 'hs25', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2277,3872x2592,"['sony', 'alpha', 'dslra330', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2310,5472x3648,"['canon', 'eos', '6d', '247028', 'l', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1817,6000x4000,"['nikon', 'd5300', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1909,4608x3456,"['panasonic', 'lumix', 'dmcfz70', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2378,3872x2592,"['sony', 'alpha', 'dslra230', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2180,4912x3264,"['sony', 'alpha', 'a580', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1958,4608x3456,"['olympus', 'omd', 'em5', '12503563', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1869,4608x3072,"['nikon', 'd3100', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2267,4896x3264,"['fujifilm', 'xe2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//86,4000x3000,"['sony', 'cybershot', 'dscs930', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1819,4608x3456,"['fujifilm', 'finepix', 'xp60', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2302,,"['fujifilm', 'finepix', 'jx600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2029,5472x3648,"['canon', 'eos', '6d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2305,4608x3072,"['fujifilm', 'finepix', 'xp50', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2307,4592x3448,"['panasonic', 'lumix', 'dmcgf6', '14423556', 'pz', '45175456', 'pz', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//97,4912x3264,"['sony', 'alpha', 'nex6', '16503556', 'oss', '552104563', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2071,4000x3000,"['casio', 'exilim', 'extr15', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2081,4928x3264,"['nikon', 'd7000', '181053556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1857,4608x3456,"['samsung', 'st150f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2229,5472x3648,"['samsung', 'nx20', '18553556', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2108,4320x3240,"['casio', 'exilim', 'exzs10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//0,4608x3456,"['olympus', 'om', 'em10', '2518', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2179,4608x3456,"['sony', 'cybershot', 'dscw710', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//103,6000x4000,"['sony', 'alpha', 'stla99v', '5014', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2247,4320x3240,"['canon', 'powershot', 'sx30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1905,4912x3264,"['sony', 'alpha', 'a580', '18553556', '552004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2075,4288x3216,"['fujifilm', 'finepix', 's2980', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1827,4592x3448,"['panasonic', 'lumix', 'dmcgx7', '2017', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1842,3968x2976,"['olympus', 'tough', 'tg820', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1766,4928x3280,"['nikon', 'd4s', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1735,6000x4000,"['nikon', 'd5300', '18553556', 'g', 'vr', '553004556', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2098,4608x3456,"['olympus', 'pen', 'epl6', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2188,4928x3264,"['nikon', 'd7000', '175528', 'g', 'ed', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1949,,"['pentax', 'k50', '18553556', '502004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2408,4592x3448,"['panasonic', 'lumix', 'dmcgf6', '14423556', 'pz', 'x', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1675,4928x3264,"['nikon', 'd7000', 'tamron', '182703563', 'di', 'ii', 'vc', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2056,4928x3264,"['nikon', 'd5100', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1895,4320x3240,"['nikon', 'coolpix', 'l310', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1783,4608x3456,"['nikon', 'coolpix', 'l820', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1879,5472x3648,"['canon', 'eos', '6d', '241054', 'l', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1891,5184x3456,"['canon', 'eos', '700d', 'sigma', '1770284', 'macro', 'os', 'hsm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//63,4608x3456,"['fujifilm', 'finepix', 'xp70', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1773,4032x3024,"['olympus', 'e5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2193,3888x2592,"['fujifilm', 'finepix', 'real', '3d', 'w3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1720,6000x4000,"['sony', 'alpha', 'slta65', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1792,5184x3456,"['canon', 'eos', '100d', '1855mm', '75300mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//20,4608x3456,"['canon', 'ixus', '150', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1983,4912x3264,"['sony', 'nex5t', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1885,3872x2592,"['nikon', '1', 'v1', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2061,3968x2976,"['olympus', 'tough', 'tg2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//61,3648x2736,"['sony', 'cybershot', 'dsctx5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1727,6000x4000,"['nikon', 'd5300', '18553556', 'g', 'vr', '55200456', 'g', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2226,4288x3216,"['fujifilm', 'finepix', 'x100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2311,5184x3456,"['canon', 'eos', '700d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2303,5184x3456,"['canon', 'eos', '600d', '15853556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2085,4928x3264,"['pentax', 'k01', '4028', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1758,,"['panasonic', 'lumix', 'dmclz30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2313,4608x3072,"['nikon', '1', 'v2', '10303556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1795,4896x3672,"['sony', 'cybershot', 'dscqx10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2397,5472x3648,"['canon', 'eos', '7d', 'mark', 'iii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2392,4896x3264,"['fujifilm', 'xpro1', '3514', 'xf', 'r', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//54,5472x3648,"['canon', 'eos', '7d', 'mark', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1897,4592x3448,"['panasonic', 'lumix', 'dmcgx7', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1924,4608x3456,"['canon', 'powershot', 'sx520', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1764,4608x3456,"['sony', 'cybershot', 'dscwx70', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2092,4320x3240,"['leica', 'vlux', '30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//90,4000x3000,"['canon', 'ixus', '115', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1799,4608x3456,"['olympus', 'stylus', 'tough', 'tg835', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2084,4912x3264,"['sony', 'nexf3', '1628', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2400,4672x3104,"['pentax', 'k7', '18553556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1721,4320x3240,"['nikon', 'coolpix', 'l120', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1751,,"['pentax', 'ks1', '18553556', 'al', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//83,3648x2736,"['fujifilm', 'finepix', 's1500', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2232,4896x3264,"['fujifilm', 'xm1', '16503556', 'xc', '2728', 'xf', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2361,5472x3648,"['samsung', 'nx300', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//53,,"['pentax', 'mx1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1932,4912x3264,"['sony', 'alpha', 'nexf3', '18553556', 'oss', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2280,,"['fujifilm', 'finepix', 't350', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2057,5472x3648,"['canon', 'eos', '70d', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1874,5472x3648,"['sony', 'cybershot', 'dscrx10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2276,4896x3264,"['fujifilm', 'xm1', '16503556', 'xc', 'ois', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1756,4608x3456,"['canon', 'ixus', '140', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1813,,"['pentax', 'q10', '5152845', '154528', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1939,4928x3264,"['pentax', 'k5', '18553556', 'wr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2238,4608x3456,"['samsung', 'wb850f', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2222,4320x3240,"['sony', 'cybershot', 'dscw350', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2350,6000x4000,"['nikon', 'd5200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2327,,"['leica', 'type', '006', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//80,4000x3000,"['canon', 'powershot', 'd30', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//71,4608x3456,"['sony', 'cybershot', 'dsctf1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2119,,"['pentax', 'q10', '5152845', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2173,4608x3456,"['fujifilm', 'finepix', 'hs20', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//43,4608x3456,"['canon', 'ixus', '145', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//11,6000x4000,"['sony', 'alpha', 'slta99', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1684,6000x4000,"['nikon', 'd7100', 'tamron', '18270', 'vc', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1888,4608x3456,"['panasonic', 'lumix', 'dmcgh3', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1722,4000x3000,"['fujifilm', 'finepix', 'xf1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1674,4608x3456,"['fujifilm', 'finepix', 'hs50', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1700,6000x4000,"['nikon', 'd7100', '18553556', 'vr', '552004056', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2325,6016x4016,"['nikon', 'd600', '18105', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2294,4896x3264,"['fujifilm', 'xe1', '3514', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1778,6016x4000,"['nikon', 'd3200', '18140mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2122,4608x3456,"['pentax', 'x5', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2403,4928x3264,"['nikon', 'd5100', '18553556', 'vr', '552004056', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1908,4608x3456,"['fujifilm', 'finepix', 'hs30', 'exr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2036,,"['fujifilm', 'finepix', 'jx280', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2381,4608x3456,"['samsung', 'multiview', 'mv800', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//18,5472x3648,"['samsung', 'nx', 'mini', '935', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2142,4608x3456,"['canon', 'powershot', 'a2600', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1782,4288x3216,"['olympus', 'fe5030', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1912,4000x3000,"['fujifilm', 'finepix', 'x10', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1812,,"['pentax', 'ks1', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1790,5472x3648,"['samsung', 'nx3000', '16503556', 'ed', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1761,4608x3072,"['nikon', '1', 'aw1', '11275mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1750,4032x3024,"['olympus', 'pen', 'epm1', '14423556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1748,4032x3024,"['olympus', 'pen', 'epl1', '14423556', '401504056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2153,4608x3072,"['nikon', '1', 'j3', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1931,4288x2848,"['pentax', 'kr', '18553556', '502004056', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2027,5184x3456,"['canon', 'eos', '60d', '15853556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1960,4320x3240,"['sony', 'cybershot', 'dscw380', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2064,4928x3264,"['nikon', 'd7000', '181403556', 'g', 'ed', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2021,6000x4000,"['nikon', 'd5200', 'tamron', '182703563', 'pzd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2245,4928x3264,"['nikon', 'df', 'dslr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2105,4912x3264,"['sony', 'nex5t', '16503556', '552104563', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1697,4000x3000,"['nikon', 'coolpix', 'p340', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1989,4896x3672,"['sony', 'cybershot', 'dschx20', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1916,,"['casio', 'exilim', 'exzr400', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1824,,"['pentax', 'k500', '1855mm', '50200mm', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1854,4000x3000,"['canon', 'powershot', 'a1200', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2295,7360x4144,"['sony', 'alpha', 'a7r', '3528', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2104,7360x4912,"['nikon', 'd800e', '247028', 'g', 'ed', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2062,6000x4000,"['nikon', 'd5200', '18553556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1986,5184x3456,"['canon', 'eos', '600d', '18553556', 'ii', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1967,7360x4912,"['nikon', 'd800e', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1875,,"['nikon', '1', 'j4', '1030', '30110', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1935,3648x2736,"['panasonic', 'lumix', 'dmclx7', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1969,4000x3000,"['panasonic', 'lumix', 'dmcgf3', '1425', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//64,4272x2848,"['leica', 'x1', '2428', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1877,4000x3000,"['canon', 'ixus', '310', 'hs', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1733,6000x4000,"['sony', 'alpha', 'nex7', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1848,4288x3216,"['olympus', 'sp810', 'uz', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1694,4912x3264,"['sony', 'alpha', 'slta57', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1907,5184x3456,"['canon', 'eos', '600d', '18553556', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2054,4608x3456,"['olympus', 'stylus', 'sp100ee', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1985,4928x3264,"['nikon', 'd7000', '18553556', 'vr', '553004556', 'vr', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2187,4320x3240,"['sony', 'cybershot', 'dscw620', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2364,4608x3456,"['nikon', 'coolpix', 'l320', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1880,,"['panasonic', 'lumix', 'dmcfh2', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1918,4000x3000,"['fujifilm', 'finepix', 'f60', 'fd', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1948,3648x2736,"['samsung', 'es65', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//1665,4320x3240,"['nikon', 'coolpix', 's3100', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2371,5184x3456,"['canon', 'eos', '2220', 'new', 'zealand', 'prices', 'priceme']"
-www.priceme.co.nz//2382,4608x3072,"['nikon', '1', 'j3', '10303556', 'vr', '301103856', 'vr', 'new', 'zealand', 'prices', 'priceme']"
+spec_id,megapixels
+www.priceme.co.nz//2130,16.1
+www.priceme.co.nz//2075,13.8
+www.priceme.co.nz//1823,
+www.priceme.co.nz//1989,18.0
+www.priceme.co.nz//1966,17.9
+www.priceme.co.nz//2219,10.0
+www.priceme.co.nz//2167,15.9
+www.priceme.co.nz//2188,16.1
+www.priceme.co.nz//1874,20.0
+www.priceme.co.nz//1931,12.2
+www.priceme.co.nz//2171,17.9
+www.priceme.co.nz//2034,12.2
+www.priceme.co.nz//1862,12.0
+www.priceme.co.nz//1927,24.0
+www.priceme.co.nz//2258,14.0
+www.priceme.co.nz//2126,17.9
+www.priceme.co.nz//2063,20.0
+www.priceme.co.nz//103,24.0
+www.priceme.co.nz//1970,10.0
+www.priceme.co.nz//2018,24.0
+www.priceme.co.nz//20,15.9
+www.priceme.co.nz//2331,12.0
+www.priceme.co.nz//1726,17.9
+www.priceme.co.nz//98,
+www.priceme.co.nz//2389,24.1
+www.priceme.co.nz//2223,15.9
+www.priceme.co.nz//1819,15.9
+www.priceme.co.nz//77,15.9
+www.priceme.co.nz//2366,17.9
+www.priceme.co.nz//1675,16.1
+www.priceme.co.nz//2059,17.9
+www.priceme.co.nz//1730,12.0
+www.priceme.co.nz//2235,10.0
+www.priceme.co.nz//61,10.0
+www.priceme.co.nz//1788,17.9
+www.priceme.co.nz//1767,12.0
+www.priceme.co.nz//2262,24.0
+www.priceme.co.nz//1858,
+www.priceme.co.nz//2327,
+www.priceme.co.nz//2350,24.0
+www.priceme.co.nz//41,16.1
+www.priceme.co.nz//1985,16.1
+www.priceme.co.nz//2215,12.1
+www.priceme.co.nz//1710,17.9
+www.priceme.co.nz//1878,12.0
+www.priceme.co.nz//2307,15.8
+www.priceme.co.nz//16,15.9
+www.priceme.co.nz//2242,16.1
+www.priceme.co.nz//1897,15.8
+www.priceme.co.nz//1747,2.1
+www.priceme.co.nz//2311,17.9
+www.priceme.co.nz//1881,15.9
+www.priceme.co.nz//2254,
+www.priceme.co.nz//1751,
+www.priceme.co.nz//2192,24.1
+www.priceme.co.nz//2038,16.0
+www.priceme.co.nz//1839,
+www.priceme.co.nz//1993,17.9
+www.priceme.co.nz//2346,10.0
+www.priceme.co.nz//2203,10.0
+www.priceme.co.nz//1706,12.0
+www.priceme.co.nz//2080,12.0
+www.priceme.co.nz//1907,17.9
+www.priceme.co.nz//2278,17.9
+www.priceme.co.nz//2297,10.0
+www.priceme.co.nz//1842,11.8
+www.priceme.co.nz//2014,12.2
+www.priceme.co.nz//1792,17.9
+www.priceme.co.nz//2151,15.9
+www.priceme.co.nz//94,17.9
+www.priceme.co.nz//2385,14.0
+www.priceme.co.nz//1950,24.2
+www.priceme.co.nz//2043,24.0
+www.priceme.co.nz//2106,20.0
+www.priceme.co.nz//1946,24.0
+www.priceme.co.nz//2393,16.0
+www.priceme.co.nz//6,20.0
+www.priceme.co.nz//1803,24.1
+www.priceme.co.nz//2055,20.0
+www.priceme.co.nz//2405,20.0
+www.priceme.co.nz//1696,14.2
+www.priceme.co.nz//2110,24.0
+www.priceme.co.nz//1911,15.9
+www.priceme.co.nz//1854,12.0
+www.priceme.co.nz//1784,15.9
+www.priceme.co.nz//2002,15.9
+www.priceme.co.nz//2147,17.9
+www.priceme.co.nz//1785,14.6
+www.priceme.co.nz//2003,19.9
+www.priceme.co.nz//2146,17.9
+www.priceme.co.nz//1910,14.0
+www.priceme.co.nz//1855,14.0
+www.priceme.co.nz//2280,
+www.priceme.co.nz//2054,15.9
+www.priceme.co.nz//2404,13.8
+www.priceme.co.nz//1678,16.0
+www.priceme.co.nz//1697,12.0
+www.priceme.co.nz//2111,15.9
+www.priceme.co.nz//1947,10.0
+www.priceme.co.nz//7,16.0
+www.priceme.co.nz//2392,16.0
+www.priceme.co.nz//83,10.0
+www.priceme.co.nz//2238,15.9
+www.priceme.co.nz//1802,24.0
+www.priceme.co.nz//2042,16.0
+www.priceme.co.nz//2107,16.1
+www.priceme.co.nz//1681,16.0
+www.priceme.co.nz//95,10.0
+www.priceme.co.nz//2384,16.0
+www.priceme.co.nz//1951,10.0
+www.priceme.co.nz//1814,
+www.priceme.co.nz//2015,
+www.priceme.co.nz//1793,17.9
+www.priceme.co.nz//2150,16.0
+www.priceme.co.nz//1906,
+www.priceme.co.nz//2279,17.9
+www.priceme.co.nz//1707,12.0
+www.priceme.co.nz//2081,16.1
+www.priceme.co.nz//1838,16.0
+www.priceme.co.nz//1992,12.2
+www.priceme.co.nz//56,20.0
+www.priceme.co.nz//2202,24.0
+www.priceme.co.nz//1750,12.2
+www.priceme.co.nz//2193,10.1
+www.priceme.co.nz//2310,20.0
+www.priceme.co.nz//1880,
+www.priceme.co.nz//2255,
+www.priceme.co.nz//1746,12.2
+www.priceme.co.nz//2185,16.0
+www.priceme.co.nz//1879,20.0
+www.priceme.co.nz//2306,36.2
+www.priceme.co.nz//17,16.0
+www.priceme.co.nz//2097,12.0
+www.priceme.co.nz//1711,
+www.priceme.co.nz//2078,15.8
+www.priceme.co.nz//2351,15.9
+www.priceme.co.nz//40,
+www.priceme.co.nz//1984,15.9
+www.priceme.co.nz//2263,12.2
+www.priceme.co.nz//1859,15.8
+www.priceme.co.nz//2326,10.0
+www.priceme.co.nz//37,16.0
+www.priceme.co.nz//1789,15.9
+www.priceme.co.nz//1766,16.2
+www.priceme.co.nz//2234,18.0
+www.priceme.co.nz//2371,17.9
+www.priceme.co.nz//60,15.9
+www.priceme.co.nz//1674,15.9
+www.priceme.co.nz//2408,15.8
+www.priceme.co.nz//2058,10.0
+www.priceme.co.nz//1731,17.9
+www.priceme.co.nz//2222,14.0
+www.priceme.co.nz//76,
+www.priceme.co.nz//2367,16.1
+www.priceme.co.nz//1727,24.0
+www.priceme.co.nz//2275,16.0
+www.priceme.co.nz//21,24.2
+www.priceme.co.nz//2330,16.0
+www.priceme.co.nz//2019,12.2
+www.priceme.co.nz//1834,12.2
+www.priceme.co.nz//1971,12.0
+www.priceme.co.nz//2127,15.8
+www.priceme.co.nz//2062,24.0
+www.priceme.co.nz//1863,15.9
+www.priceme.co.nz//1926,12.0
+www.priceme.co.nz//2259,15.9
+www.priceme.co.nz//2170,16.1
+www.priceme.co.nz//2035,10.0
+www.priceme.co.nz//1875,
+www.priceme.co.nz//1930,
+www.priceme.co.nz//2166,15.9
+www.priceme.co.nz//2189,12.0
+www.priceme.co.nz//2023,16.0
+www.priceme.co.nz//1822,24.0
+www.priceme.co.nz//1988,20.2
+www.priceme.co.nz//1967,36.2
+www.priceme.co.nz//2218,3.9
+www.priceme.co.nz//2131,10.0
+www.priceme.co.nz//2074,15.9
+www.priceme.co.nz//1983,16.0
+www.priceme.co.nz//2356,22.1
+www.priceme.co.nz//47,15.9
+www.priceme.co.nz//1829,24.0
+www.priceme.co.nz//2213,15.9
+www.priceme.co.nz//1716,12.0
+www.priceme.co.nz//2090,24.0
+www.priceme.co.nz//2301,12.0
+www.priceme.co.nz//10,13.8
+www.priceme.co.nz//1891,17.9
+www.priceme.co.nz//2244,16.1
+www.priceme.co.nz//1741,11.9
+www.priceme.co.nz//2028,
+www.priceme.co.nz//2182,12.0
+www.priceme.co.nz//2317,14.2
+www.priceme.co.nz//1868,10.0
+www.priceme.co.nz//2252,24.2
+www.priceme.co.nz//1887,15.9
+www.priceme.co.nz//1757,15.9
+www.priceme.co.nz//2194,10.0
+www.priceme.co.nz//2340,14.0
+www.priceme.co.nz//1995,15.9
+www.priceme.co.nz//2205,16.1
+www.priceme.co.nz//2086,13.8
+www.priceme.co.nz//1700,24.0
+www.priceme.co.nz//2069,15.9
+www.priceme.co.nz//1901,12.0
+www.priceme.co.nz//1844,12.0
+www.priceme.co.nz//2291,15.9
+www.priceme.co.nz//1794,24.0
+www.priceme.co.nz//2229,20.0
+www.priceme.co.nz//1956,12.0
+www.priceme.co.nz//2383,20.2
+www.priceme.co.nz//1813,
+www.priceme.co.nz//2045,12.2
+www.priceme.co.nz//1669,
+www.priceme.co.nz//1686,20.0
+www.priceme.co.nz//2100,17.9
+www.priceme.co.nz//84,24.0
+www.priceme.co.nz//0,15.9
+www.priceme.co.nz//1940,18.0
+www.priceme.co.nz//1805,15.9
+www.priceme.co.nz//2403,16.1
+www.priceme.co.nz//2116,24.0
+www.priceme.co.nz//1690,18.0
+www.priceme.co.nz//1852,16.0
+www.priceme.co.nz//2004,22.1
+www.priceme.co.nz//1782,13.8
+www.priceme.co.nz//2141,20.0
+www.priceme.co.nz//2136,16.1
+www.priceme.co.nz//2073,24.1
+www.priceme.co.nz//1825,14.2
+www.priceme.co.nz//1960,14.0
+www.priceme.co.nz//2161,14.2
+www.priceme.co.nz//2248,16.0
+www.priceme.co.nz//1937,15.9
+www.priceme.co.nz//2177,12.0
+www.priceme.co.nz//2032,12.0
+www.priceme.co.nz//2198,15.9
+www.priceme.co.nz//1864,12.0
+www.priceme.co.nz//1921,
+www.priceme.co.nz//2120,20.0
+www.priceme.co.nz//2065,10.0
+www.priceme.co.nz//1999,19.8
+www.priceme.co.nz//1833,12.2
+www.priceme.co.nz//105,17.9
+www.priceme.co.nz//2209,14.0
+www.priceme.co.nz//1976,8.0
+www.priceme.co.nz//1798,24.0
+www.priceme.co.nz//1777,17.9
+www.priceme.co.nz//2272,17.9
+www.priceme.co.nz//1848,13.8
+www.priceme.co.nz//1665,14.0
+www.priceme.co.nz//2049,
+www.priceme.co.nz//1720,24.0
+www.priceme.co.nz//2225,12.0
+www.priceme.co.nz//71,15.9
+www.priceme.co.nz//1673,
+www.priceme.co.nz//1736,15.9
+www.priceme.co.nz//2233,24.0
+www.priceme.co.nz//2376,16.0
+www.priceme.co.nz//67,24.0
+www.priceme.co.nz//1809,24.4
+www.priceme.co.nz//2008,18.0
+www.priceme.co.nz//1761,14.2
+www.priceme.co.nz//2264,24.0
+www.priceme.co.nz//2321,12.0
+www.priceme.co.nz//30,15.9
+www.priceme.co.nz//2265,14.2
+www.priceme.co.nz//2009,15.9
+www.priceme.co.nz//2232,16.0
+www.priceme.co.nz//2398,15.9
+www.priceme.co.nz//89,16.0
+www.priceme.co.nz//2377,15.9
+www.priceme.co.nz//66,15.9
+www.priceme.co.nz//1808,18.1
+www.priceme.co.nz//1737,15.9
+www.priceme.co.nz//70,11.8
+www.priceme.co.nz//2361,20.0
+www.priceme.co.nz//2048,16.1
+www.priceme.co.nz//1721,14.0
+www.priceme.co.nz//27,
+www.priceme.co.nz//2336,12.0
+www.priceme.co.nz//1849,10.1
+www.priceme.co.nz//1799,15.9
+www.priceme.co.nz//1998,16.0
+www.priceme.co.nz//1832,17.9
+www.priceme.co.nz//2208,17.9
+www.priceme.co.nz//1977,15.9
+www.priceme.co.nz//2121,15.9
+www.priceme.co.nz//2064,16.1
+www.priceme.co.nz//1865,24.0
+www.priceme.co.nz//1920,
+www.priceme.co.nz//2199,15.9
+www.priceme.co.nz//1873,14.2
+www.priceme.co.nz//2249,24.0
+www.priceme.co.nz//1936,19.8
+www.priceme.co.nz//2160,10.0
+www.priceme.co.nz//2025,12.1
+www.priceme.co.nz//112,17.9
+www.priceme.co.nz//1824,
+www.priceme.co.nz//1961,16.1
+www.priceme.co.nz//1783,15.9
+www.priceme.co.nz//2140,10.0
+www.priceme.co.nz//2269,13.4
+www.priceme.co.nz//1916,
+www.priceme.co.nz//2286,12.0
+www.priceme.co.nz//1853,12.0
+www.priceme.co.nz//2052,16.0
+www.priceme.co.nz//2402,14.0
+www.priceme.co.nz//2117,16.1
+www.priceme.co.nz//1691,22.1
+www.priceme.co.nz//1,12.0
+www.priceme.co.nz//85,16.1
+www.priceme.co.nz//1941,24.0
+www.priceme.co.nz//1804,17.9
+www.priceme.co.nz//2044,14.0
+www.priceme.co.nz//1668,12.1
+www.priceme.co.nz//1687,17.9
+www.priceme.co.nz//1957,
+www.priceme.co.nz//2382,14.2
+www.priceme.co.nz//1812,
+www.priceme.co.nz//1795,18.0
+www.priceme.co.nz//2156,12.0
+www.priceme.co.nz//1900,12.0
+www.priceme.co.nz//1845,
+www.priceme.co.nz//2290,15.9
+www.priceme.co.nz//2087,18.1
+www.priceme.co.nz//1701,12.0
+www.priceme.co.nz//2068,15.9
+www.priceme.co.nz//108,15.8
+www.priceme.co.nz//50,15.8
+www.priceme.co.nz//2341,
+www.priceme.co.nz//1994,17.9
+www.priceme.co.nz//2204,20.0
+www.priceme.co.nz//1756,15.9
+www.priceme.co.nz//2195,10.0
+www.priceme.co.nz//2316,15.8
+www.priceme.co.nz//1869,14.2
+www.priceme.co.nz//2253,14.0
+www.priceme.co.nz//1886,12.0
+www.priceme.co.nz//1740,12.2
+www.priceme.co.nz//2029,20.0
+www.priceme.co.nz//2183,15.9
+www.priceme.co.nz//2300,24.2
+www.priceme.co.nz//11,24.0
+www.priceme.co.nz//1890,15.9
+www.priceme.co.nz//2245,16.1
+www.priceme.co.nz//1717,24.0
+www.priceme.co.nz//2091,13.8
+www.priceme.co.nz//1982,17.9
+www.priceme.co.nz//2357,15.8
+www.priceme.co.nz//46,16.1
+www.priceme.co.nz//1828,14.0
+www.priceme.co.nz//2212,12.0
+www.priceme.co.nz//2143,10.0
+www.priceme.co.nz//1780,10.0
+www.priceme.co.nz//2285,12.0
+www.priceme.co.nz//1850,14.0
+www.priceme.co.nz//1915,15.9
+www.priceme.co.nz//1738,
+www.priceme.co.nz//1692,12.0
+www.priceme.co.nz//2114,13.8
+www.priceme.co.nz//2051,16.0
+www.priceme.co.nz//2401,15.9
+www.priceme.co.nz//1807,16.1
+www.priceme.co.nz//69,24.0
+www.priceme.co.nz//2378,10.0
+www.priceme.co.nz//2,17.9
+www.priceme.co.nz//86,12.0
+www.priceme.co.nz//2397,20.0
+www.priceme.co.nz//1942,15.9
+www.priceme.co.nz//2102,16.0
+www.priceme.co.nz//1684,24.0
+www.priceme.co.nz//2047,13.8
+www.priceme.co.nz//1811,8.0
+www.priceme.co.nz//1954,24.0
+www.priceme.co.nz//2381,15.9
+www.priceme.co.nz//90,12.0
+www.priceme.co.nz//1779,12.0
+www.priceme.co.nz//2010,10.0
+www.priceme.co.nz//1796,17.9
+www.priceme.co.nz//1846,14.0
+www.priceme.co.nz//2293,10.0
+www.priceme.co.nz//2339,14.0
+www.priceme.co.nz//28,30.5
+www.priceme.co.nz//1903,15.9
+www.priceme.co.nz//1702,15.9
+www.priceme.co.nz//2084,16.0
+www.priceme.co.nz//1978,15.9
+www.priceme.co.nz//2342,24.0
+www.priceme.co.nz//53,
+www.priceme.co.nz//1997,10.0
+www.priceme.co.nz//2196,24.0
+www.priceme.co.nz//2179,15.9
+www.priceme.co.nz//1755,15.9
+www.priceme.co.nz//1885,10.0
+www.priceme.co.nz//2180,16.0
+www.priceme.co.nz//1743,15.9
+www.priceme.co.nz//1939,16.1
+www.priceme.co.nz//1893,12.0
+www.priceme.co.nz//2246,17.9
+www.priceme.co.nz//12,24.0
+www.priceme.co.nz//2303,17.9
+www.priceme.co.nz//2092,14.0
+www.priceme.co.nz//2138,12.0
+www.priceme.co.nz//1714,20.0
+www.priceme.co.nz//2211,12.2
+www.priceme.co.nz//1981,15.9
+www.priceme.co.nz//45,15.9
+www.priceme.co.nz//2354,19.8
+www.priceme.co.nz//2289,12.2
+www.priceme.co.nz//32,
+www.priceme.co.nz//2323,15.9
+www.priceme.co.nz//1919,2.1
+www.priceme.co.nz//2266,12.0
+www.priceme.co.nz//1763,18.0
+www.priceme.co.nz//65,16.0
+www.priceme.co.nz//2374,13.0
+www.priceme.co.nz//2231,10.0
+www.priceme.co.nz//1734,14.2
+www.priceme.co.nz//1671,15.9
+www.priceme.co.nz//2362,24.0
+www.priceme.co.nz//73,16.1
+www.priceme.co.nz//1958,15.9
+www.priceme.co.nz//2227,17.9
+www.priceme.co.nz//1722,12.0
+www.priceme.co.nz//1688,
+www.priceme.co.nz//1667,14.0
+www.priceme.co.nz//2335,
+www.priceme.co.nz//24,
+www.priceme.co.nz//2270,20.0
+www.priceme.co.nz//1775,16.0
+www.priceme.co.nz//1974,15.9
+www.priceme.co.nz//1831,24.0
+www.priceme.co.nz//2067,
+www.priceme.co.nz//2088,15.9
+www.priceme.co.nz//2122,15.9
+www.priceme.co.nz//1923,
+www.priceme.co.nz//1889,12.0
+www.priceme.co.nz//2319,17.9
+www.priceme.co.nz//2030,12.0
+www.priceme.co.nz//1759,12.0
+www.priceme.co.nz//2175,14.0
+www.priceme.co.nz//1935,10.0
+www.priceme.co.nz//1870,17.9
+www.priceme.co.nz//2026,18.0
+www.priceme.co.nz//2163,15.9
+www.priceme.co.nz//1827,15.8
+www.priceme.co.nz//49,16.0
+www.priceme.co.nz//2358,15.9
+www.priceme.co.nz//2071,12.0
+www.priceme.co.nz//1718,20.0
+www.priceme.co.nz//2134,24.0
+www.priceme.co.nz//2070,15.9
+www.priceme.co.nz//1719,12.0
+www.priceme.co.nz//2135,20.0
+www.priceme.co.nz//1963,16.0
+www.priceme.co.nz//1826,15.9
+www.priceme.co.nz//48,17.9
+www.priceme.co.nz//2359,17.9
+www.priceme.co.nz//110,15.9
+www.priceme.co.nz//2027,17.9
+www.priceme.co.nz//2162,17.9
+www.priceme.co.nz//1934,17.9
+www.priceme.co.nz//2031,15.9
+www.priceme.co.nz//1758,
+www.priceme.co.nz//2174,12.0
+www.priceme.co.nz//1888,15.9
+www.priceme.co.nz//1867,15.9
+www.priceme.co.nz//2318,17.9
+www.priceme.co.nz//2066,16.0
+www.priceme.co.nz//2089,15.9
+www.priceme.co.nz//2123,15.8
+www.priceme.co.nz//1975,10.1
+www.priceme.co.nz//106,17.9
+www.priceme.co.nz//2158,12.2
+www.priceme.co.nz//1774,4.6
+www.priceme.co.nz//2334,17.9
+www.priceme.co.nz//25,17.9
+www.priceme.co.nz//2271,15.9
+www.priceme.co.nz//1689,13.8
+www.priceme.co.nz//1666,17.9
+www.priceme.co.nz//2363,15.9
+www.priceme.co.nz//72,17.9
+www.priceme.co.nz//1959,12.2
+www.priceme.co.nz//2226,13.8
+www.priceme.co.nz//2119,
+www.priceme.co.nz//1735,24.0
+www.priceme.co.nz//1670,24.0
+www.priceme.co.nz//64,12.2
+www.priceme.co.nz//2375,15.8
+www.priceme.co.nz//1762,18.0
+www.priceme.co.nz//2288,20.0
+www.priceme.co.nz//33,12.0
+www.priceme.co.nz//1918,12.0
+www.priceme.co.nz//2267,16.0
+www.priceme.co.nz//2210,14.0
+www.priceme.co.nz//1980,16.1
+www.priceme.co.nz//44,15.9
+www.priceme.co.nz//2093,19.8
+www.priceme.co.nz//2139,15.9
+www.priceme.co.nz//1715,9.8
+www.priceme.co.nz//1938,24.2
+www.priceme.co.nz//1892,10.0
+www.priceme.co.nz//2247,14.0
+www.priceme.co.nz//13,13.8
+www.priceme.co.nz//2302,
+www.priceme.co.nz//2181,16.1
+www.priceme.co.nz//1884,12.0
+www.priceme.co.nz//2197,10.0
+www.priceme.co.nz//2178,15.9
+www.priceme.co.nz//2206,15.9
+www.priceme.co.nz//2343,17.9
+www.priceme.co.nz//52,24.2
+www.priceme.co.nz//1996,12.0
+www.priceme.co.nz//2085,16.1
+www.priceme.co.nz//1847,36.2
+www.priceme.co.nz//2292,12.0
+www.priceme.co.nz//29,
+www.priceme.co.nz//1778,24.1
+www.priceme.co.nz//2154,9.8
+www.priceme.co.nz//2011,15.9
+www.priceme.co.nz//1797,10.0
+www.priceme.co.nz//1810,16.1
+www.priceme.co.nz//1955,13.8
+www.priceme.co.nz//2380,15.9
+www.priceme.co.nz//91,20.0
+www.priceme.co.nz//2103,15.9
+www.priceme.co.nz//1806,14.0
+www.priceme.co.nz//68,24.1
+www.priceme.co.nz//87,15.9
+www.priceme.co.nz//2396,16.1
+www.priceme.co.nz//3,17.9
+www.priceme.co.nz//1943,15.9
+www.priceme.co.nz//1739,15.9
+www.priceme.co.nz//1693,16.1
+www.priceme.co.nz//2115,10.0
+www.priceme.co.nz//2050,17.9
+www.priceme.co.nz//2400,14.5
+www.priceme.co.nz//2284,16.1
+www.priceme.co.nz//1851,12.0
+www.priceme.co.nz//1914,17.9
+www.priceme.co.nz//2142,15.9
+www.priceme.co.nz//1781,4.6
+www.priceme.co.nz//2007,16.1
+www.priceme.co.nz//34,10.1
+www.priceme.co.nz//2325,24.2
+www.priceme.co.nz//2260,15.9
+www.priceme.co.nz//2149,15.1
+www.priceme.co.nz//1765,10.0
+www.priceme.co.nz//63,15.9
+www.priceme.co.nz//2372,24.0
+www.priceme.co.nz//2237,15.9
+www.priceme.co.nz//8,
+www.priceme.co.nz//1948,10.0
+www.priceme.co.nz//1698,17.9
+www.priceme.co.nz//1732,24.0
+www.priceme.co.nz//1677,12.0
+www.priceme.co.nz//2364,15.9
+www.priceme.co.nz//75,15.9
+www.priceme.co.nz//2221,15.9
+www.priceme.co.nz//2108,14.0
+www.priceme.co.nz//1724,15.9
+www.priceme.co.nz//2333,17.9
+www.priceme.co.nz//22,
+www.priceme.co.nz//2299,15.9
+www.priceme.co.nz//2276,16.0
+www.priceme.co.nz//1909,15.9
+www.priceme.co.nz//1773,12.2
+www.priceme.co.nz//1972,12.0
+www.priceme.co.nz//2348,14.0
+www.priceme.co.nz//59,18.0
+www.priceme.co.nz//1837,15.9
+www.priceme.co.nz//2061,11.8
+www.priceme.co.nz//1708,14.0
+www.priceme.co.nz//2124,15.8
+www.priceme.co.nz//1925,
+www.priceme.co.nz//1860,24.0
+www.priceme.co.nz//2036,
+www.priceme.co.nz//2173,15.9
+www.priceme.co.nz//1933,
+www.priceme.co.nz//18,20.0
+www.priceme.co.nz//2309,14.0
+www.priceme.co.nz//1876,10.0
+www.priceme.co.nz//2020,15.9
+www.priceme.co.nz//2165,8.0
+www.priceme.co.nz//1964,15.9
+www.priceme.co.nz//1821,15.9
+www.priceme.co.nz//2077,16.0
+www.priceme.co.nz//2132,36.2
+www.priceme.co.nz//2098,15.9
+www.priceme.co.nz//2145,14.2
+www.priceme.co.nz//2000,16.0
+www.priceme.co.nz//1786,17.9
+www.priceme.co.nz//38,24.0
+www.priceme.co.nz//2283,15.9
+www.priceme.co.nz//1913,12.0
+www.priceme.co.nz//2112,10.0
+www.priceme.co.nz//1694,16.0
+www.priceme.co.nz//2057,20.0
+www.priceme.co.nz//2407,20.0
+www.priceme.co.nz//1801,12.0
+www.priceme.co.nz//1944,10.0
+www.priceme.co.nz//4,10.0
+www.priceme.co.nz//80,12.0
+www.priceme.co.nz//2391,12.0
+www.priceme.co.nz//1682,15.9
+www.priceme.co.nz//1728,
+www.priceme.co.nz//2104,36.2
+www.priceme.co.nz//2041,15.9
+www.priceme.co.nz//79,10.0
+www.priceme.co.nz//1817,24.0
+www.priceme.co.nz//2387,
+www.priceme.co.nz//1952,24.0
+www.priceme.co.nz//2153,14.2
+www.priceme.co.nz//1790,20.0
+www.priceme.co.nz//2016,
+www.priceme.co.nz//2295,30.5
+www.priceme.co.nz//1840,12.0
+www.priceme.co.nz//1905,16.0
+www.priceme.co.nz//2128,15.9
+www.priceme.co.nz//2082,24.0
+www.priceme.co.nz//1704,18.0
+www.priceme.co.nz//2201,14.0
+www.priceme.co.nz//1991,15.9
+www.priceme.co.nz//2344,12.0
+www.priceme.co.nz//55,15.9
+www.priceme.co.nz//1753,15.8
+www.priceme.co.nz//2256,15.9
+www.priceme.co.nz//2313,14.2
+www.priceme.co.nz//2186,19.8
+www.priceme.co.nz//1745,14.0
+www.priceme.co.nz//2240,
+www.priceme.co.nz//1895,14.0
+www.priceme.co.nz//2305,14.2
+www.priceme.co.nz//1712,36.2
+www.priceme.co.nz//2094,16.0
+www.priceme.co.nz//2217,10.0
+www.priceme.co.nz//1968,
+www.priceme.co.nz//43,15.9
+www.priceme.co.nz//2352,14.2
+www.priceme.co.nz//1987,14.0
+www.priceme.co.nz//2216,12.2
+www.priceme.co.nz//1969,12.0
+www.priceme.co.nz//42,15.9
+www.priceme.co.nz//2353,20.0
+www.priceme.co.nz//1986,17.9
+www.priceme.co.nz//1713,15.8
+www.priceme.co.nz//2095,11.8
+www.priceme.co.nz//2241,11.8
+www.priceme.co.nz//1894,10.0
+www.priceme.co.nz//15,
+www.priceme.co.nz//2187,14.0
+www.priceme.co.nz//1744,14.0
+www.priceme.co.nz//1882,14.2
+www.priceme.co.nz//2257,16.0
+www.priceme.co.nz//1928,14.0
+www.priceme.co.nz//2312,16.1
+www.priceme.co.nz//2191,30.5
+www.priceme.co.nz//2200,15.8
+www.priceme.co.nz//1990,12.0
+www.priceme.co.nz//2345,14.0
+www.priceme.co.nz//54,20.0
+www.priceme.co.nz//2129,36.2
+www.priceme.co.nz//2083,11.8
+www.priceme.co.nz//1705,16.1
+www.priceme.co.nz//2294,16.0
+www.priceme.co.nz//1841,
+www.priceme.co.nz//1904,16.0
+www.priceme.co.nz//2152,15.9
+www.priceme.co.nz//2017,
+www.priceme.co.nz//2369,24.2
+www.priceme.co.nz//78,16.1
+www.priceme.co.nz//1816,14.0
+www.priceme.co.nz//2386,16.0
+www.priceme.co.nz//97,16.0
+www.priceme.co.nz//1953,12.2
+www.priceme.co.nz//1683,16.0
+www.priceme.co.nz//1729,12.2
+www.priceme.co.nz//2105,16.0
+www.priceme.co.nz//2040,12.0
+www.priceme.co.nz//1800,16.1
+www.priceme.co.nz//1945,24.0
+www.priceme.co.nz//2390,15.9
+www.priceme.co.nz//5,17.9
+www.priceme.co.nz//2113,12.2
+www.priceme.co.nz//1695,14.0
+www.priceme.co.nz//2056,16.1
+www.priceme.co.nz//39,24.0
+www.priceme.co.nz//2328,
+www.priceme.co.nz//1857,15.9
+www.priceme.co.nz//2282,12.2
+www.priceme.co.nz//1912,12.0
+www.priceme.co.nz//1768,
+www.priceme.co.nz//2001,14.0
+www.priceme.co.nz//1787,15.9
+www.priceme.co.nz//2076,15.9
+www.priceme.co.nz//2133,16.0
+www.priceme.co.nz//2099,
+www.priceme.co.nz//1965,15.9
+www.priceme.co.nz//1820,19.8
+www.priceme.co.nz//2021,24.0
+www.priceme.co.nz//1748,12.2
+www.priceme.co.nz//1898,14.0
+www.priceme.co.nz//1932,16.0
+www.priceme.co.nz//19,14.0
+www.priceme.co.nz//2308,19.8
+www.priceme.co.nz//1877,12.0
+www.priceme.co.nz//2037,12.0
+www.priceme.co.nz//2172,24.1
+www.priceme.co.nz//1924,15.9
+www.priceme.co.nz//1861,15.9
+www.priceme.co.nz//2060,14.0
+www.priceme.co.nz//1709,15.9
+www.priceme.co.nz//2125,10.0
+www.priceme.co.nz//1973,15.9
+www.priceme.co.nz//2349,17.9
+www.priceme.co.nz//58,18.0
+www.priceme.co.nz//1836,
+www.priceme.co.nz//100,15.9
+www.priceme.co.nz//1772,15.9
+www.priceme.co.nz//2332,12.2
+www.priceme.co.nz//2277,10.0
+www.priceme.co.nz//1908,15.9
+www.priceme.co.nz//2109,24.0
+www.priceme.co.nz//2365,
+www.priceme.co.nz//2220,24.0
+www.priceme.co.nz//1699,10.0
+www.priceme.co.nz//1733,24.0
+www.priceme.co.nz//1676,15.9
+www.priceme.co.nz//62,15.9
+www.priceme.co.nz//2373,14.2
+www.priceme.co.nz//2236,24.2
+www.priceme.co.nz//9,16.1
+www.priceme.co.nz//1949,
+www.priceme.co.nz//2148,8.1
+www.priceme.co.nz//1764,15.9
+www.priceme.co.nz//35,10.1
+www.priceme.co.nz//2324,18.0
+www.priceme.co.nz//2261,17.9

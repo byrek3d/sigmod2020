@@ -1,4 +1,4 @@
-spec_id,manufacturer,short description,megapixel,weight
+spec_id,manufacturer,short_descr,megapixels,weight
 www.ilgs.net//142,sony,"['detail', 'even', 'lowlight', 'wiht', '20x', 'optical', 'zoom', 'exmor', 'r™', 'cmos', 'sensor', '182mp', 'full', 'hd', 'intelligent', 'auto', 'wifi']",18.2,
 www.ilgs.net//98,fujifilm,"['12mp', '23', 'cmos', 'fullhd', '1920x108060p30p', 'wifi', '80211bgn', 'pictbridge', 'sdsdhcsdxc', 'usb', '20', 'microhdmi', '762', 'cm', '30', 'lcd', '920k', '206g']",12.0,187.0
 www.ilgs.net//77,canon,"['eos', '7d', 'efs', '1585mm', 'f3556', 'usm', '223mm', 'x', '149mm', 'cmos', '1800', 'megapixels', 'dual', 'digic', '4', '762', 'cm', '30', 'clear', 'view', 'ii', 'tft', 'compactflash']",18.0,820.0
