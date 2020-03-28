@@ -1,348 +1,348 @@
-spec_id,megapixels,page_title
-www.mypriceindia.com//50,8.9,"['panasonic', 'hc', 'v130', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//34,12.2,"['canon', 'eos', '1100d', 'efs', '1855', 'mm', 'ii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//47,14.0,"['panasonic', 'lumix', 'dmc', 'tz30', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//40,12.4,"['sony', 'alpha', 'ilce', '7s', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//726,16.2,"['samsung', 'st72', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//139,20.0,"['sony', 'cybershot', 'dsc', 'h400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//81,16.3,"['fujifilm', 'finepix', 'hs28exr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//42,15.0,"['nikon', 'd3100', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//166,16.0,"['canon', 'ixus', '265', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//59,20.2,"['canon', 'eos', '70d', 'efs', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//31,24.5,"['sony', 'hdr', 'pj820e', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//60,12.8,"['panasonic', 'hc', 'v750', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//796,18.2,"['sony', 'cybershot', 'dsc', 'hx10v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//73,12.0,"['nikon', '1', 'v1', '1030', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//170,24.7,"['nikon', 'd5200', 'afs', 'dx', 'nikkor', '18140mm', 'ed', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//682,16.1,"['panasonic', 'lumix', 'dmc', 'fh25', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//39,18.0,"['canon', 'eos', '100d', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//793,16.0,"['nikon', 'coolpix', 's2700', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//779,16.1,"['sony', 'alpha', 'slt', 'a57k', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//75,24.7,"['nikon', 'd5200', 'afs', 'dx', 'nikkor', '1855mm', '55300mm', 'ed', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//733,13.2,"['nikon', 'coolpix', 's02', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//772,14.3,"['panasonic', 'hx', 'dc3', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//737,20.1,"['nikon', 'coolpix', 's3500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//151,16.0,"['nikon', 'coolpix', 's9300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//4,14.1,"['panasonic', 'lumix', 'dmc', 's2', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//743,16.0,"['nikon', 'coolpix', 's9600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//69,16.1,"['panasonic', 'lumix', 'dmc', 'fp7', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//173,12.1,"['panasonic', 'lumix', 'dmc', 'gf5w', '14', 'mm', '1442', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//708,16.0,"['canon', 'powershot', 'a3400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//19,25.0,"['nikon', 'd5300', 'afs', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//215,16.0,"['nikon', 'coolpix', 's4200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//138,16.3,"['fujifilm', 'x100s', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//698,25.0,"['nikon', 'd5300', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//775,20.1,"['sony', 'alpha', 'a3000', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//583,20.2,"['sony', 'cybershot', 'dsc', 'rx100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//114,16.0,"['fujifilm', 'finepix', 'hs35', 'exr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//127,20.1,"['sony', 'alpha', 'slt', 'a58y', 'sal18552', 'sal', '552002', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//716,20.4,"['sony', 'ilce', '3500jy', 'sel1850', 'sel55210', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//175,20.1,"['nikon', 'coolpix', 'l28', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//741,16.1,"['sony', 'cybershot', 'dsc', 'w570', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//770,12.1,"['panasonic', 'lumix', 'dmc', 'f3', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//3,25.0,"['nikon', 'd3300', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//49,24.3,"['nikon', 'd600', 'afs', '2485', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//12,18.3,"['panasonic', 'lumix', 'dmc', 'g5w', '1442mm', '45150mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//140,20.2,"['canon', 'eos', '70d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//750,24.3,"['nikon', 'd610', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//52,36.4,"['sony', 'ilce', '7r', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//728,18.0,"['panasonic', 'lumix', 'dmc', 'tz40', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//87,,"['fujifilm', 'instax', 'mini', '50s', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//192,21.1,"['sony', 'cybershot', 'dschx60v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//98,12.1,"['canon', 'powershot', 'sx510', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//33,18.0,"['canon', 'eos', '1200d', '1855', 'ii', '55250', 'ii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//109,16.6,"['samsung', 'dv150f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//776,8.1,"['vivitar', 'dvr', '548hd', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//786,18.0,"['sony', 'cybershot', 'dsc', 'qx10', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//6,16.0,"['benq', 'ae220', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//141,14.1,"['panasonic', 'lumix', 'dmc', 'ls5', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//24,16.0,"['nikon', 'coolpix', 's800c', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//92,16.2,"['nikon', 'd5100', 'afs', '1855', 'mm', 'vr', 'afs', 'dx', 'vr', 'zoom', 'nikko', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//680,16.1,"['panasonic', 'lumix', 'dmc', 'lz30', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//725,18.0,"['canon', 'eos', '100d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//46,16.0,"['fujifilm', 'finepix', 'hs50', 'exr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//125,20.1,"['nikon', 'coolpix', 's3400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//206,12.1,"['canon', 'ixus', '255', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//722,12.1,"['panasonic', 'lumix', 'dmc', 'tz25', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//8,25.0,"['sony', 'alpha', 'a6000', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//163,14.0,"['fujifilm', 'finepix', 'jz100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//72,24.2,"['nikon', 'd3200', '18105', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//57,18.0,"['canon', 'eos', '1200d', 'af', '18200', 'mm', 'xr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//201,10.1,"['canon', 'ixus', '510', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//15,24.3,"['sony', 'cybershot', 'dsc', 'rx1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//16,25.0,"['nikon', 'd5300', 'afs', '18140', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//1,,"['fujifilm', 'instax', 'wide', '210', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//618,16.2,"['fujifilm', 'finepix', 'sl1000', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//95,10.0,"['fujifilm', 'finepix', 'l30', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//85,12.0,"['fujifilm', 'xq1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//89,9.2,"['sony', 'hdr', 'pj240e', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//713,15.0,"['canon', 'powershot', 'g1x', 'mark', '2', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//214,24.0,"['sony', 'dsc', 'rx1r', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//91,16.0,"['canon', 'powershot', 'a3500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//771,16.0,"['canon', 'powershot', 'sx600', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//172,12.1,"['canon', 'powershot', 'sx50', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//595,20.0,"['sony', 'cybershot', 'dsc', 'w800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//38,24.2,"['nikon', 'd3200', 'af', '18200', 'mm', 'xr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//88,16.2,"['pentax', 'gr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//56,16.1,"['nikon', 'coolpix', 'p530', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//13,18.0,"['canon', 'eos', '600d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//108,9.2,"['sony', 'hdr', 'pj340e', 'camcorder', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//769,24.2,"['nikon', 'd3200', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//143,16.1,"['kodak', 'pixpro', 'fz51', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//753,14.0,"['olympus', 'vr', '310', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//161,13.0,"['nikon', 'coolpix', 's32', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//693,20.2,"['canon', 'eos', '6d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//37,21.0,"['panasonic', 'lumix', 'dmc', 'lz40', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//113,12.0,"['fujifilm', 'finepix', 'x10', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//146,16.1,"['sony', 'cybershot', 'dsc', 'w710', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//196,12.3,"['fujifilm', 'finepix', 'x100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//132,16.2,"['nikon', 'd5100', '1855', 'mm', '35mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//706,9.2,"['sony', 'hdr', 'pj540e', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//27,18.0,"['canon', 'eos', '1200d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//145,20.0,"['canon', 'ixus', '155', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//162,18.1,"['nikon', 'coolpix', 'l620', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//178,17.0,"['canon', 'powershot', 'sx60', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//26,18.2,"['sony', 'cybershot', 'dsc', 'hx20v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//764,14.1,"['panasonic', 'lumix', 'dmc', 's3', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//70,12.1,"['panasonic', 'lumix', 'dmc', 'fx78', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//176,12.1,"['canon', 'powershot', 's110', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//106,12.1,"['panasonic', 'lumix', 'dmc', 'fh1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//704,16.1,"['panasonic', 'lumix', 'dmc', 's5', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//774,16.0,"['nikon', 'coolpix', 'l610', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//734,16.1,"['nikon', 'coolpix', 'l29', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//197,16.3,"['fujifilm', 'xm1', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//688,25.0,"['nikon', 'd7100', 'dslr', 'afs', '1685mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//160,14.0,"['fujifilm', 'finepix', 's4500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//41,20.0,"['sony', 'cybershot', 'dsc', 'rx10', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//65,18.1,"['nikon', 'coolpix', 'p520', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//690,21.1,"['sony', 'cybershot', 'dsc', 'hx400v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//126,37.0,"['nikon', 'd800e', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//763,18.0,"['canon', 'eos', '7d', 'efs', '1585', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//7,18.0,"['canon', 'eos', '1200d', 'efs', '1855', 'mm', '2', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//25,12.3,"['nikon', 'd300s', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//76,16.0,"['olympus', 'sz16', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//785,16.0,"['canon', 'ixus', '140', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//128,16.0,"['canon', 'powershot', 'sx160', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//186,20.4,"['sony', 'cybershot', 'dsc', 'hx300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//780,20.1,"['sony', 'cybershot', 'dsc', 'h300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//742,16.1,"['panasonic', 'lumix', 'dmc', 'fh5', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//62,25.0,"['nikon', 'd7100', 'afs', '18105', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//66,19.0,"['canon', 'eos', '60d', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//181,20.2,"['canon', 'eos', '70d', 'efs', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//788,16.1,"['panasonic', 'lumix', 'dmc', 'gh3h', '14140', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//79,14.1,"['panasonic', 'lumix', 'dmc', 'f5', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//183,16.1,"['samsung', 'es99', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//208,,"['fujifilm', 'instax', 'mini', '7s', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//744,12.3,"['nikon', 'd90', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//78,14.0,"['fujifilm', 'finepix', 'jz700', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//150,10.1,"['canon', 'powershot', 's200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//2,12.0,"['fujifilm', 'finepix', 'x20', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//157,18.2,"['sony', 'cybershot', 'dsc', 'wx200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//768,16.2,"['sony', 'cybershot', 'dsc', 'wx60', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//148,20.1,"['nikon', 'coolpix', 's2800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//105,25.0,"['nikon', 'd7100', 'afs', '18140', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//9,5.0,"['wespro', 'dv540', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//758,18.0,"['canon', 'eos', '700d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//136,16.0,"['canon', 'powershot', 'ixus', '145', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//782,16.0,"['canon', 'powershot', 'a2500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//156,18.0,"['canon', 'eos', '600d', 'efs', '1855', 'mm', 'ii', 'tamron', 'af', '70300', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//104,20.2,"['sony', 'cybershot', 'dsc', 'rx100', 'ii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//719,16.0,"['nikon', 'coolpix', 's5300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//732,15.0,"['nikon', 'd3100', '1855', 'mm', '55200', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//735,20.2,"['nikon', 'coolpix', 'l330', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//212,7.6,"['panasonic', 'hdc', 'tm900', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//762,20.1,"['nikon', 'coolpix', 's4400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//593,24.7,"['nikon', 'd5200', 'afs', '1855', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//213,17.0,"['nikon', 'd7000', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//32,12.0,"['fujifilm', 'finepix', 'xs1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//765,16.0,"['nikon', 'coolpix', 's100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//723,16.0,"['nikon', 'coolpix', 'aw110', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//67,25.0,"['nikon', 'd3300', '1855', 'mm', '55200', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//121,18.0,"['canon', 'eos', '7d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//177,16.0,"['olympus', 'stylus', 'tg3', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//798,16.0,"['nikon', 'coolpix', 's4300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//10,17.0,"['nikon', 'd4s', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//781,20.4,"['sony', 'ilce', '3500j', '1850', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//135,16.2,"['nikon', 'coolpix', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//154,14.2,"['samsung', 'wb250f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//795,12.1,"['panasonic', 'lumix', 'dmc', 'fx80', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//710,24.2,"['nikon', 'd3200', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//740,16.0,"['nikon', 'coolpix', 's5200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//773,19.0,"['canon', 'eos', '60d', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//147,20.1,"['sony', 'cybershot', 'dsc', 'w810', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//738,25.0,"['sony', 'alpha', 'a6000', '1650', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//180,24.9,"['nikon', 'd750', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//692,18.0,"['canon', 'eos', '1200d', 'efs', '1855', 'mm', 'iii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//747,24.2,"['nikon', 'd3200', 'afs', '1855', 'mm', 'vr', 'afs', '35mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//48,16.3,"['fujifilm', 'xe1', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//691,10.0,"['panasonic', 'hc', 'v250', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//101,17.0,"['fujifilm', 'x', 'e2', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//111,17.0,"['nikon', 'df', 'afs', '50mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//191,19.0,"['canon', 'eos', '60d', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//14,18.3,"['panasonic', 'lumix', 'dmc', 'g5k', '1442', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//116,16.2,"['fujifilm', 'finepix', 's6800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//683,24.2,"['nikon', 'd3200', 'afs', '1855', 'mm', 'vr', 'tamron', 'a17', 'af', '70300', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//167,18.0,"['canon', 'eos', 'efm', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//702,16.0,"['nikon', 'coolpix', 's6500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//686,16.2,"['nikon', 'd5100', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//93,16.0,"['olympus', 'sh25mr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//131,7.1,"['sony', 'dcr', 'sd1000e', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//149,16.1,"['nikon', 'coolpix', 'p600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//30,16.0,"['canon', 'powershot', 'a2600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//709,24.3,"['sony', 'alpha', 'slt', 'a65vk', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//110,2.6,"['sony', 'hxr', 'mc1500p', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//84,16.8,"['canon', 'powershot', 'sx520', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//55,16.0,"['fujifilm', 'finepix', 'f660exr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//749,,"['canon', 'eos', '6d', '2470', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//82,16.0,"['nikon', 'coolpix', 'l820', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//29,17.0,"['pentax', 'k500', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//94,,"['nikon', 'coolpix', 's9700', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//35,17.0,"['nikon', 'd7000', '18105', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//74,16.0,"['nikon', 'coolpix', 'aw120', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//118,16.1,"['panasonic', 'lumix', 'dmc', 'sz3', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//711,16.0,"['canon', 'powershot', 'sx170', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//169,24.0,"['sony', 'nex', 'vg900', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//797,17.0,"['pentax', 'k50', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//211,20.1,"['sony', 'ilce', '3000k', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//28,12.0,"['fujifilm', 'finepix', 'xf1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//736,15.0,"['nikon', 'd3100', 'afs', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//209,24.7,"['nikon', 'd5200', '1855', 'mm', '55200', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//714,24.2,"['nikon', 'd3200', 'afs', '1855', 'mm', 'vr', 'afs', '50mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//194,20.4,"['sony', 'cybershot', 'dsc', 'hx50v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//68,16.1,"['samsung', 'es95', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//649,14.0,"['fujifilm', 'finepix', 's2980', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//100,18.1,"['canon', 'eos', '1dx', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//681,18.0,"['nikon', 'coolpix', 's9400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//153,12.2,"['nikon', 'coolpix', 'p330', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//699,16.2,"['nikon', 'd5100', 'afs', '1855', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//718,16.2,"['nikon', 'd5100', '1855', 'mm', '50mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//129,20.1,"['sony', 'alpha', 'ilce', 'a5000', '1650mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//120,25.0,"['sony', 'slt', 'a99', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//142,20.1,"['nikon', 'coolpix', 'l30', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//696,10.1,"['nikon', '1', 'j1', '1030', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//712,15.0,"['nikon', 'd3100', 'afs', '1855', 'mm', 'vr', 'afs', '50mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//115,,"['fujifilm', 'instax', 'mini', '8', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//179,16.0,"['nikon', 'coolpix', 's6800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//701,18.0,"['nikon', 'coolpix', 's9500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//715,16.0,"['canon', 'hs', 'sx700', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//45,20.1,"['nikon', 'coolpix', 's3600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//119,,"['sony', 'hvr', 'hd1000p', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//199,21.0,"['sony', 'cybershot', 'dsc', 'rx100', 'iii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//96,24.3,"['sony', 'ilca', '77m2q', '1650', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//99,12.2,"['nikon', 'coolpix', 'p7800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//755,2.5,"['panasonic', 'hc', 'v520', 'live', 'streaming', 'hd', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//205,12.1,"['nikon', 'coolpix', 's9100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//676,16.0,"['nikon', 'coolpix', 'l830', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//17,16.0,"['olympus', 'sp620uz', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//124,16.1,"['sony', 'nex', 'vg30', 'interchangeable', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//700,16.2,"['nikon', 'd5100', '1855', 'mm', '55200', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//748,14.1,"['panasonic', 'lumix', 'dmc', 'sz7', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//198,38.2,"['panasonic', 'hc', 'x920', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//171,18.2,"['sony', 'cybershot', 'wx350', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//739,16.0,"['canon', 'powershot', 'a4000', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//202,13.0,"['pentax', 'mx1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//123,14.2,"['samsung', 'wb200f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//684,12.0,"['nikon', 'coolpix', 'p340', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//5,20.1,"['sony', 'alpha', 'slt', 'a58k', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//21,14.1,"['panasonic', 'lumix', 'dmc', 'fh4', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//152,16.0,"['nikon', 'coolpix', 's6400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//724,22.3,"['canon', 'eos', '5d', 'mark', 'iii', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//51,16.1,"['nikon', 'coolpix', 'l320', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//174,16.3,"['samsung', 'wb350f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//760,16.0,"['olympus', 'vg190', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//787,12.8,"['panasonic', 'lumix', 'dmc', 'fz200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//731,24.7,"['sony', 'slt', 'a99v', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//58,20.9,"['sony', 'fdr', 'ax100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//685,26.0,"['nikon', 'd3x', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//130,16.0,"['olympus', 'vg180', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//77,16.1,"['sony', 'alpha', 'nex', '6', '1650', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//200,9.2,"['sony', 'hdr', 'cx240e', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//777,13.0,"['pentax', 'q7', '515', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//193,37.0,"['nikon', 'd810', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//185,16.9,"['olympus', 'omd', 'em5', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//586,18.0,"['canon', 'eos', '600d', 'efs', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//694,10.1,"['panasonic', 'lumix', 'dmc', 'lx7', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//112,12.2,"['canon', 'eos', '1100d', 'efs', '1855', 'mm', 'ii', 'efs', '55250mm', 'ii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//22,20.4,"['sony', 'alpha', 'ilce', '5000y', 'selp', '1650mm', 'sel', '55210mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//107,14.0,"['olympus', 'vh520', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//754,24.3,"['nikon', 'd600', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//137,16.1,"['samsung', 'mv800', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//158,16.0,"['nikon', 'coolpix', 's3300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//23,19.0,"['canon', 'eos', '60d', '18200', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//44,16.0,"['canon', 'ixus', '132', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//767,17.0,"['panasonic', 'lumix', 'dmc', 'fz70', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//203,20.0,"['sony', 'cybershot', 'dsc', 'qx100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//86,20.1,"['sony', 'cybershot', 'dsc', 'w830', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//721,16.1,"['kodak', 'pixpro', 'fz151', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//761,20.5,"['samsung', 'nx', 'mini', 'nxm', '9mm', 'f35', 'ed', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//97,16.0,"['pentax', 'x5', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//792,16.0,"['canon', 'ixus', '135', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//687,16.0,"['canon', 'powershot', 'a2400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//0,12.0,"['fujifilm', 'finepix', 'z70', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//103,24.7,"['nikon', 'd5200', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//695,16.1,"['panasonic', 'lumix', 'dmc', 'fh7', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//184,16.0,"['nikon', 'coolpix', 's6600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//102,18.0,"['canon', 'eos', '700d', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//182,24.7,"['sony', 'ilca', '77m2', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//190,17.0,"['canon', 'powershot', 'sx400', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//766,12.1,"['nikon', 'coolpix', 's8100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//165,16.2,"['sony', 'cybershot', 'dsc', 'wx80', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//144,24.7,"['nikon', 'd5200', 'afs', '18105', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//730,24.3,"['nikon', 'd610', 'afs', '2485', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//727,16.0,"['nikon', 'coolpix', 's6150', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//63,37.0,"['nikon', 'd800', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//791,15.0,"['nikon', 'd3100', 'afs', '1855', 'mm', 'vr', 'afs', '35mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//36,16.1,"['sony', 'cybershot', 'dsc', 'w730', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//20,14.0,"['nikon', 'coolpix', 's2600', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//717,18.0,"['canon', 'eos', '7d', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//133,,"['fujifilm', 'instax', 'mini', '25', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//720,18.0,"['canon', 'eos', '600d', 'efs', '1855', 'mm', 'ii', 'efs', '55250mm', 'ii', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//679,14.0,"['pentax', 'wg', '10', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//61,16.1,"['panasonic', 'lumix', 'dmc', 'xs1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//54,24.7,"['sony', 'digital', 'e', 'mount', 'ilce', '7k', 'sel', '2870', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//677,25.0,"['nikon', 'd7100', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//790,16.7,"['sony', 'nex', '5t', '1650mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//134,18.0,"['canon', 'eos', '600d', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//90,16.0,"['nikon', 'coolpix', 's9200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//689,16.1,"['panasonic', 'lumix', 'dmc', 'sz1', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//707,14.2,"['samsung', 'es90', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//756,16.9,"['olympus', 'omd', 'em5', '1250', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//189,16.1,"['nikon', 'coolpix', 'l27', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//83,14.0,"['fujifilm', 'finepix', 'sl300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//53,14.0,"['fujifilm', 'finepix', 't200', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//757,14.1,"['nikon', 'coolpix', 's1100pj', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//122,22.3,"['canon', 'eos', '5d', 'mark', 'iii', 'ef', '24105', 'mm', 'f4l', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//195,14.2,"['samsung', 'wb150f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//187,10.1,"['nikon', 'coolpix', 's01', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//759,12.0,"['nikon', '1', 'v1', '1030', 'mm', '30110', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//155,12.3,"['nikon', 'd90', '18105', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//751,16.2,"['samsung', 'wb30f', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//789,16.3,"['samsung', 'galaxy', 'gc100', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//159,16.2,"['nikon', 'd4', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//80,20.1,"['nikon', 'coolpix', 's6700', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//71,16.6,"['panasonic', 'lumix', 'dmc', 'g3w', '1442', 'mm', '45200', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//43,16.3,"['fujifilm', 'xpro1', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//703,18.2,"['sony', 'cybershot', 'dsc', 'wx300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//11,18.9,"['sony', 'cybershot', 'dsc', 'wx220', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//752,16.4,"['pentax', 'ricoh', 'hz15', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//164,16.3,"['fujifilm', 'xm1', '1650', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//705,10.1,"['nikon', '1', 'j1', '1030', 'mm', '30110', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//210,16.1,"['sony', 'nex', 'vg30eh', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//18,25.0,"['nikon', 'd5300', '1855', '50mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//745,24.7,"['sony', 'alpha', 'ilca', '77m2', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//594,20.2,"['canon', 'eos', '6d', '24105mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//675,16.8,"['olympus', 'stylus', 'tg850', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//117,16.0,"['fujifilm', 'finepix', 's8500', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//746,24.7,"['sony', 'alpha', 'ilce', '7', 'body', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//783,17.0,"['pentax', 'k50', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//596,20.1,"['sony', 'alpha', 'slt', 'a58m', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//168,16.0,"['olympus', 'sh50', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//188,16.1,"['canon', 'ixus', '125', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//697,18.0,"['canon', 'eos', '1200d', '1855', 'mm', '55250', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//729,12.1,"['canon', 'powershot', 'g16', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//204,12.1,"['canon', 'powershot', 'sx260', 'hs', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//64,18.0,"['canon', 'eos', '700d', '18135', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//778,16.5,"['sony', 'alpha', 'slt', 'a35k', '1855', 'mm', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//628,14.0,"['fujifilm', 'finepix', 's3300', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//585,25.0,"['nikon', 'd3300', 'afs', '1855', 'mm', 'vr', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
-www.mypriceindia.com//207,11.9,"['sony', 'hdr', 'as30v', 'price', 'india', 'bangalore', 'hyderabad', 'delhi', 'chennai', 'mumbai', 'pune', 'kolkatta']"
+spec_id,megapixels
+www.mypriceindia.com//50,8.9
+www.mypriceindia.com//34,12.2
+www.mypriceindia.com//47,14.0
+www.mypriceindia.com//40,12.4
+www.mypriceindia.com//726,16.2
+www.mypriceindia.com//139,20.0
+www.mypriceindia.com//81,16.3
+www.mypriceindia.com//42,15.0
+www.mypriceindia.com//166,16.0
+www.mypriceindia.com//59,20.2
+www.mypriceindia.com//31,24.5
+www.mypriceindia.com//60,12.8
+www.mypriceindia.com//796,18.2
+www.mypriceindia.com//73,12.0
+www.mypriceindia.com//170,24.7
+www.mypriceindia.com//682,16.1
+www.mypriceindia.com//39,18.0
+www.mypriceindia.com//793,16.0
+www.mypriceindia.com//779,16.1
+www.mypriceindia.com//75,24.7
+www.mypriceindia.com//733,13.2
+www.mypriceindia.com//772,14.3
+www.mypriceindia.com//737,20.1
+www.mypriceindia.com//151,16.0
+www.mypriceindia.com//4,14.1
+www.mypriceindia.com//743,16.0
+www.mypriceindia.com//69,16.1
+www.mypriceindia.com//173,12.1
+www.mypriceindia.com//708,16.0
+www.mypriceindia.com//19,25.0
+www.mypriceindia.com//215,16.0
+www.mypriceindia.com//138,16.3
+www.mypriceindia.com//698,25.0
+www.mypriceindia.com//775,20.1
+www.mypriceindia.com//583,20.2
+www.mypriceindia.com//114,16.0
+www.mypriceindia.com//127,20.1
+www.mypriceindia.com//716,20.4
+www.mypriceindia.com//175,20.1
+www.mypriceindia.com//741,16.1
+www.mypriceindia.com//770,12.1
+www.mypriceindia.com//3,25.0
+www.mypriceindia.com//49,24.3
+www.mypriceindia.com//12,18.3
+www.mypriceindia.com//140,20.2
+www.mypriceindia.com//750,24.3
+www.mypriceindia.com//52,36.4
+www.mypriceindia.com//728,18.0
+www.mypriceindia.com//87,
+www.mypriceindia.com//192,21.1
+www.mypriceindia.com//98,12.1
+www.mypriceindia.com//33,18.0
+www.mypriceindia.com//109,16.6
+www.mypriceindia.com//776,8.1
+www.mypriceindia.com//786,18.0
+www.mypriceindia.com//6,16.0
+www.mypriceindia.com//141,14.1
+www.mypriceindia.com//24,16.0
+www.mypriceindia.com//92,16.2
+www.mypriceindia.com//680,16.1
+www.mypriceindia.com//725,18.0
+www.mypriceindia.com//46,16.0
+www.mypriceindia.com//125,20.1
+www.mypriceindia.com//206,12.1
+www.mypriceindia.com//722,12.1
+www.mypriceindia.com//8,25.0
+www.mypriceindia.com//163,14.0
+www.mypriceindia.com//72,24.2
+www.mypriceindia.com//57,18.0
+www.mypriceindia.com//201,10.1
+www.mypriceindia.com//15,24.3
+www.mypriceindia.com//16,25.0
+www.mypriceindia.com//1,
+www.mypriceindia.com//618,16.2
+www.mypriceindia.com//95,10.0
+www.mypriceindia.com//85,12.0
+www.mypriceindia.com//89,9.2
+www.mypriceindia.com//713,15.0
+www.mypriceindia.com//214,24.0
+www.mypriceindia.com//91,16.0
+www.mypriceindia.com//771,16.0
+www.mypriceindia.com//172,12.1
+www.mypriceindia.com//595,20.0
+www.mypriceindia.com//38,24.2
+www.mypriceindia.com//88,16.2
+www.mypriceindia.com//56,16.1
+www.mypriceindia.com//13,18.0
+www.mypriceindia.com//108,9.2
+www.mypriceindia.com//769,24.2
+www.mypriceindia.com//143,16.1
+www.mypriceindia.com//753,14.0
+www.mypriceindia.com//161,13.0
+www.mypriceindia.com//693,20.2
+www.mypriceindia.com//37,21.0
+www.mypriceindia.com//113,12.0
+www.mypriceindia.com//146,16.1
+www.mypriceindia.com//196,12.3
+www.mypriceindia.com//132,16.2
+www.mypriceindia.com//706,9.2
+www.mypriceindia.com//27,18.0
+www.mypriceindia.com//145,20.0
+www.mypriceindia.com//162,18.1
+www.mypriceindia.com//178,17.0
+www.mypriceindia.com//26,18.2
+www.mypriceindia.com//764,14.1
+www.mypriceindia.com//70,12.1
+www.mypriceindia.com//176,12.1
+www.mypriceindia.com//106,12.1
+www.mypriceindia.com//704,16.1
+www.mypriceindia.com//774,16.0
+www.mypriceindia.com//734,16.1
+www.mypriceindia.com//197,16.3
+www.mypriceindia.com//688,25.0
+www.mypriceindia.com//160,14.0
+www.mypriceindia.com//41,20.0
+www.mypriceindia.com//65,18.1
+www.mypriceindia.com//690,21.1
+www.mypriceindia.com//126,37.0
+www.mypriceindia.com//763,18.0
+www.mypriceindia.com//7,18.0
+www.mypriceindia.com//25,12.3
+www.mypriceindia.com//76,16.0
+www.mypriceindia.com//785,16.0
+www.mypriceindia.com//128,16.0
+www.mypriceindia.com//186,20.4
+www.mypriceindia.com//780,20.1
+www.mypriceindia.com//742,16.1
+www.mypriceindia.com//62,25.0
+www.mypriceindia.com//66,19.0
+www.mypriceindia.com//181,20.2
+www.mypriceindia.com//788,16.1
+www.mypriceindia.com//79,14.1
+www.mypriceindia.com//183,16.1
+www.mypriceindia.com//208,
+www.mypriceindia.com//744,12.3
+www.mypriceindia.com//78,14.0
+www.mypriceindia.com//150,10.1
+www.mypriceindia.com//2,12.0
+www.mypriceindia.com//157,18.2
+www.mypriceindia.com//768,16.2
+www.mypriceindia.com//148,20.1
+www.mypriceindia.com//105,25.0
+www.mypriceindia.com//9,5.0
+www.mypriceindia.com//758,18.0
+www.mypriceindia.com//136,16.0
+www.mypriceindia.com//782,16.0
+www.mypriceindia.com//156,18.0
+www.mypriceindia.com//104,20.2
+www.mypriceindia.com//719,16.0
+www.mypriceindia.com//732,15.0
+www.mypriceindia.com//735,20.2
+www.mypriceindia.com//212,7.6
+www.mypriceindia.com//762,20.1
+www.mypriceindia.com//593,24.7
+www.mypriceindia.com//213,17.0
+www.mypriceindia.com//32,12.0
+www.mypriceindia.com//765,16.0
+www.mypriceindia.com//723,16.0
+www.mypriceindia.com//67,25.0
+www.mypriceindia.com//121,18.0
+www.mypriceindia.com//177,16.0
+www.mypriceindia.com//798,16.0
+www.mypriceindia.com//10,17.0
+www.mypriceindia.com//781,20.4
+www.mypriceindia.com//135,16.2
+www.mypriceindia.com//154,14.2
+www.mypriceindia.com//795,12.1
+www.mypriceindia.com//710,24.2
+www.mypriceindia.com//740,16.0
+www.mypriceindia.com//773,19.0
+www.mypriceindia.com//147,20.1
+www.mypriceindia.com//738,25.0
+www.mypriceindia.com//180,24.9
+www.mypriceindia.com//692,18.0
+www.mypriceindia.com//747,24.2
+www.mypriceindia.com//48,16.3
+www.mypriceindia.com//691,10.0
+www.mypriceindia.com//101,17.0
+www.mypriceindia.com//111,17.0
+www.mypriceindia.com//191,19.0
+www.mypriceindia.com//14,18.3
+www.mypriceindia.com//116,16.2
+www.mypriceindia.com//683,24.2
+www.mypriceindia.com//167,18.0
+www.mypriceindia.com//702,16.0
+www.mypriceindia.com//686,16.2
+www.mypriceindia.com//93,16.0
+www.mypriceindia.com//131,7.1
+www.mypriceindia.com//149,16.1
+www.mypriceindia.com//30,16.0
+www.mypriceindia.com//709,24.3
+www.mypriceindia.com//110,2.6
+www.mypriceindia.com//84,16.8
+www.mypriceindia.com//55,16.0
+www.mypriceindia.com//749,
+www.mypriceindia.com//82,16.0
+www.mypriceindia.com//29,17.0
+www.mypriceindia.com//94,
+www.mypriceindia.com//35,17.0
+www.mypriceindia.com//74,16.0
+www.mypriceindia.com//118,16.1
+www.mypriceindia.com//711,16.0
+www.mypriceindia.com//169,24.0
+www.mypriceindia.com//797,17.0
+www.mypriceindia.com//211,20.1
+www.mypriceindia.com//28,12.0
+www.mypriceindia.com//736,15.0
+www.mypriceindia.com//209,24.7
+www.mypriceindia.com//714,24.2
+www.mypriceindia.com//194,20.4
+www.mypriceindia.com//68,16.1
+www.mypriceindia.com//649,14.0
+www.mypriceindia.com//100,18.1
+www.mypriceindia.com//681,18.0
+www.mypriceindia.com//153,12.2
+www.mypriceindia.com//699,16.2
+www.mypriceindia.com//718,16.2
+www.mypriceindia.com//129,20.1
+www.mypriceindia.com//120,25.0
+www.mypriceindia.com//142,20.1
+www.mypriceindia.com//696,10.1
+www.mypriceindia.com//712,15.0
+www.mypriceindia.com//115,
+www.mypriceindia.com//179,16.0
+www.mypriceindia.com//701,18.0
+www.mypriceindia.com//715,16.0
+www.mypriceindia.com//45,20.1
+www.mypriceindia.com//119,
+www.mypriceindia.com//199,21.0
+www.mypriceindia.com//96,24.3
+www.mypriceindia.com//99,12.2
+www.mypriceindia.com//755,2.5
+www.mypriceindia.com//205,12.1
+www.mypriceindia.com//676,16.0
+www.mypriceindia.com//17,16.0
+www.mypriceindia.com//124,16.1
+www.mypriceindia.com//700,16.2
+www.mypriceindia.com//748,14.1
+www.mypriceindia.com//198,38.2
+www.mypriceindia.com//171,18.2
+www.mypriceindia.com//739,16.0
+www.mypriceindia.com//202,13.0
+www.mypriceindia.com//123,14.2
+www.mypriceindia.com//684,12.0
+www.mypriceindia.com//5,20.1
+www.mypriceindia.com//21,14.1
+www.mypriceindia.com//152,16.0
+www.mypriceindia.com//724,22.3
+www.mypriceindia.com//51,16.1
+www.mypriceindia.com//174,16.3
+www.mypriceindia.com//760,16.0
+www.mypriceindia.com//787,12.8
+www.mypriceindia.com//731,24.7
+www.mypriceindia.com//58,20.9
+www.mypriceindia.com//685,26.0
+www.mypriceindia.com//130,16.0
+www.mypriceindia.com//77,16.1
+www.mypriceindia.com//200,9.2
+www.mypriceindia.com//777,13.0
+www.mypriceindia.com//193,37.0
+www.mypriceindia.com//185,16.9
+www.mypriceindia.com//586,18.0
+www.mypriceindia.com//694,10.1
+www.mypriceindia.com//112,12.2
+www.mypriceindia.com//22,20.4
+www.mypriceindia.com//107,14.0
+www.mypriceindia.com//754,24.3
+www.mypriceindia.com//137,16.1
+www.mypriceindia.com//158,16.0
+www.mypriceindia.com//23,19.0
+www.mypriceindia.com//44,16.0
+www.mypriceindia.com//767,17.0
+www.mypriceindia.com//203,20.0
+www.mypriceindia.com//86,20.1
+www.mypriceindia.com//721,16.1
+www.mypriceindia.com//761,20.5
+www.mypriceindia.com//97,16.0
+www.mypriceindia.com//792,16.0
+www.mypriceindia.com//687,16.0
+www.mypriceindia.com//0,12.0
+www.mypriceindia.com//103,24.7
+www.mypriceindia.com//695,16.1
+www.mypriceindia.com//184,16.0
+www.mypriceindia.com//102,18.0
+www.mypriceindia.com//182,24.7
+www.mypriceindia.com//190,17.0
+www.mypriceindia.com//766,12.1
+www.mypriceindia.com//165,16.2
+www.mypriceindia.com//144,24.7
+www.mypriceindia.com//730,24.3
+www.mypriceindia.com//727,16.0
+www.mypriceindia.com//63,37.0
+www.mypriceindia.com//791,15.0
+www.mypriceindia.com//36,16.1
+www.mypriceindia.com//20,14.0
+www.mypriceindia.com//717,18.0
+www.mypriceindia.com//133,
+www.mypriceindia.com//720,18.0
+www.mypriceindia.com//679,14.0
+www.mypriceindia.com//61,16.1
+www.mypriceindia.com//54,24.7
+www.mypriceindia.com//677,25.0
+www.mypriceindia.com//790,16.7
+www.mypriceindia.com//134,18.0
+www.mypriceindia.com//90,16.0
+www.mypriceindia.com//689,16.1
+www.mypriceindia.com//707,14.2
+www.mypriceindia.com//756,16.9
+www.mypriceindia.com//189,16.1
+www.mypriceindia.com//83,14.0
+www.mypriceindia.com//53,14.0
+www.mypriceindia.com//757,14.1
+www.mypriceindia.com//122,22.3
+www.mypriceindia.com//195,14.2
+www.mypriceindia.com//187,10.1
+www.mypriceindia.com//759,12.0
+www.mypriceindia.com//155,12.3
+www.mypriceindia.com//751,16.2
+www.mypriceindia.com//789,16.3
+www.mypriceindia.com//159,16.2
+www.mypriceindia.com//80,20.1
+www.mypriceindia.com//71,16.6
+www.mypriceindia.com//43,16.3
+www.mypriceindia.com//703,18.2
+www.mypriceindia.com//11,18.9
+www.mypriceindia.com//752,16.4
+www.mypriceindia.com//164,16.3
+www.mypriceindia.com//705,10.1
+www.mypriceindia.com//210,16.1
+www.mypriceindia.com//18,25.0
+www.mypriceindia.com//745,24.7
+www.mypriceindia.com//594,20.2
+www.mypriceindia.com//675,16.8
+www.mypriceindia.com//117,16.0
+www.mypriceindia.com//746,24.7
+www.mypriceindia.com//783,17.0
+www.mypriceindia.com//596,20.1
+www.mypriceindia.com//168,16.0
+www.mypriceindia.com//188,16.1
+www.mypriceindia.com//697,18.0
+www.mypriceindia.com//729,12.1
+www.mypriceindia.com//204,12.1
+www.mypriceindia.com//64,18.0
+www.mypriceindia.com//778,16.5
+www.mypriceindia.com//628,14.0
+www.mypriceindia.com//585,25.0
+www.mypriceindia.com//207,11.9
